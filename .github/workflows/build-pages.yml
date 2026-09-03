@@ -20,7 +20,7 @@ concurrency:
 jobs:
   build:
     # Skip when this run was only the cache-sync commit pushed by the job itself.
-    if: ${{ !contains(github.event.head_commit.message, 'chore: update link preview cache') }}
+    if: "${{ !contains(github.event.head_commit.message, 'chore: update link preview cache') }}"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -57,3 +57,4 @@ jobs:
           publish_branch: gh-pages
           force_orphan: true
           enable_jekyll: false
+
