@@ -1,0 +1,59 @@
+name: build-and-deploy
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'source/**'
+      - 'build.py'
+      - 'web/**'
+      - '.github/workflows/build-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # Skip when this run was only the cache-sync commit pushed by the job itself.
+    if: ${{ !contains(github.event.head_commit.message, 'chore: update link preview cache') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet requests beautifulsoup4
+
+      - name: Build site
+        run: python build.py --out _site
+
+      - name: Commit updated link preview cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source/previews_cache.json
+          if git diff --cached --quiet; then
+            echo "No preview cache changes"
+          else
+            git commit -m "chore: update link preview cache"
+            git push origin main
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          force_orphan: true
+          enable_jekyll: false
