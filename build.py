@@ -38,9 +38,11 @@ UA = ("Mozilla/5.0 (compatible; shwars-channel-site/1.0; "
 
 CHANNELS = [
     {"key": "cloud-advocate", "label": "Облачный адвокат",
-     "dir": "cloud-advocate", "id": "channel1488671565", "prefix": "ca"},
+     "dir": "cloud-advocate", "id": "channel1488671565", "prefix": "ca",
+     "chat_id": "1439200994"},
     {"key": "curated-life", "label": "Курированная жизнь",
-     "dir": "curated-life", "id": "channel2884425554", "prefix": "cl"},
+     "dir": "curated-life", "id": "channel2884425554", "prefix": "cl",
+     "chat_id": "2661977113"},
 ]
 
 MEDIA_DIRS = ["photos", "video_files", "round_video_messages", "files", "stickers"]
@@ -339,6 +341,7 @@ def build_channel(channel):
         rec["key"] = "%s-%d" % (channel["key"], mid)
         rec["channel"] = channel["key"]
         rec["id"] = "%s%d" % (channel["prefix"], mid)
+        rec["tg"] = "https://t.me/c/%s/%d" % (channel["chat_id"], mid)
 
         all_media = []
         for g in group:

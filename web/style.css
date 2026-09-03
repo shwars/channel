@@ -197,13 +197,15 @@ a:hover { text-decoration: underline; }
   box-shadow: 0 0 0 3px rgba(47,95,208,.14);
 }
 
-/* Permalink icon */
-.plink {
-  margin-left: auto; display: inline-flex; align-items: center; justify-content: center;
-  width: 28px; height: 28px; color: var(--muted); border-radius: 7px; flex: none;
+/* Card header actions (Telegram + permalink) */
+.head-actions { margin-left: auto; display: inline-flex; align-items: center; gap: 2px; flex: none; }
+.tg-link, .plink {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; color: var(--muted); border-radius: 7px;
 }
+.tg-link:hover { color: #2aabee; background: var(--bg); }
 .plink:hover { color: var(--link); background: var(--bg); }
-.plink svg { width: 16px; height: 16px; }
+.tg-link svg, .plink svg { width: 16px; height: 16px; }
 
 /* Grouped album media grid */
 .media.grid {

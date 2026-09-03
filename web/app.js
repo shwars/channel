@@ -12,6 +12,7 @@
   var searchInput = document.getElementById("search");
 
   var LINK_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>';
+  var TG_ICON = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>';
 
   function fmtDate(ts) {
     if (!ts) return "";
@@ -179,6 +180,18 @@
     return toggle;
   }
 
+  function renderTelegram(post) {
+    var a = document.createElement("a");
+    a.className = "tg-link";
+    a.href = post.tg || "#";
+    a.title = "Открыть пост в Telegram";
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.setAttribute("aria-label", "Открыть пост в Telegram");
+    a.innerHTML = TG_ICON;
+    return a;
+  }
+
   function renderPermalink(post) {
     var a = document.createElement("a");
     a.className = "plink";
@@ -202,7 +215,10 @@
     head.appendChild(el("span", "ch-tag " + post.channel, ch ? ch.label : post.channel));
     head.appendChild(el("span", "card-date", fmtDate(post.ts)));
     if (post.edited_ts) head.appendChild(el("span", "edited", "(изм.)"));
-    head.appendChild(renderPermalink(post));
+    var actions = el("div", "head-actions");
+    actions.appendChild(renderTelegram(post));
+    actions.appendChild(renderPermalink(post));
+    head.appendChild(actions);
     card.appendChild(head);
 
     var body = el("div", "card-body");
@@ -322,9 +338,19 @@
   function focusCard(key) {
     var node = document.getElementById("post-" + key);
     if (!node) return;
-    node.scrollIntoView({ block: "center", behavior: "smooth" });
     node.classList.add("flash");
-    setTimeout(function () { node.classList.remove("flash"); }, 2600);
+    setTimeout(function () { node.classList.remove("flash"); }, 3200);
+    // Eagerly load this card's images so layout stops shifting.
+    node.querySelectorAll("img").forEach(function (im) { im.loading = "eager"; });
+    var recenter = function (instant) {
+      if (!document.body.contains(node)) return;
+      node.scrollIntoView({ block: "center", behavior: instant ? "auto" : "smooth" });
+    };
+    recenter(false);
+    [250, 700, 1500].forEach(function (ms) {
+      setTimeout(function () { recenter(true); }, ms);
+    });
+    window.addEventListener("load", function () { recenter(true); }, { once: true });
   }
 
   function goToPost(post) {
@@ -450,3 +476,4 @@
 
   init();
 })();
+
