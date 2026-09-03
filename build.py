@@ -38,13 +38,14 @@ UA = ("Mozilla/5.0 (compatible; shwars-channel-site/1.0; "
 
 CHANNELS = [
     {"key": "cloud-advocate", "label": "Облачный адвокат",
-     "dir": "cloud-advocate", "id": "channel1488671565"},
+     "dir": "cloud-advocate", "id": "channel1488671565", "prefix": "ca"},
     {"key": "curated-life", "label": "Курированная жизнь",
-     "dir": "curated-life", "id": "channel2884425554"},
+     "dir": "curated-life", "id": "channel2884425554", "prefix": "cl"},
 ]
 
 MEDIA_DIRS = ["photos", "video_files", "round_video_messages", "files", "stickers"]
 RENDERABLE_STICKER_EXT = (".webp", ".png", ".jpg", ".jpeg", ".gif")
+ALBUM_WINDOW = 3  # max seconds between grouped (album) media messages
 
 
 def load_json(path):
@@ -261,6 +262,48 @@ def root_post_id(message_id, by_id, post_ids, max_depth=60):
     return None
 
 
+def has_media(message):
+    return bool(message.get("photo")) or bool(message.get("file")) or bool(message.get("media_type"))
+
+
+def has_text_content(message):
+    entities = message.get("text_entities")
+    if entities:
+        return any(isinstance(e, dict) and (e.get("text") or "").strip() for e in entities)
+    return bool(message.get("text"))
+
+
+def group_albums(posts):
+    """Group consecutive same-channel media messages into album cards."""
+    groups = []
+    i = 0
+    n = len(posts)
+    while i < n:
+        cur = posts[i]
+        if not has_media(cur):
+            groups.append([cur])
+            i += 1
+            continue
+        group = [cur]
+        j = i + 1
+        t0 = int(cur.get("date_unixtime") or 0)
+        while j < n:
+            nxt = posts[j]
+            if int(nxt["id"]) != int(posts[j - 1]["id"]) + 1:
+                break
+            if not has_media(nxt):
+                break
+            if abs(int(nxt.get("date_unixtime") or 0) - t0) > ALBUM_WINDOW:
+                break
+            if has_text_content(nxt):
+                break
+            group.append(nxt)
+            j += 1
+        groups.append(group)
+        i = j
+    return groups
+
+
 def build_channel(channel):
     export = load_json(os.path.join(SOURCE, channel["dir"], "result.json"))
     messages = export.get("messages", [])
@@ -284,19 +327,31 @@ def build_channel(channel):
         if root is not None:
             threads[root].append(m)
 
-    posts = []
-    for m in messages:
-        if m.get("type") != "message":
-            continue
-        if m.get("from_id") != channel["id"]:
-            continue
-        mid = int(m["id"])
-        key = "%s-%d" % (channel["key"], mid)
-        rec = msg_record(m, channel, is_post=True)
-        rec["key"] = key
-        rec["channel"] = channel["key"]
+    post_msgs = [m for m in messages
+                 if m.get("type") == "message" and m.get("from_id") == channel["id"]]
+    post_msgs.sort(key=lambda m: int(m["id"]))
 
-        comments = threads.get(mid, [])
+    records = []
+    for group in group_albums(post_msgs):
+        first = group[0]
+        mid = int(first["id"])
+        rec = msg_record(first, channel, is_post=True)
+        rec["key"] = "%s-%d" % (channel["key"], mid)
+        rec["channel"] = channel["key"]
+        rec["id"] = "%s%d" % (channel["prefix"], mid)
+
+        all_media = []
+        for g in group:
+            all_media.extend(media_items(g, channel["key"]))
+        rec["media"] = all_media
+
+        comments = []
+        seen = set()
+        for g in group:
+            for c in threads.get(int(g["id"]), []):
+                if int(c["id"]) not in seen:
+                    seen.add(int(c["id"]))
+                    comments.append(c)
         comments.sort(key=lambda c: int(c.get("date_unixtime") or 0))
         cmap = {}
         comment_records = []
@@ -312,9 +367,9 @@ def build_channel(channel):
 
         rec["comments_n"] = len(comment_records)
         rec["comments"] = comment_records
-        posts.append(rec)
+        records.append(rec)
 
-    return export.get("name"), posts
+    return export.get("name"), records
 
 
 def domain_of(url):
