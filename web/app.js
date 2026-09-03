@@ -348,7 +348,7 @@
     node.querySelectorAll("img").forEach(function (im) { im.loading = "eager"; });
     var recenter = function (instant) {
       if (!document.body.contains(node)) return;
-      node.scrollIntoView({ block: "center", behavior: instant ? "auto" : "smooth" });
+      node.scrollIntoView({ block: "start", behavior: instant ? "auto" : "smooth" });
     };
     recenter(false);
     [250, 700, 1500].forEach(function (ms) {
