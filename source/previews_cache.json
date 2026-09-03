@@ -1,0 +1,1979 @@
+{
+ "https://t.me/techsparks": {
+  "url": "https://t.me/techsparks",
+  "domain": "t.me",
+  "ok": true,
+  "title": "TechSparks",
+  "desc": "Аннотированные ссылки на интересные, полезные и удивительные новости хайтека. Кто больше любит слушать длинное чем читать короткое http://sebrant.chat https://knd.gov.ru/license?id=6777b11d506f967728ac580d&registryType=bloggersPermission Автор: @asebrant",
+  "image": "https://cdn4.telesco.pe/file/LufY7_MP5cV8rjyChZOHFC6YSuzrzKS1XYxWbhOMvs-0NjhHqv7ArPn-N1NK38Cev-4wlo1nON2jsjZ6Oz_lcPN_DkT-5EzYR6cehfvp7eIrePZ6MtPnphD6VPucmb9K0V5ojO9sLKvM-MvIQM96ewSu85eo09FumCOyZDfWK6rWiXNoTch3lG_hiGHgoyDmzPFTbUX8UVj1K1W2sDiTBk8CETkqnF-QN3v_v_TJLvaA_toPh7w3c7KU8NaRG_-SczQEyGt5mPFqc3bthQfBL9KJr-x0HCKwRxScfahrx4RudjXHSRM_OENBtW-Ar3Z261nCzdSF5WPTpNfn4ri5mw.jpg"
+ },
+ "https://t.me/shwarsico/414": {
+  "url": "https://t.me/shwarsico/414",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "21-25 августа в г.Елец состоится большой международный фестиваль и конкурс фотографии Свет и Цвет. Приём работ на конкурс продлится до 24 мая 2024г, 22:59 мск, причём в конкурсе есть (благодаря в т.ч. и моим усилиям) специальная номинация НЕЙРОФОТОГРАФИЯ. Учитывая, что существует не так много мероприятий, где собираются вместе фотографическое и нейрогенеративное сообщества, я очень рекомендую в этом мероприятии поучаствовать! P.S. Я там кстати в жюри, но это не поможет, т.к. все работы оцениваются \"вслепую\". P.P.S. Уже есть немало интересных нейрофото-работ, но не так много в сравнении с другими номинациями. Ждём ваших работ!",
+  "image": "https://cdn4.telesco.pe/file/b23MnD_VNkgUDdAhv9oV0GpUSCKF_qmtAAWmvpCS4WJz30CFFUNMct3fxbcGW7IksIekcTgOZZH-kONdxk3-aFWIdbDTMiPTWBCcwVEHOKHUaz0HdySUVjO4Ryavr-lR9eVv7uS5XEWM7sJOopqJ4kQBSFo2HIERvsRO0TL9eHDfFiHxI7xRBd477TOBQbc-S3FTHnoDTI_hjbKj8gG6GkPO_McJX6W7flhbn8hMr5dswHRISeXk4Pm0Jfi0yXpCraDywEKBqplDwB3FjSvD3sMgGssgzchsjavGvmq9PkL86cUmQJYMeRKfs0LvCitk69mh7UpcOcXBxarkftD9AQ.jpg"
+ },
+ "https://t.me/shwarsico/878": {
+  "url": "https://t.me/shwarsico/878",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Расскажу несколько мыслей, которыми я поделился на вчерашнем круглом столе \"Есть ли жизнь в эпоху больших данных\" на DataFusion. Организован круглый стол был в основном друзьями из РЖД, и там были преимущественно руководители и топ-менеджеры крупных компаний: VK Tech, T1, Корус, Лаборатория Касперского, Альфа-банк. Поэтому много говорили про то, как ИИ меняет роль руководителя, а мне довелось поговорить про образование. Есть ли жизнь в эпоху больших данных? Конечно, более того, благодаря ИИ сейчас появляется новая жизнь - агенты, способные самостоятельно выполнять весьма сложные задачи. 1️⃣ В начале XXI века случилась волна ИИ, и речь зашла про эффективное использование студентами методов машинного обучения и анализа данных. Сейчас за этой волной идёт новое цунами сингулярности - скорость изменений воистину потрясает. Год назад мы начинали писать код с помощью LLM (20% машинного кода против 80% руками), в ноябре-декабре появились агенты, способные сами написать компилятор C++ (правда, не совсем рабочий), а сейчас мы говорим про LLM Wiki и помощь агентов в формировании экзокортекса. Это совершенно другой уровень работы со знаниями! 2️⃣ В начале года Дарио Амодеи (CEO Anthropic) спрогнозировал чудовищный разрыв в способностях между людьми, освоившими ИИ, и всеми остальными. Чтобы оставаться релевантным в таком мире, надо вливаться в сингулярность прямо сейчас, экспериментировать с новыми способами совместной работы с агентами для решения своих задач. 3️⃣ Однако классическое образование консервативно, и пока не очень понятно, как его перестроить. LLM и скорость развития технологий вызывает потерю ориентиров как студентов, так и преподавателей. Студентам непонятно, как мотивировать себя на учёбу, когда LLM решает любую задачу лучше них, а преподавателям - как перестать тратить 90% времени на то, чтобы отсеивать сдаваемые студентами работы, в реальности сделанные LLM. Несколько моих друзей предпочли уйти из преподавания. 4️⃣ Важно вовремя понять, что в новом мире радикально меняется роль преподавателя. Роль \"транслятора знаний\" уже взяли на себя видеолекции, и теперь берёт на себя LLM. Преподавателю же нужно быть тьютором, вдохновителем студентов в новом мире, где все возможно. Показывать и пробовать вместе со студентами, и учиться вместе с ними. Мои студенты в рамках курса ИИ уже делают некоторый аналог LLM Wiki. 5️⃣ Вероятно, в образовании останется важная фундаментальная часть (математика, алгоритмы и т.д.), преподавание которой почти не изменится. Преподавать мат.анализ эффективнее всего \"по старинке\", когда преподаватель вместе со студентами доказывает утверждения на доске и шаг за шагом строит соответствующее формальное поле знаний. Но прикладная часть - как использовать агентов для программирования, для поддержки своей картины мира - думаю должна строиться во многом не совместных исследовательских проектах со студентами. В целом в лучших вузах оно всегда примерно так и было, но сейчас важно, чтобы везде становилось так. 6️⃣ Если говорить про начальные этапы образования (школу), то важно развивать в детях способность писать, поскольку она же развивает способность думать. Также как в начальных классах не дают использовать калькулятор, чтобы развить мозг и научиться устному счету, также нельзя использовать LLM как банальный калькулятор слов для написания сочинений и эссе. Ну или если вы пишете сочинение с LLM, то пишите сами что-то другое: эссе, дневник, книгу или стихи. 7️⃣ Но есть и хорошая новость: LLM может сильно помочь образованию! Сейчас те, кто реально мотивирован, имеют в своём распоряжении бесплатного (или очень недорого) учителя по всем предметам - надо только захотеть им воспользоваться! Осталось лишь решить проблему с мотивацией. В целом, идеальные картина образования будущего описана в книге Нила Стивенсона \"Алмазный век или букварь для благородных девиц\", но это уже тема для отдельного поста...",
+  "image": "https://cdn4.telesco.pe/file/ZBY_Iq0pyZVBexayBujBf31M4GLmfrkHlA1aKNvSPfxf5AYJYs8uuVQKiPZtkfht38UqtzHRVOaon6aqAFFdU7F5LHypU74CPYP65nfd1Lwhs0pSpk5jNQOiswTi4McxSiijkV9AWswymGiO4NHizacI-harrREW3zAAmJj7swZ1-R6IhtU8HsbTGjWwfAhP4wONlcAYifpGwVnxHXQELnfovuI4LG7oydtAkEPbE1zgcH_5kVxnPi8Wx3UASV48AF3Hr32pC07bGiCnQcoBvLjS7_M2AqQRk6R7TEQecVz4eL5b2t1TaVZoTBR-euQQ8a8pe1vYhfpTmJLMLX6Z3Q.jpg"
+ },
+ "https://www.youtube.com/watch?v=AFUvaFFmUkA": {
+  "url": "https://www.youtube.com/watch?v=AFUvaFFmUkA",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "strudel.cc": {
+  "url": "strudel.cc",
+  "domain": "strudel.cc",
+  "ok": false
+ },
+ "https://mmoma.timepad.ru/event/2605213/": {
+  "url": "https://mmoma.timepad.ru/event/2605213/",
+  "domain": "mmoma.timepad.ru",
+  "ok": false
+ },
+ "https://www.youtube.com/live/xf4u3iM8bQ8?si=40-pgLbZZ95txcED&t=2124": {
+  "url": "https://www.youtube.com/live/xf4u3iM8bQ8?si=40-pgLbZZ95txcED&t=2124",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://github.com/jmesyou/functional-programming-jargon.py?tab=readme-ov-file": {
+  "url": "https://github.com/jmesyou/functional-programming-jargon.py?tab=readme-ov-file",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - jmesyou/functional-programming-jargon.py: Jargon from the functional programming world in simple terms!",
+  "desc": "Jargon from the functional programming world in simple terms! - jmesyou/functional-programming-jargon.py",
+  "image": "https://opengraph.githubassets.com/e37e7cad1e6d97e7d828dac9a4ae2c50fd094a419d9ca837c85e70167ce4b1cc/jmesyou/functional-programming-jargon.py"
+ },
+ "https://hsedesign.ru/project/c35d92a368a847a3b4793fd64ef54286": {
+  "url": "https://hsedesign.ru/project/c35d92a368a847a3b4793fd64ef54286",
+  "domain": "hsedesign.ru",
+  "ok": true,
+  "title": "Гайд по платформе: как создать аккаунт и загрузить проект",
+  "image": "https://files.mediiia.ru/projectimages/229/dff33335c43e4c7e91c68417abe018f0/71f917afd9b0437794c1c49decd85b781152x1626.jpg"
+ },
+ "https://soshnikov.com/art/metapoetic-mirror/ru": {
+  "url": "https://soshnikov.com/art/metapoetic-mirror/ru",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Метапоэтическое зеркало",
+  "desc": "I am Associate Professor at Higher School of Economics and Moscow Aviation Institute, Technical Lead of AI Lab and HSE School or Art and Design, ex-Microsoft for 16 year, doing Technical Evangelism, AI/ML and F#. I teach AI and Functional/Logic Programming. Passionate father, Digital Artist, Gun Fu Cha master, etc. Opinions are my own and not those of my employers."
+ },
+ "https://yandex.ru/museum/fest_2025": {
+  "url": "https://yandex.ru/museum/fest_2025",
+  "domain": "yandex.ru",
+  "ok": true,
+  "title": "Фестиваль Яндекс Музея 2025",
+  "desc": "Место, где прошлое встречается с будущим, а технологии становятся частью современного искусства.",
+  "image": "https://avatars.mds.yandex.net/get-lpc/12373972/e80657f4-69c3-4baf-86a4-2d9a2aabba0e/orig"
+ },
+ "https://education.yandex.ru/tutor/go/": {
+  "url": "https://education.yandex.ru/tutor/go/",
+  "domain": "education.yandex.ru",
+  "ok": true,
+  "title": "Решение задач по математике онлайн по фото с Репетитором AI от Яндекс Учебника",
+  "desc": "Бесплатный Репетитор AI по математике работает на основе генеративной нейросети нового поколения Alice AI. Нейросеть поможет с решением дробей, неравенств и других задач. Достаточно загрузить фото для решения математической задачи.",
+  "image": "https://avatars.mds.yandex.net/get-lpc/17800094/a5398d3c-f79f-498c-8279-314aa3e98d6c/orig"
+ },
+ "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86_%D0%93%D0%BE%D1%81%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0": {
+  "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86_%D0%93%D0%BE%D1%81%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0",
+  "domain": "ru.wikipedia.org",
+  "ok": true,
+  "title": "Принц Госплана — Википедия",
+  "image": "https://upload.wikimedia.org/wikipedia/ru/a/a9/Prince_Gosplana.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "https://kholmy.vzmoscow.ru/space": {
+  "url": "https://kholmy.vzmoscow.ru/space",
+  "domain": "kholmy.vzmoscow.ru",
+  "ok": true,
+  "title": "Пространство сообщения. От знака до ощущения.",
+  "image": "https://static.tildacdn.com/tild6435-3262-4464-b237-373734363439/1590530___1_.jpg"
+ },
+ "https://arxiv.org/abs/2406.02061": {
+  "url": "https://arxiv.org/abs/2406.02061",
+  "domain": "arxiv.org",
+  "ok": true,
+  "title": "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models",
+  "desc": "Large Language Models (LLMs) are often described as instances of foundation models that possess strong generalization obeying scaling laws, and therefore transfer robustly across various conditions in few- or zero-shot manner. Such claims rely on standardized benchmarks that suppose to measure generalization and reasoning, where state-of-the-art (SOTA) models score high. We demonstrate here a dramatic breakdown of generalization and basic reasoning of all SOTA models claiming strong function, including large scale advanced models like GPT-4 or Claude 3 Opus, using a simple, short common sense math problem formulated in concise natural language, easily solvable by humans (AIW problem). The breakdown is dramatic as it manifests on a simple problem in both low average performance and strong performance fluctuations on natural variations in problem template that do not change either problem structure or its difficulty at all. By testing models on further control problems with similar form, we rule out that breakdown might be rooted in minor low-level issues like natural language or numbers parsing. We also observe strong overconfidence in the wrong solutions, expressed in form of plausible sounding explanation-like confabulations. Various standard interventions in an attempt to get the right solution, like chain-of-thought prompting, or urging the models to reconsider the wrong solutions again by multi step re-evaluation, fail. We use these observations to stimulate re-assessment of the capabilities of current generation of LLMs as claimed by standardized benchmarks. Such re-assessment also requires common action to create standardized benchmarks that would allow proper detection of such deficits in generalization and reasoning that obviously remain undiscovered by current state-of-the-art evaluation procedures, where SOTA LLMs manage to score high. Code: https://github.com/LAION-AI/AIW",
+  "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+ },
+ "https://m.hightech.plus/2023/12/13/braingpt-perevodit-misli-v-tekst-bez-implantacii": {
+  "url": "https://m.hightech.plus/2023/12/13/braingpt-perevodit-misli-v-tekst-bez-implantacii",
+  "domain": "m.hightech.plus",
+  "ok": false
+ },
+ "https://t.me/shwarsmedia/11": {
+  "url": "https://t.me/shwarsmedia/11",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Передача \"Человек и закон\" от 31 октября 2025 г., Искусственный интеллект на службе человека. Дмитрий Сошников, Сергей Марков, Вячеслав Дубынин и Алексей Савватеев",
+  "image": "https://cdn4.telesco.pe/file/YDyYPZlFULlInBZXl1w5zTyYRGXX9wFaV-cGkP7l_HeAtCfLxSFjP8gYJJnPED3u41uk0tHOuitnBU1zOrJq9ODy7aKELtQLHLL2t7af9cmRWCdoDr2Jk6NnMyzKUDzDyCL0tX8gN63lAZ6-maSuuitIGMyMAcC7ILgdh4Pk3WNNSkNV_OS5fT6Z6KigZ_CkANgl6Sb-3Zr9Fe5I7oi3rh84Wl6snCpMDYxKA2LcK93e9-OTVTF2nLByMWvIwgOVDmkrSkMBjLa71iqdcBFnaitAoc1saXfpBQWWq_9rsBxUgxTJpHDbC73pysgly7YJMRKzxZ3qUxwBtqrfMtzNJw"
+ },
+ "https://events.yandex.ru/events/kod-plener?utm_source=tg&utm_medium=social&utm_campaign=kod_plener&utm_content=posev&utm_term=shwarsico": {
+  "url": "https://events.yandex.ru/events/kod-plener?utm_source=tg&utm_medium=social&utm_campaign=kod_plener&utm_content=posev&utm_term=shwarsico",
+  "domain": "events.yandex.ru",
+  "ok": true,
+  "title": "Код-пленэр",
+  "desc": "21 сентября пройдёт Код-пленэр от Яндекса. Зовём вас порисовать кодом в саду, послушать про творчество в IT и подышать свежим воздухом.",
+  "image": "https://avatars.mds.yandex.net/get-lpc/10704932/6706bce3-7883-41a0-afb6-4c15210b7646/orig"
+ },
+ "https://t.me/gonzo_ML/3239": {
+  "url": "https://t.me/gonzo_ML/3239",
+  "domain": "t.me",
+  "ok": true,
+  "title": "gonzo-обзоры ML статей",
+  "desc": "DeepSeek moment Нельзя ничего не сказать про DeepSeek. Эти ребята просто супер молодцы — так задизраптить всё поле мало кому удавалось. Ну OpenAI со своим ChatGPT, потом Цукерберг с Llama в опенсорсе, теперь вот DeepSeek. DeepSeek сумели обучить модели хорошего качества по ценам на порядок ниже конкурентов. Во-первых, DeepSeek-V3 (https://github.com/deepseek-ai/DeepSeek-V3), включает две модели DeepSeek-V3-Base и чат-версию DeepSeek-V3. Обе являются MoE с 671B параметров всего и 37B активных. Не для простых смертных модели, надо иметь неслабую multi-GPU конфигурацию что-то типа 8 H200 (но есть сжатые варианты от разных товарищей). По качеству где-то уровня GPT-4o 0513 и Claude-3.5-Sonnet-1022 и выше LLaMA-3.1 405B. Есть разные оценки, сколько стоило обучение Ламы 3.1 405B. В самой работе (https://arxiv.org/abs/2407.21783) сказано, что использовалось до 16,384 H100 и упоминается предобучение в 54 дня (но там и другие этапы обучения были). Одна из не самых высоких оценок говорит, что стоить должно было порядка…",
+  "image": "https://cdn4.telesco.pe/file/sfjv1XSnaq8VG3pyLdr2Z_x9c2q_Gq5pnmn6vG5xgzikcbMH66c2zNH-slE4gfyk4dR_T-ECpwlZJiPiwCi5vMj6efDDc_0f9g6dto8sBPLDxke9ObdDF4f__3Yka28cSmyP8Ol_Kxifc7YOI9NKO3ftx5KIJWZx2nmBctfmPoErR497CsNtYbElrv_rPnVqbZdp4Z06k_oM5XNlUVeKA_DZySugPLLRf5A5dRML7D9OT5FdaTaWYS9EhshCkR48W-diat-yvCScvdOqgG2OCPvCgZWHtu8N3J9oDBNp3d7hL1Sqel6zdsvNPZ6KNttO_dKERWfwiPPeZzw6dJ69og.jpg"
+ },
+ "https://www.doverie-tv.ru/videos/34285": {
+  "url": "https://www.doverie-tv.ru/videos/34285",
+  "domain": "www.doverie-tv.ru",
+  "ok": true,
+  "title": "\"Мой район. Место встречи\": Останкинский район с Денисом Клявером – «Москва Доверие»"
+ },
+ "https://www.kaggle.com/learn-guide/5-day-agents": {
+  "url": "https://www.kaggle.com/learn-guide/5-day-agents",
+  "domain": "www.kaggle.com",
+  "ok": true,
+  "title": "5-Day AI Agents Intensive Course with Google",
+  "desc": "Discover what actually works in AI. Join millions of builders, researchers, and labs evaluating agents, models, and frontier technology through crowdsourced benchmarks, competitions, and hackathons.",
+  "image": "https://www.kaggle.com/static/images/logos/kaggle-logo-opengraph.png"
+ },
+ "https://svet-tsvet.ru/": {
+  "url": "https://svet-tsvet.ru/",
+  "domain": "svet-tsvet.ru",
+  "ok": true,
+  "title": "Добро пожаловать на сайт svet-tsvet.ru | svet-tsvet.ru"
+ },
+ "https://www.rbc.ru/life/news/661e9c7b9a794708625f921d": {
+  "url": "https://www.rbc.ru/life/news/661e9c7b9a794708625f921d",
+  "domain": "www.rbc.ru",
+  "ok": false
+ },
+ "https://t.me/shwarsico/768": {
+  "url": "https://t.me/shwarsico/768",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Не так давно участвовал в записи выпуска программы \"Мой район. Место встречи\" для канала Москва Доверие, с Ольгой Кабо. Почему-то решили в этой программе немного поговорить про ИИ, причем с участием Дениса Клявера, солиста \"Чай вдвоем\". Помимо ИИ, там ещё много будут говорить про ВДНХ, про дуэт Городок - но уже без меня :) Показывать это всё будут завтра, 1 октября, в 7:00 утра. Если вдруг вам не спится по утрам, или вы очень любите ВДНХ - это хороший способ провести утро...",
+  "image": "https://cdn4.telesco.pe/file/DgDLJMnPAtYeYWJvvsiICGBPew2l69gIPgW6VOfH_xuOWtvVs8qxogZwbP5sO8WecoTBeBmp4triv22Du7xpTRw6TuTeMGdcoPxW5zAHEUGSkEOkKvPKCix70Q33r05Cpky0Ym3ORpjgZrUofL46rI5el9C-9kIJAPd-u1QU6T8mCxoHveh-Hi8fyCesecior0L7zAiWk_bxUO0SfDQeE5wR2jPWtMIWGHwbsJV2Md2FwZfQbaIf_ASpRdhGqYwhUhYStn9flOacpTQDC1_SvysI4Op7hAIUg3n4P4aOJamuiRWlrDMC6xd-sSesElSiptcHp0gaVhw7zCq59HfMrA.jpg"
+ },
+ "https://t.me/im_journal_forum?videochat": {
+  "url": "https://t.me/im_journal_forum?videochat",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Форум \"Информационное моделирование\"",
+  "desc": "Это форум канала «Информационное моделирование». Это площадка для свободной дискуссии на темы ТИМ и цифрового строительства. За официозом, который тоже нужен, приглашаем на наш основной новостной канал https://t.me/im_journal",
+  "image": "https://cdn4.telesco.pe/file/WXJPHtLhZs1-2_8NI3wtPw3Nd6MrNBgQoXYy_nFMxTnzEIJOmwkL_Q9_LJiUgkDNHh4yB1k4CCYBAz1vv3BUNHR4Wy1zwdz_GfyY6qQHHcqyLJk-N42Syhl6I-NbMWIszHVnfAEZBOo9BIdlTp0oaHUnFTA_FYJukHJnP0bMaJmrnybxOE_nfeuRtEyQAVADJKzBDCB2KM4hfcvSd77JV-Zy03fNt64t9Bds8nvFDSIDyFjX6r6tK22aFdu9SQDaBD7tciV787S1dPowsBh0WUMLiTReGPaMfvCUARLcf94tnqk-nSECWVTyJgWNAoaOwgIxEL2fKOnV6Vo0DqGO1g.jpg"
+ },
+ "https://tv.yandex.ru/1/program/chelovek-i-zakon-s-alekseem-pimanovym-8661363": {
+  "url": "https://tv.yandex.ru/1/program/chelovek-i-zakon-s-alekseem-pimanovym-8661363",
+  "domain": "tv.yandex.ru",
+  "ok": true,
+  "title": "«\"Человек и закон\" с Алексеем Пимановым» — когда смотреть по ТВ в Москве и Московской области — Яндекс.Телепрограмма",
+  "desc": "«"
+ },
+ "https://www.youtube.com/watch?v=5rg7xvTJ8SU": {
+  "url": "https://www.youtube.com/watch?v=5rg7xvTJ8SU",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://github.com/HarryR/z80ai": {
+  "url": "https://github.com/HarryR/z80ai",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - HarryR/z80ai: Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.",
+  "desc": "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage compu...",
+  "image": "https://opengraph.githubassets.com/983a0d993d7394f77531f699360cab718f4f0c934afa7d8df21c6c93561e99f3/HarryR/z80ai"
+ },
+ "https://research.runwayml.com/gen2": {
+  "url": "https://research.runwayml.com/gen2",
+  "domain": "research.runwayml.com",
+  "ok": true,
+  "title": "Gen-2 | Runway Research",
+  "desc": "Gen-2 is a multimodal AI video generation model that creates novel videos from text prompts, images or video clips across 8 generation modes including Text to Video, Stylization and Customization.",
+  "image": "https://runway-static-assets.s3.amazonaws.com/site/images/news/Researchhub_014.jpg"
+ },
+ "https://t.me/lovely_it_hell": {
+  "url": "https://t.me/lovely_it_hell",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Уютный IT адочек",
+  "desc": "С любовью к людям и их горящим задницам",
+  "image": "https://cdn4.telesco.pe/file/D2mJiVhw48pkJf9ZF-rup07FFmAuxwYyPHLAVtFQocZmnGM-tSDM_0Wekf9BrWv1jEveHN8cSJsgfkeBX8KhuZ4AubQqk3pw5b2vwczDLfoXT8Olkpr441QEuPrRAUYPrAXNQ9JnQBp6zh4roIIDcyoIP5syL7suPMsdW5JM0ZnN0XzQ8SN6_mnd7Gi_fs27g_TB3n-n4ryQ4PeQlK6zsYej3AK8Q04JpeOjGMlrb7jFNr9uzl2a2yHRfw8lWaad6zfqemnTWnERqzmq5kTJ-7tyWRKVpJ6BwOXweInRqPDmdMpAk2nrimFD1KhWt5QpJ0wbcSMXqIWm5mt-yVS1_A.jpg"
+ },
+ "https://ya.ru/project/humanai": {
+  "url": "https://ya.ru/project/humanai",
+  "domain": "ya.ru",
+  "ok": true,
+  "title": "Выставка «Человек и нейросети: кто кого создаёт?» — Яндекс и Третьяковская галерея",
+  "desc": "Современные художники о нейросетях — выставка в Новой Третьяковке на Крымском Валу. С 23 апреля по 25 мая 2025. Совместный проект Яндекса и Третьяковской галереи.",
+  "image": "https://avatars.mds.yandex.net/get-lpc/9736426/725994a2-315f-4104-93de-1ae0bb95c9e4/orig"
+ },
+ "https://openai.com/index/hello-gpt-4o/": {
+  "url": "https://openai.com/index/hello-gpt-4o/",
+  "domain": "openai.com",
+  "ok": true,
+  "title": "Hello GPT-4o",
+  "desc": "We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
+  "image": "https://images.ctfassets.net/kftzwdyauwt9/4hxowKfhJ6Q3bVMqGsosjS/97103375a2334386e2f2e66bc648664a/GPT-4o.png?w=1600&h=900&fit=fill"
+ },
+ "https://habr.com/ru/company/microsoft/blog/485338/": {
+  "url": "https://habr.com/ru/company/microsoft/blog/485338/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "Как преодолеть страх и начать использовать Azure Machine Learning",
+  "desc": "Я знаю многих Data Scientist-ов — да и пожалуй сам к ним отношусь — которые работают на машинах с GPU, локальных или виртуальных, расположенных в облаке, либо через Jupyter Notebook, либо через...",
+  "image": "https://habr.com/share/publication/485338/056ae2ff3307ad7f7aa4821dcb0544a0/"
+ },
+ "https://rg.ru/authors/Mariia-Agranovich": {
+  "url": "https://rg.ru/authors/Mariia-Agranovich",
+  "domain": "rg.ru",
+  "ok": false
+ },
+ "https://t.me/shwarsmedia/28": {
+  "url": "https://t.me/shwarsmedia/28",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Интервью на RTVI c Павлом Орловым от 6 июня 2026 г.",
+  "image": "https://cdn4.telesco.pe/file/E-hwXreOjYQkpH-6ga6_aVl8H30jjN-PDvu1_PEOnmspuNs6VhYjEmag_n_4C2aRPv7Fc2BjX-pwT3GJ4GLD0H6SBS_HF76L1GAU2h5pJ_ki_P0Pqd4QyVYsfi22_i0deOZ9YeOCsDf4bVv_y1D7U03Q_uDWLebOERbYVRSY_OZlsWRV9CYlba_iPX75fgcs8pW7W7KxyMTwRDcAvCEgZdWWyu6uBjfWQFxliZE2HmoLzIICpH589PEYzctu_G4vPKOHPLcBwDmF_Yhixkc2D_KxVConMB92bIOvj-apUGtQd-eFPoDnLlgHj1r8oqtxxjO_CHifDl1NQWoC1ozZtw"
+ },
+ "https://www.youtube.com/watch?v=7bziZsDc2B8": {
+  "url": "https://www.youtube.com/watch?v=7bziZsDc2B8",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://gab.ai/": {
+  "url": "https://gab.ai/",
+  "domain": "gab.ai",
+  "ok": true,
+  "title": "One AI That Does It All. | Gab AI",
+  "desc": "Generate text, edit and create images, make videos, music, code, and analyze files — powered by the world's best AI models.",
+  "image": "https://gab.ai/social-card-ai-that-works-2026.png"
+ },
+ "https://t.me/wiresandswamps": {
+  "url": "https://t.me/wiresandswamps",
+  "domain": "t.me",
+  "ok": true,
+  "title": "провода+болота",
+  "desc": "пк + её друзья + other pieces or the worlds",
+  "image": "https://cdn4.telesco.pe/file/gvS308s33DqeHf7oZ9PNiKyE_vMq6pD1T82gtwqINkf3Lr2acOIIMmfvJcb_XJx5abbjPbiZujKNsLXQn-_DyoMKSnacANOrV7N3lSfNDWofcywniAFL3SzhqDKzGxiVkwc0dnxbHOAd4cLUQCW5ux937TRKW5DrX9JtM63Wy63auKoMgUOiO2fCF2kZNLYifsv6snD9-BzJ7NIF7ncnOytlItxUC-3NWtMXyue5CvKY-PS-2vEBoJPTxUudX_7tEVnzv7NSH4_4mn5W32vefieE2q_krkXWFtz-PIN4K5taK2PUcWrCI7E1bGhc6u0tb7d8-aSNkJV3qUqx3D0mxg.jpg"
+ },
+ "https://olgavad.tilda.ws/": {
+  "url": "https://olgavad.tilda.ws/",
+  "domain": "olgavad.tilda.ws",
+  "ok": false
+ },
+ "https://habr.com/ru/news/962488/": {
+  "url": "https://habr.com/ru/news/962488/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "Найдено самое длинное слово в русском языке — «тетрагидропиранилциклопентилтетрагидропиридопиридиновые»",
+  "desc": "В государственном Институте им. А.С. Пушкина с помощью искусственного интеллекта определили самое длинное слово в русском языке. Заведующий кафедрой общего и русского языкознания института Павел...",
+  "image": "https://habrastorage.org/getpro/habr/upload_files/40c/dba/d17/40cdbad17e75d177a50b487ad46e6f33.png"
+ },
+ "https://www.hse.ru/vyshe-s-vyshkoy/programm2025": {
+  "url": "https://www.hse.ru/vyshe-s-vyshkoy/programm2025",
+  "domain": "www.hse.ru",
+  "ok": true,
+  "title": "Записи вебинаров форума – 2025",
+  "image": "https://www.hse.ru/images/fb/hse_ru_thumb.jpg"
+ },
+ "https://t.me/shwarsico/434": {
+  "url": "https://t.me/shwarsico/434",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Эти выходные с большим энтузиазмом по приглашению @fufaeva вместе с @chemporaduesh провели на природе под Дубной на летней школе - делали небольшую нейросетевую движуху в мастерской сайнс-арта. Из-за сложностей с интернетом получилось сделать чуть меньше, чем хотелось - но все равно, за полтора часа получилась пробная версия бесконечного комикса, бесконечного многоагентного спектакля с YandexGPT и Yandex SpeechKit, а также иллюстрированный гид по правильному магическому питанию. Результаты ребята обещали выложить чуть позже, если интересно - поделюсь :) А ещё мы совершали чаепитие, любовались на закат над Волгой, и прекрасно общались. Поездка на #ЛШ всегда заряжает энергией, хотя я всего второй раз, а последний раз был лет 10 назад на мастерской образования.",
+  "image": "https://cdn4.telesco.pe/file/icHgs6lCWfkLx2L9l04kd__w6-k4jSWZhtaTGGQCDmG0g_J8lMSIsscgX5X2RM5AO7FTXQKw1AT_ENneu9T1KEC5oXuulec0zBMYTAyeped7Y69cCPlEj9cpmc3pemAsnw_ggY8rGKEQIY-nUH1zFcBkwbXKHf9xeIf0nUamxJhpEvkkOQWhuSB5fdprmKzKwDIbfUouJGB9tx2sne8a5vL2tpj8oNIZXgHApIzsRNymK5_UC7scM2mGqHQRq8a7DChzkf0JpbZIHCXkbOF9jn5EBypMNpl5jqli-WUARoRlPV_rB2wXsWrwhaXfTUzn8y0TElO5X8LN9yMHcGjfUA.jpg"
+ },
+ "https://t.me/shwarsico/554": {
+  "url": "https://t.me/shwarsico/554",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Друзья, нужна ваша помощь! В субботу в Туле в кластере Октава открывается выставка Близкие технологии, на которой будет представлена наша с Ириной Иванниковой работа \"Пульс распределённого тела\". Идея работы в том, чтобы посмотреть, можно ли с помощью текстовых и голосовых сообщений тронуть сердце человека, находящегося за сотню километров. Вот как это работает: * Вы посылаете текстовые или голосовые сообщения телеграм-боту * Ирина на следующее утро в ходе специальной медитации с установленным датчиком пульса читает все сообщения, регистрируя свой сердечный ритм * На следующий день вы получаете отчет и информацию о том, что же испытывала Ирина, читая Ваше сообщение. * На выставке в Туле демонстрируются результаты проекта, избранные сообщения, статистика по пульсу. В чем нужна Ваша помощь: Хочется протестировать экспонат в ближайшие несколько дней, до открытия выставки. Пожалуйста, добавляйте бота себе в тг и шлите туда голосовые и текстовые сообщения самого интимного или хамского характера. В ближайшие дни в роли Ирины будут выступать я, поэтому сможете заодно посмотреть, как работает моё сердце. А после открытия (после 7 декабря) - сможете посылать сообщения уже Ирине. Для предотвращения спама - лимит в 3 сообщения в день на человека. Очень жду!",
+  "image": "https://cdn4.telesco.pe/file/VXjIGIFC2bVPlrD46J_mwVTuWhJf26_K-R4BSKU6rAlbAZ9FirAg84s7zWN7xlSynBpeCLkPOCMEU-eNHFoR6S2l9hPPyxdl09zLXaXf2lUeIEzjHcDsGeNGiwbt8ATpQcbrr8fFtzfoQRsl4OXVDBxr6GAYSnTvKPm-Pyt1GcdPgGwnAM_rnP1bMszJ4gWVspvz6d-ISvog--ixbucRJ5swWM-uo7xYNSfsnqt0-3sQgA-Cdn00MtlfQUmckdIWHmxCTVyqYnZn8oHF65lzCyr3scPiWWkjo6jar1wEmRpIVXM6IxShLkSGw6S0JLN6Bu94C9-3z9fQOEkXa7rvaQ.jpg"
+ },
+ "https://vc.ru/future/753706-ii-mozhet-sravnitsya-s-1-luchshih-mysliteley-v-standartnom-teste-na-kreativnost": {
+  "url": "https://vc.ru/future/753706-ii-mozhet-sravnitsya-s-1-luchshih-mysliteley-v-standartnom-teste-na-kreativnost",
+  "domain": "vc.ru",
+  "ok": true,
+  "title": "ИИ может сравниться с 1% лучших мыслителей в стандартном тесте на креативность — Будущее на vc.ru",
+  "desc": "Никто не мог подумать, что ИИ хоть когда-нибудь сможет стать креативным и создавать хоть какое-то творчество, но похоже этот момент настал и теперь ИИ входит в 1% самых креативных людей.",
+  "image": "https://api.vc.ru/v2.9/cover/fb/c/753706/1788419758/cover.jpg"
+ },
+ "https://tass.ru/nauka/26556215": {
+  "url": "https://tass.ru/nauka/26556215",
+  "domain": "tass.ru",
+  "ok": false
+ },
+ "https://hightech.plus/2023/10/10/ii-proshel-test-na-tvorcheskie-sposobnosti-luchshe-99-lyudei": {
+  "url": "https://hightech.plus/2023/10/10/ii-proshel-test-na-tvorcheskie-sposobnosti-luchshe-99-lyudei",
+  "domain": "hightech.plus",
+  "ok": true,
+  "title": "ИИ прошел тест на творческие способности лучше 99% людей",
+  "desc": "Наблюдая за развитием генеративных моделей ИИ, кажется, что вместо того чтобы освободить человечество от тяжелой и монотонной работы, машины отнимают творческую, вытесняя с рынков дизайнеров, сценаристов, композиторов и журналистов. Тот аргумент, что ИИ не способен к истинному творчеству, а всего лишь симулирует его, кажется уже не таким важным, когда результаты тестов показывают наличие у ИИ высоких креативные способностей. Такие же, как показало новое исследование, есть только у 1% студентов, прошедших тот же тест, что и генеративный ИИ.",
+  "image": "https://files.hightech.plus/photos/article-1920e9e5-8fb8-49c9-8d61-6196570dc68a/70533ade-9df9-4f46-a590-2de66359dd89.webp"
+ },
+ "https://www.youtube.com/watch?v=09-krjdFfis": {
+  "url": "https://www.youtube.com/watch?v=09-krjdFfis",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://www.forbes.ru/tehnologii/341535-mashiny-vmesto-inzhenerov-pochemu-iskusstvennyy-intellekt-doberetsya-i-do": {
+  "url": "https://www.forbes.ru/tehnologii/341535-mashiny-vmesto-inzhenerov-pochemu-iskusstvennyy-intellekt-doberetsya-i-do",
+  "domain": "www.forbes.ru",
+  "ok": false
+ },
+ "https://github.com/InkboxSoftware/excelCPU": {
+  "url": "https://github.com/InkboxSoftware/excelCPU",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - InkboxSoftware/excelCPU: 16-bit CPU for Excel, and related files",
+  "desc": "16-bit CPU for Excel, and related files. Contribute to InkboxSoftware/excelCPU development by creating an account on GitHub.",
+  "image": "https://opengraph.githubassets.com/066dae3126231fd2025bb5c1521f9ab87cd8072e7a8be048ebcb091cdf48ab84/InkboxSoftware/excelCPU"
+ },
+ "JUG.ru": {
+  "url": "JUG.ru",
+  "domain": "JUG.ru",
+  "ok": false
+ },
+ "https://digital.alfabank.ru/events/backendstories3": {
+  "url": "https://digital.alfabank.ru/events/backendstories3",
+  "domain": "digital.alfabank.ru",
+  "ok": false
+ },
+ "https://www.ozon.ru/product/pishchevaya-dobavka-2861757229/": {
+  "url": "https://www.ozon.ru/product/pishchevaya-dobavka-2861757229/",
+  "domain": "www.ozon.ru",
+  "ok": false
+ },
+ "https://winzavodcca.timepad.ru/event/3378759/": {
+  "url": "https://winzavodcca.timepad.ru/event/3378759/",
+  "domain": "winzavodcca.timepad.ru",
+  "ok": false
+ },
+ "https://developers.sber.ru/link/gc7k01aug2b3312730e79b445510bbc27f1cbb1ad": {
+  "url": "https://developers.sber.ru/link/gc7k01aug2b3312730e79b445510bbc27f1cbb1ad",
+  "domain": "developers.sber.ru",
+  "ok": true,
+  "title": "Studio - ÐÐ¸ÑÐ½ÑÐ¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ ÑÐµÑ Ð½Ð¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ¸Ñ Ð¿ÑÐ¾Ð´ÑÐºÑÐ¾Ð² Ð¡Ð±ÐµÑÐ°",
+  "desc": "ÐÐ¾Ð»ÑÑÐ¸ÑÑ Ð´Ð¾ÑÑÑÐ¿ Ðº GigaChat API Ð¸ Ð´ÑÑÐ³Ð¸Ð¼ ÑÐµÑ Ð½Ð¾Ð»Ð¾Ð³Ð¸ÑÐ¼",
+  "image": "https://cdn-app.sberdevices.ru/misc/0.0.0/sm_studio_uploads/smstudio_og_banner_7d09ad3505.png?updated_at=2022-12-13T10:20:11.767Z"
+ },
+ "https://t.me/shwarsico/818": {
+  "url": "https://t.me/shwarsico/818",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Обнаружил в почтовом ящике открытку, которую я сам себе послал из поездки в Питер на конференцию IML в середине мая этого года. Путешествие из Петербурга в Москву у неё заняло 7 месяцев. Интересные факты: ➡️ поездка из Петербурга в Москву на лошади занимает около 14 дней. ➡️ средняя скорость открытки составляла около 3.5 км. в день, т.е. пеший почтальон мог доставить её за это время в очень неспешном режиме, совершая каждый день лишь лёгкую прогулку",
+  "image": "https://cdn4.telesco.pe/file/XYXFH2VTvALjdBdOPDFYVUejS6nw5jOGQ8wqZwwN1GeeTNdl5gM0P9X4x9BL5JxDbIBVC9rYkHYs3wU0JYBY3Fl_Gj1Rp35kUnZjmAV6lPpBqk0v-womJ0s8AR6lFIdgIlpfbfnRDxISrzCtzJuijrRu0jFzU8i3u4Mw3Tl_NOC9xv2o67wtZLqQypPNplitOMRHtX1R8MDVKEo9V2YCWMQnJ1Jee-IXz7XYXgIaeDm0bJ1j9VcNIeChy3xaIPJwqNDuKs-U9CKVBSx6030e-Thax_sYsPzvs_4mqJ5CMWfw0Cl-46S0g41JzbUyM-D0wDSCOMPrrmTMvsgqcSMHug.jpg"
+ },
+ "https://www.youtube.com/watch?v=lDRkMHgy-kY": {
+  "url": "https://www.youtube.com/watch?v=lDRkMHgy-kY",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://alice.yandex.ru/": {
+  "url": "https://alice.yandex.ru/",
+  "domain": "alice.yandex.ru",
+  "ok": true,
+  "title": "Нейросеть Алиса AI - бесплатный ии-чат Яндекса с генерацией текстов и изображений",
+  "desc": "Работает на Alice AI — самом мощном семействе генеративных моделей Яндекса. Анализируйте файлы, ищите ответы, генерируйте тексты и изображения в чате. Бесплатно и без VPN",
+  "image": "https://yastatic.net/s3/alicestatic/_/v2/static/media/og-image.8380fb64.png"
+ },
+ "https://t.me/ai_da_lanka": {
+  "url": "https://t.me/ai_da_lanka",
+  "domain": "t.me",
+  "ok": true,
+  "title": "AI Lanka",
+  "desc": "Личный блог @lrlanka про нейросети, фотографию, кукол и мармелад",
+  "image": "https://cdn4.telesco.pe/file/jO5ALQ4FOneijbSZh60EwS8lP2gqcX-lh-7efzmEhYCmvxxOScHNn8elPLFUFJytDUV7heHwCq7Amt9V3E7o1VxQQLURZcuVybTSBRpMKmaY5LcGOQE0w-n0LkJbrVhByDkEYUW5_QoMsIlMQnCHjggKjFBZpxG9X2YQxWftwnxo_pPGb11vcZk_vmvXmlKO1pVFX-Twf7fMvtCFyuURh7Xka4X363Ck9XWV5Bi4wvpP1TDQE_GcbAAMxCEGuJR_4sD3y2Enphi4bdjlJZeHuXWFO50HvHbuY3zIRKdLRvg0_qF7K7jRr4HYQm801liz9C4XK59TaxbthHuePxL4rA.jpg"
+ },
+ "https://www.youtube.com/watch?v=eHmArFkjYmI": {
+  "url": "https://www.youtube.com/watch?v=eHmArFkjYmI",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "http://crossconf.com/": {
+  "url": "http://crossconf.com/",
+  "domain": "crossconf.com",
+  "ok": true,
+  "title": "IT-конференция CrossConf | Москва 17 октября 2025",
+  "desc": "Конференция про разработку цифровых продуктов на кроссплатформенных технологиях и тренды развития IT",
+  "image": "/assets/images/snippet.png"
+ },
+ "suno.ai": {
+  "url": "suno.ai",
+  "domain": "suno.ai",
+  "ok": false
+ },
+ "https://music.yandex.ru/album/36521528/track/138917227": {
+  "url": "https://music.yandex.ru/album/36521528/track/138917227",
+  "domain": "music.yandex.ru",
+  "ok": true,
+  "title": "Яндекс Музыка — собираем музыку для вас",
+  "desc": "Персональные рекомендации, подборки на любой случай, подкасты обо всём на свете и музыкальные новинки — с Яндекс Музыкой всегда есть что послушать!"
+ },
+ "https://music.yandex.ru/album/17245929/track/61223434": {
+  "url": "https://music.yandex.ru/album/17245929/track/61223434",
+  "domain": "music.yandex.ru",
+  "ok": true,
+  "title": "Яндекс Музыка — собираем музыку для вас",
+  "desc": "Персональные рекомендации, подборки на любой случай, подкасты обо всём на свете и музыкальные новинки — с Яндекс Музыкой всегда есть что послушать!"
+ },
+ "https://www.youtube.com/watch?v=UIZAiXYceBI": {
+  "url": "https://www.youtube.com/watch?v=UIZAiXYceBI",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://github.com/hemanth/functional-programming-jargon": {
+  "url": "https://github.com/hemanth/functional-programming-jargon",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+  "desc": "Jargon from the functional programming world in simple terms! - hemanth/functional-programming-jargon",
+  "image": "https://opengraph.githubassets.com/958bb71104c8013b80829bc3e27fa5efcb4f925cd54fbd46800ba726d29e5728/hemanth/functional-programming-jargon"
+ },
+ "https://tv.rbc.ru/archive/chez/69176efa2ae596912cb333df": {
+  "url": "https://tv.rbc.ru/archive/chez/69176efa2ae596912cb333df",
+  "domain": "tv.rbc.ru",
+  "ok": true,
+  "title": "ЧЭЗ: Выпуск за 14 ноября 2025. Смотреть онлайн",
+  "desc": "Программа ЧЭЗ на РБК. Смотреть выпуск за 14 ноября 2025. ЧЭЗ. Выпуск от 14.11.2025, часть 4 - подробности в передаче ЧЭЗ онлайн на РБК-ТВ.",
+  "image": "https://s0.rbk.ru/v6_top_pics/resized/1440xH/media/img/2/77/346903554139772.jpeg"
+ },
+ "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/": {
+  "url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
+  "domain": "writings.stephenwolfram.com",
+  "ok": true,
+  "title": "What Is ChatGPT Doing … and Why Does It Work?",
+  "desc": "Stephen Wolfram explores the broader picture of what's going on inside ChatGPT and why it produces meaningful text. Discusses models, training neural nets, embeddings, tokens, transformers, language syntax.",
+  "image": "https://content.wolfram.com/sites/43/2023/02/hero3-chat-exposition.png"
+ },
+ "https://www.1tv.ru/shows/chelovek-i-zakon/syuzhety/ii-glazami-obyvatelya-chelovek-i-zakon-fragment-vypuska-ot-13-03-2026": {
+  "url": "https://www.1tv.ru/shows/chelovek-i-zakon/syuzhety/ii-glazami-obyvatelya-chelovek-i-zakon-fragment-vypuska-ot-13-03-2026",
+  "domain": "www.1tv.ru",
+  "ok": true,
+  "title": "ИИ глазами обывателя. Человек и закон. Фрагмент выпуска от 13.03.2026",
+  "desc": "Ждать ли информационно-технологических прорывов в самом ближайшем будущем, чему радоваться и чего на самом деле стоит опасаться. Научно-популярное расследование.",
+  "image": "https://static.1tv.ru/uploads/video/material/splash/2026/03/13/1046706/big/1046706_big_2628600b47.jpg"
+ },
+ "https://smotrim.ru/brand/62250": {
+  "url": "https://smotrim.ru/brand/62250",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Физики и лирики радио Маяк подкаст слушать онлайн",
+  "desc": "Физики и лирики, радио, слушать онлайн, на Смотрим, Александр Пушной, Маргарита Митрофанова",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/152/494/48.png"
+ },
+ "https://www.businessinsider.com/openai-cfo-sarah-friar-future-revenue-sources-2026-1": {
+  "url": "https://www.businessinsider.com/openai-cfo-sarah-friar-future-revenue-sources-2026-1",
+  "domain": "www.businessinsider.com",
+  "ok": true,
+  "title": "OpenAI's CFO laid out new revenue sources to fund all that compute",
+  "desc": "CFO Sarah Friar outlines OpenAI's evolving strategy, highlighting expanded partnerships, subscription tiers, and outcome-based royalties.",
+  "image": "https://i.insider.com/69701485e1ba468a96aa62fa?width=1200&format=jpeg"
+ },
+ "https://soshnikov.com/tech/content-creators-of-the-world-federate-ru/": {
+  "url": "https://soshnikov.com/tech/content-creators-of-the-world-federate-ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Творческие люди - федерируйтесь!",
+  "desc": "В связи с последними изменениями, происходящими в twitter, многие мои друзья стали подыскивать себе альтернативные социальные площадки. Одним из интересных вариантов является децентрализованная социальная платформа Mastodon"
+ },
+ "https://hsedesign.ru/competition/6cc0212b2396437cb03462bf5699d958": {
+  "url": "https://hsedesign.ru/competition/6cc0212b2396437cb03462bf5699d958",
+  "domain": "hsedesign.ru",
+  "ok": true,
+  "title": "HSE CREATIVE OPEN / Повествование через ИИ",
+  "desc": "Школа дизайна НИУ ВШЭ — это цифровая экосистема: портфолио студентов и выпускников, конкурсы и курсы.",
+  "image": "https://files.mediiia.ru/competitionimages/1/bca5d70d51f8451e8b5515e56110d5ab/5757f4c776db49f8991d52b793736cea220x309.jpg"
+ },
+ "https://iz.ru/1545801/alena-svetunkova/pliasat-pod-ii-dudku-kak-muzykanty-ispolzuiut-neiroseti": {
+  "url": "https://iz.ru/1545801/alena-svetunkova/pliasat-pod-ii-dudku-kak-muzykanty-ispolzuiut-neiroseti",
+  "domain": "iz.ru",
+  "ok": true,
+  "title": "Плясать под ИИ-дудку: как музыканты используют нейросети",
+  "desc": "Эксперты сходятся во мнении, что сгенерированные композиции не имеют отношения к искусству",
+  "image": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/article-2023-07/GettyImages-1303460482.jpg?itok=Gz_-6WIi"
+ },
+ "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google": {
+  "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
+  "domain": "www.kaggle.com",
+  "ok": true,
+  "title": "5-Day AI Agents: Intensive Vibe Coding Course With Google",
+  "desc": "June 15 - 19, 2026",
+  "image": "https://www.kaggle.com/open-graph/images/Competitions/137190"
+ },
+ "https://www.youtube.com/watch?v=-57DzRrZ1go": {
+  "url": "https://www.youtube.com/watch?v=-57DzRrZ1go",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://alekpetuk.com/kfitness": {
+  "url": "https://alekpetuk.com/kfitness",
+  "domain": "alekpetuk.com",
+  "ok": true,
+  "title": "Алек Петук — современный художник",
+  "desc": "Официальный сайт современного художника Алека Петука: живопись, перформансы, реконструкции и художественные проекты.",
+  "image": "https://alekpetuk.com/favicon/web-app-manifest-512x512.png"
+ },
+ "https://t.me/alexei_savvateev": {
+  "url": "https://t.me/alexei_savvateev",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Алексей Савватеев и Родная Школа",
+  "desc": "Друзья! В комментах запрещен мат, разжигание розни, оскорбления и проявление неуважения даже к оппонентам. Немедленный бан без предупреждений. Почта для связи komandasav@mail.ru РКН: https://www.gosuslugi.ru/snet/67b589741bca1d7fe1750f33",
+  "image": "https://cdn4.telesco.pe/file/ksy2OzFVKpNHRJVg3k9IPMN6-S8J7LkF5KrJeYhtkGAyzoSwN0SSbBGGQGy2oUjFbipsR2pdpPyh76KFO6wh7i4ns_71mNDdtgSnHcthA5ko_V7fgvvJfkAJezYSeGG9B_Aj-WlUOLgMFCl7GLQ24-9foTOl9KQGW_UQ-zxc8OZa81lH18Ap0pvAD04bOM-iYchck0qPvJketVK6lZAU6HSTFjMPe3MFyGYycWw-83R--ZLQwqJB1Xys4DvTfFsWzmCkWMuVrvKn0iqu_udKe6YaCv8yGS4WR1pud-H27Hy24FLKxIcwbyYaetDFT1WQsbvfpBKoxW0Lc_6PlVZ5Cw.jpg"
+ },
+ "https://soshnikov.com/": {
+  "url": "https://soshnikov.com/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Dmitry Soshnikov AKA shwars",
+  "desc": "I am Associate Professor at Higher School of Economics and Moscow Aviation Institute, Technical Lead of AI Lab and HSE School or Art and Design, ex-Microsoft for 16 year, doing Technical Evangelism, AI/ML and F#. I teach AI and Functional/Logic Programming. Passionate father, Digital Artist, Gun Fu Cha master, etc. Opinions are my own and not those of my employers."
+ },
+ "https://signalsystems.ru/": {
+  "url": "https://signalsystems.ru/",
+  "domain": "signalsystems.ru",
+  "ok": false
+ },
+ "https://t.me/shwarsico/719": {
+  "url": "https://t.me/shwarsico/719",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Постоянные читатели моего канала знают, что уже пару лет я участвую в волейбольном автопробеге по России, организованном компанией Комус. Это не потому, что я очень люблю пляжный волейбол - скорее людей, которые это организуют и участвуют. Поэтому в ближайшие 16 дней я буду колесить где-то в Татарстане - именно туда лежит в этом году наш путь! Конкретные города и даты - на картинке. Если вдруг вы живете в каком-то из этих городов - пишите в комментариях! Если кому-то любопытно за всем этим немножко наблюдать: * Самое интересное буду писать сюда, но постараюсь не злоупотреблять. * Рандомные личные фотки и мысли - в специальный канал \"Курированная жизнь\" * А ещё у автопробега есть свой канал Beach Volley Travel Show - там будет много фотографий, отчет о всем путешествии, видеозарисовки (которые я в том числе буду периодически делать). Пишите, о чем бы вам хотелось услышать!",
+  "image": "https://cdn4.telesco.pe/file/FdfzDBGz3X10hLmqTJyKEdJJ6lSFOtwB0NxEmDWV-urJ2DDL-R3G6pWLotWMl6PhxY8ZsoNQg74GLcWyvYOhvxAIYpxVqibW7MKH601-qyZz05LeMQSE4no3dvlKwNlCcY1jjqXdtaOmpNe-7PdseuEEubnvzUT1EJMLqUE9kgfqlqPUQ7tHSD1Vbn34sEUtFdSHXxe1WpZTzzyJI3SKUgOXkWllyH8G_8muU5Nm2yLbpz87vJgDAVa7biTiYFpk9doD5OypSor1rH41p790OPQUKf8aOSwCXrpaWoAc1pIb-70OT-2Vno-Q_15M8SWes_Kzubf-bkWn2Aui_psdow.jpg"
+ },
+ "https://speakerdeck.com/shwars/raznyie-multiaghientnyie-podkhody-dlia-raboty-s-llm-v-yandex-cloud": {
+  "url": "https://speakerdeck.com/shwars/raznyie-multiaghientnyie-podkhody-dlia-raboty-s-llm-v-yandex-cloud",
+  "domain": "speakerdeck.com",
+  "ok": true,
+  "title": "Разные (мультиагентные) подходы для работы с LLM в Yandex Cloud",
+  "image": "https://files.speakerdeck.com/presentations/365d37308994451d951576f28d653a28/slide_0.jpg?31737950"
+ },
+ "https://arxiv.org/pdf/1703.00058": {
+  "url": "https://arxiv.org/pdf/1703.00058",
+  "domain": "arxiv.org",
+  "ok": false
+ },
+ "https://t.me/ivandianov": {
+  "url": "https://t.me/ivandianov",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Канал Ивана Дианова",
+  "desc": "Про генеративную графику и эксперименты с кодом. ivandianov.com Приходите на курс https://setka.design Автор канала @ivan_dianov",
+  "image": "https://cdn4.telesco.pe/file/bNq8aaFBa4xAAxmito0Us5A6am0HDh8eWRPekNf42ylqWU6IB-PqHd9OgVhm3AX9LFNSb5vhsbLL4bYN1sVE5gkfo_EKZC7zUmfqVCY57KiseabWf8-MtZ7Q724cgvOU-GPIvj5vxqKQ7EGqrZleUM8mt3oQ6km9rq5lqqEsWnDqten0zC082DmClnJed-baaIVNHNstdBVjZRHmd7GXLtYmoBLZ0J-HeUAmh--_szSzPLXgVc3-2MJreh_iyFr8c4fuJHr0ssrcMhPgua9da1nzUMkprYdKGAUhYXi2trxsqZYgv-Rwpkn1-oJBD77p-r4q5nXrYHuofTBzHV6GzQ.jpg"
+ },
+ "https://codesync.global/media/fsharp-code-i-love-don-syme": {
+  "url": "https://codesync.global/media/fsharp-code-i-love-don-syme",
+  "domain": "codesync.global",
+  "ok": false
+ },
+ "https://vimeo.com/945586717": {
+  "url": "https://vimeo.com/945586717",
+  "domain": "vimeo.com",
+  "ok": true,
+  "title": "OpenAI GPT-4o guessing May 13th&#x27;s announcement",
+  "desc": "This is &quot;OpenAI GPT-4o guessing May 13th&#x27;s announcement&quot; by OpenAI on Vimeo, the home for high quality videos and the people who love them.",
+  "image": "https://i.vimeocdn.com/video/1851537169-514e63cce084441aba2fa1d21191026d3926a6535ead59a028d57e7764a843d7-d?f=webp&amp;region=us"
+ },
+ "http://soshnikov.com/art/gptheater/labdesires/premiere/": {
+  "url": "http://soshnikov.com/art/gptheater/labdesires/premiere/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Лабиринт желаний - премьера!",
+  "desc": "I am Associate Professor at Higher School of Economics and Moscow Aviation Institute, Technical Lead of AI Lab and HSE School or Art and Design, ex-Microsoft for 16 year, doing Technical Evangelism, AI/ML and F#. I teach AI and Functional/Logic Programming. Passionate father, Digital Artist, Gun Fu Cha master, etc. Opinions are my own and not those of my employers."
+ },
+ "https://mipap.ru/soshnikov_ii": {
+  "url": "https://mipap.ru/soshnikov_ii",
+  "domain": "mipap.ru",
+  "ok": false
+ },
+ "https://b24-hergm1.bitrix24.site/crm_form_xp4sb/": {
+  "url": "https://b24-hergm1.bitrix24.site/crm_form_xp4sb/",
+  "domain": "b24-hergm1.bitrix24.site",
+  "ok": true,
+  "title": "Копия Секретная ссылка. Киноклуб \"Что бы посмотреть с детьми?\"",
+  "image": "https://b24-hergm1.bitrix24.site/crm_form_xp4sb/preview.jpg"
+ },
+ "https://www.hse.ru/org/persons/207502177/": {
+  "url": "https://www.hse.ru/org/persons/207502177/",
+  "domain": "www.hse.ru",
+  "ok": true,
+  "title": "Милкус Александр Борисович",
+  "desc": "Милкус Александр Борисович, Заведующий лабораторией, Проектно-учебная лаборатория медиакоммуникаций в образовании, 28262, Национальный исследовательский университет «Высшая школа экономики»",
+  "image": "https://www.hse.ru/images/fb/hse_ru_thumb.jpg"
+ },
+ "http://sempaitakoo.github.io/": {
+  "url": "http://sempaitakoo.github.io/",
+  "domain": "sempaitakoo.github.io",
+  "ok": true,
+  "title": "SempaiTakoo"
+ },
+ "Gazeta.ru": {
+  "url": "Gazeta.ru",
+  "domain": "Gazeta.ru",
+  "ok": false
+ },
+ "https://www.мынасвязи.орг/#popup:ideatonVSHE": {
+  "url": "https://www.мынасвязи.орг/#popup:ideatonVSHE",
+  "domain": "www.мынасвязи.орг",
+  "ok": false
+ },
+ "https://svet-tsvet.ru/ru/eksperty": {
+  "url": "https://svet-tsvet.ru/ru/eksperty",
+  "domain": "svet-tsvet.ru",
+  "ok": true,
+  "title": "Эксперты | svet-tsvet.ru"
+ },
+ "https://ru.wikipedia.org/wiki/%D0%98%D0%B7_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B": {
+  "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B",
+  "domain": "ru.wikipedia.org",
+  "ok": true,
+  "title": "Из машины — Википедия",
+  "image": "https://thumb.wikimedia.org/wikipedia/ru/thumb/1/13/%D0%98%D0%B7_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_2014%29.jpg/960px-%D0%98%D0%B7_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_2014%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "https://habr.com/ru/articles/818991/": {
+  "url": "https://habr.com/ru/articles/818991/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "Разбираем осьминога",
+  "desc": "Осьминоги странные . Вот представьте, что вы осьминог. Почти всю жизнь вы ребёнок, потому что как только станете взрослым и размножитесь — это запустит эндокринный триггер умирания. В принципе, можно...",
+  "image": "https://habrastorage.org/r/w1560/webt/3d/1d/se/3d1dselxidfcowekt6fxzviwsea.jpeg"
+ },
+ "https://practicum.yandex.ru/profile/yc-ml-businessai/": {
+  "url": "https://practicum.yandex.ru/profile/yc-ml-businessai/",
+  "domain": "practicum.yandex.ru",
+  "ok": true,
+  "title": "Log in"
+ },
+ "https://www.tretyakovgallery.ru/events/o/kak-ii-formiruet-novoe-vospriyatie-iskusstvo-psikhologiya-obuchenie/": {
+  "url": "https://www.tretyakovgallery.ru/events/o/kak-ii-formiruet-novoe-vospriyatie-iskusstvo-psikhologiya-obuchenie/",
+  "domain": "www.tretyakovgallery.ru",
+  "ok": true,
+  "title": "Как ИИ формирует новое восприятие: искусство, психология, обучение - Третьяковская галерея",
+  "image": "http://www.tretyakovgallery.ru/upload/iblock/adc/67l5tz3yko8td2v1q6pxrqa4a0hegvv4.jpg"
+ },
+ "https://stability.ai/blog/stable-diffusion-v2-release": {
+  "url": "https://stability.ai/blog/stable-diffusion-v2-release",
+  "domain": "stability.ai",
+  "ok": true,
+  "title": "Stable Diffusion 2.0 Release — Stability AI",
+  "desc": "The open source release of Stable Diffusion version 2.0.",
+  "image": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/637e82c37e103318bfd0ecbc/1728899834461/Stability+AI+Stable+Diffusion+2.0.jpg?format=1500w"
+ },
+ "https://smotrim.ru/audio/6000882": {
+  "url": "https://smotrim.ru/audio/6000882",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Радиопрограмма Слушаем! Радиоканал - Почти пять миллионов человек с высшим образованием потребуются России к 2032 год - слушать бесплатно онлайн",
+  "desc": "🎧 Радиопрограмма Слушаем! Радиоканал - Почти пять миллионов человек с высшим образованием потребуются России к 2032 год — слушать онлайн бесплатно на пла…",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/902/536/3.jpg"
+ },
+ "https://smotrim.ru/video/2861679": {
+  "url": "https://smotrim.ru/video/2861679",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Радиопрограмма Физики и лирики - Цифровой мир. Пределы ума: на что пока не способен ИИ - смотреть бесплатно онлайн",
+  "desc": "▶️ Радиопрограмма Физики и лирики - Цифровой мир. Пределы ума: на что пока не способен ИИ — смотрите онлайн бесплатно в хорошем качестве на платформе СМОТ…",
+  "image": "https://cdn.smotrim.ru/photobank/old/pic-dk/519/730/8.jpg"
+ },
+ "https://smotrim.ru/audio/2821653": {
+  "url": "https://smotrim.ru/audio/2821653",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Физики и лирики. Цифровой мир. Как поздравить с Днём рождения с помощью нейросети: слушать аудио на Smotrim",
+  "desc": "Как использовать современные технологии для создания уникальных и персонализированных поздравлений и какие подарки можно сделать с помощью ИИ, рассказал д…",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/901/862/0.png"
+ },
+ "https://www.midlibrary.io/": {
+  "url": "https://www.midlibrary.io/",
+  "domain": "www.midlibrary.io",
+  "ok": false
+ },
+ "https://www.youtube.com/watch?v=wifc91rTc2w": {
+  "url": "https://www.youtube.com/watch?v=wifc91rTc2w",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://www.1tv.ru/shows/dobroe-utro/reportazh/dipfeyk-naydite-10-otlichiy-nu-hot-odno-dobroe-utro-fragment-vypuska-ot-26-05-2025": {
+  "url": "https://www.1tv.ru/shows/dobroe-utro/reportazh/dipfeyk-naydite-10-otlichiy-nu-hot-odno-dobroe-utro-fragment-vypuska-ot-26-05-2025",
+  "domain": "www.1tv.ru",
+  "ok": true,
+  "title": "Дипфейк: найдите 10 отличий! Ну, хоть одно. Доброе утро. Фрагмент выпуска от 26.05.2025",
+  "desc": "На создание дипфейка понадобится всего одна фотография, пара слов с диктофона и пара минут времени. Простейший ИИ-генератор сгенерирует ролик, который будет выглядеть весьма натурально. А если добавить глубинную проработку изображения и звука, получится дипфейк, едва отличимый от оригинального видео!",
+  "image": "https://static.1tv.ru/uploads/video/material/splash/2025/05/26/962879/big/962879_big_2899b6a49f.jpg"
+ },
+ "https://t.me/ycsocialtech/": {
+  "url": "https://t.me/ycsocialtech/",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Центр технологий для общества Yandex Cloud",
+  "desc": "Реализуем социально значимые проекты в области образования и науки, здравоохранения, экологии и культуры. На канале публикуем свежие новости, анонсы предстоящих событий и проекты Центра. Присоединяйтесь к закрытому комьюнити: https://clck.ru/3SH9gm",
+  "image": "https://cdn4.telesco.pe/file/lGWtX6AWC42cPmnFDbBuxl3U2Jqi832d6pavzOmx7P50OZ75roS9WPW706z9_4SFA4IRKzK6PwulcDWEF_fGjGn18c1-iQxLOBLaehMfyI_D4YgQtWu3oxnmTeTrgS09o8dvnW5ZQeo_L8pFX5I0sHI8J7NIHGbC3xOVmqnOhK4b3Zfmy6T6K2njZqmPJ9f4jNmgLSfS4LjuVBMshTp4lUVpsPtxqXVdSF7YqmM6jkBlrAyy7w0Ji1BVTrl3ooej7gEr9XO8P4Edi_fTtCKt6XE6t8voMnqDQQ5-COnTEkOFpaVBo6dEqvz7rQE7kdcSirmc1O7a4h_xsepBLB7KSA.jpg"
+ },
+ "http://github.com/shwars/ai_course": {
+  "url": "http://github.com/shwars/ai_course",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - shwars/ai_course",
+  "desc": "Contribute to shwars/ai_course development by creating an account on GitHub.",
+  "image": "https://opengraph.githubassets.com/bc14b82f98ebaf65992bea5254dc127dc82d312f62c2a37ebd7ea66ccf1837b2/shwars/ai_course"
+ },
+ "https://github.com/epogrebnyak/functional-programming-jargon": {
+  "url": "https://github.com/epogrebnyak/functional-programming-jargon",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - epogrebnyak/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+  "desc": "Jargon from the functional programming world in simple terms! - epogrebnyak/functional-programming-jargon",
+  "image": "https://opengraph.githubassets.com/28bf878de8dda5b5d01aedf42354a3b0a027fab27746307641e4b4a0b0243b6d/epogrebnyak/functional-programming-jargon"
+ },
+ "https://forms.yandex.ru/surveys/13746097.352b9ec3532ff634dc1c721641e0f3f000644f9c/": {
+  "url": "https://forms.yandex.ru/surveys/13746097.352b9ec3532ff634dc1c721641e0f3f000644f9c/",
+  "domain": "forms.yandex.ru",
+  "ok": true,
+  "title": "Яндекс Формы"
+ },
+ "https://www.kommersant.ru/doc/8907150": {
+  "url": "https://www.kommersant.ru/doc/8907150",
+  "domain": "www.kommersant.ru",
+  "ok": true,
+  "title": "Победа открытых весов",
+  "desc": "Как 270 компаний выступили против ограничения открытых ИИ-моделей в США",
+  "image": "https://im2.kommersant.ru/SocialPics/8907150_49_3190220_196453232"
+ },
+ "https://gigaconf.ru/": {
+  "url": "https://gigaconf.ru/",
+  "domain": "gigaconf.ru",
+  "ok": true,
+  "title": "GigaConf 2025 // ÐÐ¾ÑÐºÐ²Ð°, 25 Ð¸ÑÐ½Ñ",
+  "desc": "GigaConf 2025 â Ð£Ð·Ð½Ð°Ð¹, ÐºÐ°Ðº GenAI Ð¼ÐµÐ½ÑÐµÑ ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÑ. ÐÐ¾Ð»ÑÑÐ°Ñ ÐºÐ¾Ð½ÑÐµÑÐµÐ½ÑÐ¸Ñ Ð¡Ð±ÐµÑÐ° Ð¿ÑÐ¾ Ð³ÐµÐ½ÐµÑÐ°ÑÐ¸Ð²Ð½ÑÐ¹ ÐÐ",
+  "image": "/assets/sharing-image.1976d3c0.jpg"
+ },
+ "https://youtube.com/live/ZAXgxPiysw8": {
+  "url": "https://youtube.com/live/ZAXgxPiysw8",
+  "domain": "youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D1%85%D0%B0%D1%82%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87": {
+  "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D1%85%D0%B0%D1%82%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87",
+  "domain": "ru.wikipedia.org",
+  "ok": true,
+  "title": "Семихатов, Алексей Михайлович — Википедия",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Alexey_Semikhatov_-_2025-04-12_-_p7.jpg/1280px-Alexey_Semikhatov_-_2025-04-12_-_p7.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+ },
+ "https://dotnext.ru/talks/cf67d861f2c94734b59ce860e739bb5e/": {
+  "url": "https://dotnext.ru/talks/cf67d861f2c94734b59ce860e739bb5e/",
+  "domain": "dotnext.ru",
+  "ok": true,
+  "title": "Введение в теорию функционального программирования с примерами на F# | Доклад на DotNext 2023",
+  "desc": "Дмитрий расскажет про формальные основы функционального программирования и поговорит о двух математических теориях, лежащих в основе этого подхода: лямбда-исчислении и теории категорий. Примеры в докладе будут на языке F#.",
+  "image": "https://squidex.jugru.team/api/assets/srm/c121e8b3-bfc8-4e5d-976d-25c84a425e55/vvedenie-v-teoriyu-funkcionalsnogo-programmirovaniya-og-speaker-ru.png"
+ },
+ "https://yandex.cloud/ru/events/890": {
+  "url": "https://yandex.cloud/ru/events/890",
+  "domain": "yandex.cloud",
+  "ok": true,
+  "title": "Промпт-инжиниринг: как писать запросы к LLM и получать максимум",
+  "desc": "Как составить запрос к языковой модели, чтобы получить максимум пользы",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/129d4e10a263d7d647091181265258ac5270ff77.png"
+ },
+ "https://rg.ru/2026/07/05/chto-izmenit-v-shkolah-novyj-standart-dlia-10-11-klassov.html": {
+  "url": "https://rg.ru/2026/07/05/chto-izmenit-v-shkolah-novyj-standart-dlia-10-11-klassov.html",
+  "domain": "rg.ru",
+  "ok": false
+ },
+ "http://t.me/distheartbot": {
+  "url": "http://t.me/distheartbot",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Пульс распределённого тела",
+  "desc": "Добро пожаловать в перформанс-экспонат \"Пульс распределённого тела\". Наберите /about, чтобы узнать больше.",
+  "image": "https://cdn4.telesco.pe/file/v49krOOdHNnBsXtdcaXlwk9kCVR7q9mpK7LkSI3n_WKVTRwggMUsx-rl_Lnf2oecaNAHK--Q_NJpkVnRVDV21kRz31JwJx6RX3emOqjJqRawDVQQtecwwwW61EYz697Pv70ogUZ_PPWUrIUIB2d2qVCPhSaRHCXRlKXsjO8CKeHrCZcfT0wfDjkJbwcQsWZjR5e16W_eRjjGHlmCHGphimoDMqJPl10FrLCYCjR7Y_bjn83eUesGSIcDSMiHTm9DLVvqZUtjZy7V5lLQOxbYIoG_Y5G8sLFC24rETSeB4w9aEPLx_1lP7V55cq4ptAXOMOKtVd67Yx3xfS1UrkI0Mw.jpg"
+ },
+ "https://soshnikov.com/scienceart/how-to-use-stable-diffusion-ru/": {
+  "url": "https://soshnikov.com/scienceart/how-to-use-stable-diffusion-ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Как использовать Stable Diffusion и другие нейросети для генерации изображений",
+  "desc": "Вы наверняка слышали про то, что нейросети прекрасно справляются с генерацией изображений! В этой статье я опишу несколько способов начать использовать генеративную сеть Stable Diffusion."
+ },
+ "https://t.me/govoriuverenno": {
+  "url": "https://t.me/govoriuverenno",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Андрей Матюхин | рабочее и личное",
+  "desc": "• Радиоведущий (Радио России, Радио Культура) • Преподаватель (Институт медиа НИУ ВШЭ) • Наставник по ораторскому искусству • Модератор, ведущий бизнес-мероприятий Сотрудничество: @bospor_a",
+  "image": "https://cdn4.telesco.pe/file/BjZtfIP46C4gTZl7tvDbqI1O0mun-NcR3kePMfYFBjSLFFvhdz_SWxXZCwB0LEMpfLm0nsC57WRwzCmpnoP2qeg6LKCkFclcwz3FSvoEghCFrKAygdRAGoMxaDIJtNOnZGo_p_a4aCf3TOr_gr3jjVaoEGVvLEe81sjGjMkNNHRzdAP0VSFrysRPkIDtE1GdO1IcqF_tbHfADYHKgUrNf4V5bbtLaJ2tjnFck0EdvnkZc-WnDVQAgBgqBHHOHrEmrdJGLpIyXTGgiQiYy1tjPFopo-zdqZIWa1xN0Z9XMDBfR9MSTVu6whvNPJ03TZkj2rTZMaL3qsXl9736tfH6Sw.jpg"
+ },
+ "https://t.me/s/oulenspiegel_channel": {
+  "url": "https://t.me/s/oulenspiegel_channel",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Сергей Марков: машинное обучение, искусство и шитпостинг",
+  "desc": "Машинное обучение, искусственный интеллект, искусство, мемасы, всякое личное и странноэ",
+  "image": "https://cdn4.telesco.pe/file/vmFWABQQpaddG5QKk_d_y_jbemQvobhHapPoN2-i_-cZjdRLVxZkv76qQrp7ue6eayfeOkXacriCb5hnAKfwH2Cj5qn8TFx0Sa7HLtpDoHV_3K8JzSkk1fkmAGncrE6uovRZt1e_EXQHXeMW6TNGOhytBW-_4PMY4T_K770myCByFNgvFZGkY7GFyPv3-vPv3adj2oo5jX4vpihwfXla1vJMIgMatDsqX36fyPD5EP8A0n37d6uQDp5jCDmvxwxL_6RDpPynb1rZ6J7nUlRhnGrHGpJrrOWE8MJ66I0Ndtv4VUN4uhEifBab3OV5Nrrf6Ru_89R2AMVAceqRX_vjcg.jpg"
+ },
+ "https://youtu.be/ZNzKEgcX9Ec": {
+  "url": "https://youtu.be/ZNzKEgcX9Ec",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://techtrain.ru/talks/d323bf766166401f9fc93027aaf7b0a1/": {
+  "url": "https://techtrain.ru/talks/d323bf766166401f9fc93027aaf7b0a1/",
+  "domain": "techtrain.ru",
+  "ok": true,
+  "title": "Программируем игры с ChatGPT: экспресс-хакатон | Доклад на TechTrain 2023 Autumn",
+  "desc": "Мы познакомимся к тем, как работают генеративные сети типа ChatGPT, и как с помощью них быстро писать код. Во время основного доклада мы вместе попробуем написать простую игру на Python. После доклада перейдем в Zoom, где вы сможете попробовать написать свою игру.",
+  "image": "https://squidex.jugru.team/api/assets/srm/79c15323-eea5-4c5f-a113-dc22f9618ccf/image.png"
+ },
+ "https://dzen.ru/a/ZEWc1wVoDBX7epbD": {
+  "url": "https://dzen.ru/a/ZEWc1wVoDBX7epbD",
+  "domain": "dzen.ru",
+  "ok": false
+ },
+ "https://t.me/dubininvaofficial": {
+  "url": "https://t.me/dubininvaofficial",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Дубынин о мозге 🧠",
+  "desc": "Официальный канал д.биол.н., профессора Вячеслава Альбертовича Дубынина 📚 Узнай, как взять от своего мозга по максимуму и остаться здоровым. Увлекательно, полезно, на основе научных данных РКН: https://clck.ru/3G5Gcr Для связи: dubynin.brain@yandex.ru",
+  "image": "https://cdn4.telesco.pe/file/kRaTpy_Giebpy0uVuQ0Jjw0zeIVQJm2o4K0ZnbQ-acbaG93nWyJcJrsu8KCLjkISxtEjyivND1TkAKPrOmKZweZnI2M73SuORRlXuPYErz4yyonDLokhEAIT6JGsCbYv_iwicsIgzQDyuJ71IBWChN3Qo1YZxcr56EaaYjo_TQULiDKnK5G1PtFamaHkzHsadILk3-Bcsg5WtC7FwWImC_Xkx5xzJ_-IKGZl9Q5nF4bfIgh9d_BOIQlsi8WnjiUQ3HxKFNe6TiKDoNPy_tKrFNDQeawx6BD9avlLictpd5xjEiQcUiv4SQJgWSKgdC5ovmz4qh7W583CPIjMnClQEQ.jpg"
+ },
+ "vk.com/video-217173088_4562390": {
+  "url": "vk.com/video-217173088_4562390",
+  "domain": "vk.com/video-217173088_4562390",
+  "ok": false
+ },
+ "https://daily.afisha.ru/news/107057-v-yaponii-sozdali-pervogo-robota-buddista/": {
+  "url": "https://daily.afisha.ru/news/107057-v-yaponii-sozdali-pervogo-robota-buddista/",
+  "domain": "daily.afisha.ru",
+  "ok": true,
+  "title": "В Японии создали первого робота-буддиста",
+  "desc": "Самое умное российское издание о развлечениях и самое веселое из культурных",
+  "image": "https://img04.rl0.ru/afisha/e1200x630i/daily.afisha.ru/uploads/images/4/ee/4ee52bac9d6f13ffdbee54f60aec82ae.png"
+ },
+ "https://yandex.ru/scholarships": {
+  "url": "https://yandex.ru/scholarships",
+  "domain": "yandex.ru",
+  "ok": true,
+  "title": "Yandex ML Prize",
+  "desc": "Премия Яндекса при экспертной поддержке Школы анализа данных за вклад в развитие ML",
+  "image": "http://yandex.ru/scholarships/static/social-share.png"
+ },
+ "https://ria.ru/20251031/ege-2052013952.html": {
+  "url": "https://ria.ru/20251031/ege-2052013952.html",
+  "domain": "ria.ru",
+  "ok": true,
+  "title": "В Общественной палате допустили появление ЕГЭ по ИИ",
+  "desc": "Заместитель секретаря Общественной палаты РФ Владислав Гриб в интервью РИА Новости предположил, что в будущем может появиться ЕГЭ по искусственному интеллекту и РИА Новости, 31.10.2025",
+  "image": "https://cdnn21.img.ria.ru/images/sharing/article/2052013952.jpg?20187336241761898473"
+ },
+ "https://t.me/shwarsico/321": {
+  "url": "https://t.me/shwarsico/321",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "К вопросу об эзотерических языках программирования. В курсе FuncLogPro, который я читаю в вышке, студенты пишут большую лабораторку на создание интерпретатора своего языка программирования. При этом эзотеричность языка - один из критериев оценки. Смотрите, какой прекрасный язык на основе emoji придумал один студент! При этом его очень легко парсить, т.к. осовные значащие элементы - это emoji! Вот пример вычисления факториала: 💠⬅️ factorial function (recursive) 🆕 function definition 💠⏸ 🛑⏸ stopper 🅰️⏸ aggregator ♻️ curr ➡️ function body ❓ if ▶️⚖️⏸▶️➕⏸🛑⏸1️⃣◀️⏸♻️◀️ curr=stopper+1: ⏸ then 🅰️ return aggregator ⏸ else: ▶️💠⏸💠 recursively call with: ⏸ 🛑 stopper- ⏸ ▶️❌⏸🅰️⏸♻️◀️ aggregator*curr ⏸ ▶️➕⏸♻️⏸1️⃣◀️ curr+1 ◀️ 🔚 if end 🔚 function end ⏹ let's wrap it up nicely into an easy to use function ❗️⬅️🆕🅰️➡️▶️💠⏸…",
+  "image": "https://cdn4.telesco.pe/file/VXjIGIFC2bVPlrD46J_mwVTuWhJf26_K-R4BSKU6rAlbAZ9FirAg84s7zWN7xlSynBpeCLkPOCMEU-eNHFoR6S2l9hPPyxdl09zLXaXf2lUeIEzjHcDsGeNGiwbt8ATpQcbrr8fFtzfoQRsl4OXVDBxr6GAYSnTvKPm-Pyt1GcdPgGwnAM_rnP1bMszJ4gWVspvz6d-ISvog--ixbucRJ5swWM-uo7xYNSfsnqt0-3sQgA-Cdn00MtlfQUmckdIWHmxCTVyqYnZn8oHF65lzCyr3scPiWWkjo6jar1wEmRpIVXM6IxShLkSGw6S0JLN6Bu94C9-3z9fQOEkXa7rvaQ.jpg"
+ },
+ "https://experimentanium.ru/show/nejroseti-v-shkole-pomoshh-ili-pomexa.html": {
+  "url": "https://experimentanium.ru/show/nejroseti-v-shkole-pomoshh-ili-pomexa.html",
+  "domain": "experimentanium.ru",
+  "ok": false
+ },
+ "https://yandex.cloud/ru/events/1282": {
+  "url": "https://yandex.cloud/ru/events/1282",
+  "domain": "yandex.cloud",
+  "ok": true,
+  "title": "От AI-ассистента к многоагентным системам",
+  "desc": "Что такое многоагентная система и как организовать взаимодействие AI-агентов в облаке.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/23249d2708b0fc7c9dd991ca9c3fae44dbc43495.png"
+ },
+ "https://youtu.be/-4rPmw818qc?t=2219": {
+  "url": "https://youtu.be/-4rPmw818qc?t=2219",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://soshnikov.com/scienceart/smoke-on-onega-play-by-chatgpt-ru/": {
+  "url": "https://soshnikov.com/scienceart/smoke-on-onega-play-by-chatgpt-ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Сердце в игре: Дым над Онегой",
+  "desc": "В ходе недавней поездки Beach Volley Road Show мы с Алеком Петуком проделали эксперимент по коллективному написанию искусственно-интеллектуальной человеко-машинной пьесы с помощью ChatGPT. Секретную методику такого мероприятия я раскрою чуть позже, пока же предлагаю Вашему вниманию результат - пьесу, написанную коллективно участниками поездки (около 20 человек) и ChatGPT"
+ },
+ "https://vkvideo.ru/video-69306530_456240072": {
+  "url": "https://vkvideo.ru/video-69306530_456240072",
+  "domain": "vkvideo.ru",
+  "ok": true,
+  "title": "ВКонтакте | VK Видео"
+ },
+ "https://t.me/shwarsmedia/5": {
+  "url": "https://t.me/shwarsmedia/5",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Передача \"Мой район\" 1 октября 2025 г. на канале Москва Доверие с Денисом Клявером и моим участием про нейросети. Фрагмент.",
+  "image": "https://cdn4.telesco.pe/file/PbE0NMOWU_gHpYJA4w1qllcxXqSir9JsHDoBbA1-jt5n5OJ_mGNamgRupgHgm9vqwGeW3RaVVhKxyuzVfyoexGobsy0-HZiWvPePejlAUA0U6dc_9s5_Vy-8ndSRuvXiRyo_E1K1_5Sij__70yWR7VgYqd_5_ysRAlC25Tq6P4cJvdbVbD3H1GLa5zIMc8UI1g9FIWf4Hyq31hvKgV76Bq9nh7Udd2hOenP_O5qTSvc3i7NR8mlNPfWVniqz0ak9dPvyiFZbXQyxSFX4zfhvLAI4b7iYT-1a113B4RmWTe3-WPJ9cBz7FwNbNxl7eegeOMTDzB6PLIpS5W2jVpFA6w"
+ },
+ "https://smotrim.ru/audio/2829384": {
+  "url": "https://smotrim.ru/audio/2829384",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Всё сразу!. Дeнь зубнoгo вpaчa, мода на оверсайз сворачивается и др.: слушать аудио на Smotrim",
+  "desc": "- Мeждунapoдный дeнь зубнoгo вpaчa._x000D_ - Как подготовить автомобиль к весне?_x000D_ - Почему нужно забыть про оверсайз?_x000D_ - ИИ научился распознав…",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/901/896/8.jpg"
+ },
+ "https://forms.yandex.ru/surveys/13772601.b5d450a34271f463916689b678f18c7d4e3137d2/": {
+  "url": "https://forms.yandex.ru/surveys/13772601.b5d450a34271f463916689b678f18c7d4e3137d2/",
+  "domain": "forms.yandex.ru",
+  "ok": true,
+  "title": "Яндекс Формы"
+ },
+ "https://lenta.ru/news/2016/06/06/snails/": {
+  "url": "https://lenta.ru/news/2016/06/06/snails/",
+  "domain": "lenta.ru",
+  "ok": true,
+  "title": "Раскрыт механизм принятия важных решений у улиток",
+  "desc": "Нейробиологи из Сассекского университета обнаружили, что принятие сложных решений может зависеть только от двух взаимосвязанных между собой нейронов. К такому выводу ученые пришли, изучив активность мозга пресноводных улиток во время поиска пищи. Результаты исследования опубликованы в журнале Nature Communications.",
+  "image": "https://icdn.lenta.ru/assets/webpack/images/stubs/no_image/share.b6e27b66.jpg"
+ },
+ "https://smotrim.ru/video/2715585": {
+  "url": "https://smotrim.ru/video/2715585",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Радиопрограмма Физики и лирики - Цифровой мир. Продукты от искусственного интеллекта - смотреть бесплатно онлайн",
+  "desc": "▶️ Радиопрограмма Физики и лирики - Цифровой мир. Продукты от искусственного интеллекта — смотрите онлайн бесплатно в хорошем качестве на платформе СМОТРИ…",
+  "image": "https://cdn.smotrim.ru/photobank/old/pic-dk/460/854/0.jpg"
+ },
+ "https://yandex.ru/portal/new_year_tree?shared_toy=52e52f74e0ef11f09d50227b56b52b2f": {
+  "url": "https://yandex.ru/portal/new_year_tree?shared_toy=52e52f74e0ef11f09d50227b56b52b2f",
+  "domain": "yandex.ru",
+  "ok": false
+ },
+ "https://smotrim.ru/audio/2811532": {
+  "url": "https://smotrim.ru/audio/2811532",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Физики и лирики. Цифровой мир. Как ИИ помогает разгадывать загадки искусства: слушать аудио на Smotrim",
+  "desc": "Доцент факультета компьютерных наук ВШЭ Дмитрий Сошников рассказал о возможностях искусственного интеллекта в исследовании и анализе произведений искусств…",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/901/862/0.png"
+ },
+ "https://www.uts.edu.au/news/tech-design/portable-non-invasive-mind-reading-ai-turns-thoughts-text": {
+  "url": "https://www.uts.edu.au/news/tech-design/portable-non-invasive-mind-reading-ai-turns-thoughts-text",
+  "domain": "www.uts.edu.au",
+  "ok": true,
+  "title": "Portable, non-invasive, mind-reading AI turns thoughts into text | UTS",
+  "desc": "Researchers from the GrapheneX-UTS Human-centric Artificial Intelligence Centre have developed a portable, non-invasive system that can decode thoughts and turn them into text.",
+  "image": "https://www.uts.edu.au/AdaptiveImages/optimizely/3f5b976b-5332-4f08-9e8b-a48015960689/brain-ai-page-banner-1983x793.jpg?cropleft=595&cropright=1388&stamp=a19bd3fe5e1d527edce47d79d6b2428a47bb6e18"
+ },
+ "https://dzen.ru/a/ZTUPZk0VdTsHyBNY": {
+  "url": "https://dzen.ru/a/ZTUPZk0VdTsHyBNY",
+  "domain": "dzen.ru",
+  "ok": false
+ },
+ "https://data-fusion.ru/": {
+  "url": "https://data-fusion.ru/",
+  "domain": "data-fusion.ru",
+  "ok": true,
+  "title": "Data Fusion 2026",
+  "image": "https://data-fusion.ru/images/datafusion-1200x640-2026.png"
+ },
+ "https://github.com/openai/imagegencam": {
+  "url": "https://github.com/openai/imagegencam",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - openai/imagegencam: A digital camera you can build yourself with Codex.",
+  "desc": "A digital camera you can build yourself with Codex. - openai/imagegencam",
+  "image": "https://opengraph.githubassets.com/2b5a970eb5bd09ea28d43b69fac729e26d4aaae6543b47f6c4e4c5fa19c30016/openai/imagegencam"
+ },
+ "https://www.visma.lt/blog/2019/12/23/interview-with-dmitry-soshnikov-a-microsoft-cloud-developer-advocate/": {
+  "url": "https://www.visma.lt/blog/2019/12/23/interview-with-dmitry-soshnikov-a-microsoft-cloud-developer-advocate/",
+  "domain": "www.visma.lt",
+  "ok": true,
+  "title": "Visma | We own and shape business software companies into market leaders.",
+  "desc": "Our mission-critical software companies operate close to their customers – in their language, under their laws.",
+  "image": "https://cdn.prod.website-files.com/69787181d8720ea08c1f22d4/6a16e324827b550299fdcb34_visma-open-graph-img.png"
+ },
+ "https://habr.com/ru/news/732834/": {
+  "url": "https://habr.com/ru/news/732834/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "Учёные создали языковой декодер на основе GPT-1, который читает мысли человека без нейрохирургического вмешательства",
+  "desc": "Учёные Техасского университета в Остине разработали языковой декодер, который может переводить мысли человека в текст при помощи искусственного интеллекта и функционального магнитно-резонансного...",
+  "image": "https://habrastorage.org/getpro/habr/upload_files/436/e90/c8d/436e90c8df6b98670ec70344bae31d06.jpg"
+ },
+ "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2013)": {
+  "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2013)",
+  "domain": "ru.wikipedia.org",
+  "ok": true,
+  "title": "Она (фильм, 2013) — Википедия",
+  "image": "https://upload.wikimedia.org/wikipedia/ru/6/6a/Her_%28Film_2013%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "https://rg.ru/2025/11/02/v-rossii-predlozhili-vvesti-edinyj-gosekzamen-po-iskusstvennomu-intellektu.html": {
+  "url": "https://rg.ru/2025/11/02/v-rossii-predlozhili-vvesti-edinyj-gosekzamen-po-iskusstvennomu-intellektu.html",
+  "domain": "rg.ru",
+  "ok": false
+ },
+ "https://www.junio-r.org/": {
+  "url": "https://www.junio-r.org/",
+  "domain": "www.junio-r.org",
+  "ok": true,
+  "title": "Основная | Юнио-Р",
+  "desc": "Международный детский ИТворческий лагерь Юнио-Р",
+  "image": "https://static.wixstatic.com/media/325479_df45cb5e736940ad906eb8a2d9a00390%7Emv2_d_1228_1232_s_2.jpg/v1/fit/w_2500,h_1330,al_c/325479_df45cb5e736940ad906eb8a2d9a00390%7Emv2_d_1228_1232_s_2.jpg"
+ },
+ "https://dotnext.ru/schedule/days/1": {
+  "url": "https://dotnext.ru/schedule/days/1",
+  "domain": "dotnext.ru",
+  "ok": false
+ },
+ "https://vkvideo.ru/video-44024245_456240625": {
+  "url": "https://vkvideo.ru/video-44024245_456240625",
+  "domain": "vkvideo.ru",
+  "ok": true,
+  "title": "ВКонтакте | VK Видео"
+ },
+ "https://oktavaklaster.ru/museum/vyistavka-blizkie-tehnologii/": {
+  "url": "https://oktavaklaster.ru/museum/vyistavka-blizkie-tehnologii/",
+  "domain": "oktavaklaster.ru",
+  "ok": true,
+  "title": "Выставка «Близкие технологии» | Выставки, экскурсии в кластере «Октава»",
+  "desc": "Выставки в Музее станка и залах временных экспозиций: Выставка «Близкие технологии».",
+  "image": "/static/img/og-img.jpg"
+ },
+ "https://www.gazeta.ru/science/2024/08/10/19547815.shtml": {
+  "url": "https://www.gazeta.ru/science/2024/08/10/19547815.shtml",
+  "domain": "www.gazeta.ru",
+  "ok": true,
+  "title": "Document"
+ },
+ "https://rg.ru/2026/07/05/ekspert-soshnikov-rasskazal-kakie-navyki-raboty-s-ii-nuzhny-shkolnikam.html": {
+  "url": "https://rg.ru/2026/07/05/ekspert-soshnikov-rasskazal-kakie-navyki-raboty-s-ii-nuzhny-shkolnikam.html",
+  "domain": "rg.ru",
+  "ok": false
+ },
+ "https://soshnikov.com/art/gptheater/ru/": {
+  "url": "https://soshnikov.com/art/gptheater/ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Лаборатория искусственной генеративной пьесы",
+  "desc": "I am Associate Professor at Higher School of Economics and Moscow Aviation Institute, Technical Lead of AI Lab and HSE School or Art and Design, ex-Microsoft for 16 year, doing Technical Evangelism, AI/ML and F#. I teach AI and Functional/Logic Programming. Passionate father, Digital Artist, Gun Fu Cha master, etc. Opinions are my own and not those of my employers."
+ },
+ "https://www.amazon.com/Generative-Art-Practical-Guide-Processing/dp/1935182625": {
+  "url": "https://www.amazon.com/Generative-Art-Practical-Guide-Processing/dp/1935182625",
+  "domain": "www.amazon.com",
+  "ok": true,
+  "title": "Amazon.com"
+ },
+ "https://priem.mai.ru/news/item.php?id=176372": {
+  "url": "https://priem.mai.ru/news/item.php?id=176372",
+  "domain": "priem.mai.ru",
+  "ok": true,
+  "title": "День науки в МАИ 2025, ежегодное мероприятие в рамках Всероссийского фестиваля NAUKA 0+",
+  "desc": "Погрузись в мир открытий и технологий вместе с МАИ!",
+  "image": "https://mai.ru/upload/iblock/9a2/md3h7vvgt0h9kc6t40t8fs6sneyjeg5t/den-nauki-2025-1920kh1200-_3_.png"
+ },
+ "Suni.ai/Udio": {
+  "url": "Suni.ai/Udio",
+  "domain": "Suni.ai/Udio",
+  "ok": false
+ },
+ "https://github.com/orgs/community/discussions/205975": {
+  "url": "https://github.com/orgs/community/discussions/205975",
+  "domain": "github.com",
+  "ok": true,
+  "title": "Thank you for being part of the GitHub Classroom journey 🎓 · community · Discussion #205975",
+  "desc": "GitHub Classroom is now retired as we complete the transition to partner solutions GitHub Classroom has now reached the end of its journey. Since it launched ten years ago, over 3.73 million studen...",
+  "image": "https://opengraph.githubassets.com/0ae3da8b655529a3c19e50ec2223d0b1ee6d05f713cccca4b2f5c5d33f01606b/orgs/community/discussions/205975"
+ },
+ "https://clck.ru/3MV2ny": {
+  "url": "https://clck.ru/3MV2ny",
+  "domain": "clck.ru",
+  "ok": true,
+  "title": "Приём докладов | Practical ML Conf 2025",
+  "desc": "PML Conf — ежегодная конференция от Яндекса, посвящённая технологиям, которые уже сейчас приносят пользу бизнесу. Ждём ваши хардовые доклады по направлениям: CV, NLP, Speech, RecSys, MLOps, Data Science.",
+  "image": "https://avatars.mds.yandex.net/get-lpc/9736426/d868fafb-b67f-43b7-853e-9baca1e6346c/orig"
+ },
+ "https://live.skillbox.ru/calendar/?event=1764": {
+  "url": "https://live.skillbox.ru/calendar/?event=1764",
+  "domain": "live.skillbox.ru",
+  "ok": true,
+  "title": "Расписание вебинаров",
+  "desc": "Вебинары и видеообучение помогут самостоятельно освоить навыки дизайна, программирования, маркетинга, управления, разработки игр и работы с мультимедиа. Ознакомьтесь с расписанием вебинаров на ближайшие дни. Смотрите прошедшие трансляции.",
+  "image": "https://cdn.skillbox.pro/wbd-front/skillbox-static/general/og/OG_1200x630_tg_fb_tw.png"
+ },
+ "https://smotrim.ru/video/2783723": {
+  "url": "https://smotrim.ru/video/2783723",
+  "domain": "smotrim.ru",
+  "ok": false
+ },
+ "https://youtu.be/MxvnOkHGplY": {
+  "url": "https://youtu.be/MxvnOkHGplY",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://80.lv/articles/children-s-book-generated-with-chatgpt-midjourney/": {
+  "url": "https://80.lv/articles/children-s-book-generated-with-chatgpt-midjourney/",
+  "domain": "80.lv",
+  "ok": true,
+  "title": "Children's Book Generated With ChatGPT & Midjourney",
+  "desc": "It took just one weekend to create the idea, make illustrations, and publish the book.",
+  "image": "https://cdn.80.lv/api/upload/meta/24021/images/639856f58d7f2/contain_1200x630.jpg"
+ },
+ "http://bard.google.com/": {
+  "url": "http://bard.google.com/",
+  "domain": "bard.google.com",
+  "ok": true,
+  "title": "‎Google Gemini",
+  "desc": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.",
+  "image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
+ },
+ "https://t.me/ai_da_lanka/77": {
+  "url": "https://t.me/ai_da_lanka/77",
+  "domain": "t.me",
+  "ok": true,
+  "title": "AI Lanka",
+  "desc": "Забавная история. Человек, будучи в командировке в Питере, послал домой в Москву открытку в мае этого года. И вот, под новый год, открытка пришла-таки! Путешествие из Петербурга в Москву у неё заняло 7 месяцев, видимо ее доставляли пешком ;) Эта история вдохновила меня на рекламный ролик.",
+  "image": "https://cdn4.telesco.pe/file/geVUaUtgSnV2LGL0-aWtWzIBdBhDoV-lap1orRBKP7Q2tvIGQAhBD013B9URnqvZFw0kbfxZ9oJNRqjXE7ZmnpxKvWUMw-wbdmy95MrKdG-KnZIEEVs_11uu8OGgAFPtdKQspEGhPN1QLGijgFQb9QxtzNeqPfPh0l-dbdqEJskT46ApEvEy-ko9ETC6TlLuI9h1qn5vhxVYS-WIEmAaD49F9xeENFhM4z287_yIJTZRjhjUyHSJVjaPD5nSmML571CLjYrfcqrMM1kR7vfrfSSrhLL6nW-pHQYA1KvIQ6Oajk204--IRN26UQTaNCDBYG2DHjPc49qAhjoFaqvbhw"
+ },
+ "https://signalsystems.ru/program/communication/": {
+  "url": "https://signalsystems.ru/program/communication/",
+  "domain": "signalsystems.ru",
+  "ok": false
+ },
+ "https://yatalks.yandex.ru/ru/program/mozhet-li-ai-tvorit-iskusstvo-i-kak-khudozhniku-nauchitsya-rabotat-vmeste-s-nim": {
+  "url": "https://yatalks.yandex.ru/ru/program/mozhet-li-ai-tvorit-iskusstvo-i-kak-khudozhniku-nauchitsya-rabotat-vmeste-s-nim",
+  "domain": "yatalks.yandex.ru",
+  "ok": true,
+  "title": "deep tech night",
+  "desc": "Конференция Яндекса о вызовах, с которыми IT-индустрия сталкивается в эпоху AI",
+  "image": "https://avatars.mds.yandex.net/get-lpc/17495851/d7b90a02-8213-4d4f-bcea-b1631a21b975/orig"
+ },
+ "DeepLearning.AI": {
+  "url": "DeepLearning.AI",
+  "domain": "DeepLearning.AI",
+  "ok": false
+ },
+ "https://www.youtube.com/watch?v=_9LX9HSQkWo": {
+  "url": "https://www.youtube.com/watch?v=_9LX9HSQkWo",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://cloud.yandex.ru/blog/posts/2023/10/irbis": {
+  "url": "https://cloud.yandex.ru/blog/posts/2023/10/irbis",
+  "domain": "cloud.yandex.ru",
+  "ok": true,
+  "title": "«Спасая один вид, мы спасаем экосистему»: зачем изучать снежных барсов с помощью нейросетей",
+  "desc": "23 октября — Международный день снежного барса. Мы создали нейросеть для обработки данных с фотоловушек. Зачем это учёным — рассказывают директор Сайлюгемского национального парка Денис Маликов и архитектор ML‑сервисов Yandex Cloud Дмитрий Рыбалко.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/50b409affd9df54f4533bf0eba77ad468182b25e.png"
+ },
+ "https://t.me/oulenspiegel_channel/3211": {
+  "url": "https://t.me/oulenspiegel_channel/3211",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Сергей Марков: машинное обучение, искусство и шитпостинг",
+  "desc": "Google выпустила свой ответ GPT-4, модель Gemini: https://blog.google/technology/ai/google-gemini-ai/ Метрики довольно неоднозначные. На MMLU без трюков немного уступают GPT-4 (83,96 против 84,21), но с трюками обходят (цепочки рассуждений с маршрутизацией неопределённости). В задачах перевода, вроде бы, в среднем обходят, но внутри группы «перевод на английский» уступают. По безопасности и точности следования инструкциям в задачах генерации текста уверенно обгоняют свою же PaLM 2, но есть модели, которые сильнее её обгоняют и т. п. По ощущениям получилось почти догнать GPT-4, хотя громко заявляют о победе над GPT-4 в 30 из 32 тестов.",
+  "image": "https://cdn4.telesco.pe/file/vmFWABQQpaddG5QKk_d_y_jbemQvobhHapPoN2-i_-cZjdRLVxZkv76qQrp7ue6eayfeOkXacriCb5hnAKfwH2Cj5qn8TFx0Sa7HLtpDoHV_3K8JzSkk1fkmAGncrE6uovRZt1e_EXQHXeMW6TNGOhytBW-_4PMY4T_K770myCByFNgvFZGkY7GFyPv3-vPv3adj2oo5jX4vpihwfXla1vJMIgMatDsqX36fyPD5EP8A0n37d6uQDp5jCDmvxwxL_6RDpPynb1rZ6J7nUlRhnGrHGpJrrOWE8MJ66I0Ndtv4VUN4uhEifBab3OV5Nrrf6Ru_89R2AMVAceqRX_vjcg.jpg"
+ },
+ "https://vc.ru/future/80436-bezlikie-portrety-vydumannyy-dzhentelmen-18-veka-novyy-rembrandt-chto-delaet-ii-v-iskusstve-i-gde-vystavlyayut-raboty": {
+  "url": "https://vc.ru/future/80436-bezlikie-portrety-vydumannyy-dzhentelmen-18-veka-novyy-rembrandt-chto-delaet-ii-v-iskusstve-i-gde-vystavlyayut-raboty",
+  "domain": "vc.ru",
+  "ok": true,
+  "title": "Безликие портреты, выдуманный джентельмен 18 века, «новый Рембрандт» — что делает ИИ в искусстве и где выставляют работы — Будущее на vc.ru",
+  "desc": "Картины и скульптуры от ИИ уже продают на аукционах и выставляют в галереях, но кому принадлежат авторские права на них — машине или её создателю-человеку — до сих пор неясно.",
+  "image": "https://api.vc.ru/v2.9/cover/fb/c/80436/1788419780/cover.jpg"
+ },
+ "https://svet-tsvet.ru/ru/konkurs": {
+  "url": "https://svet-tsvet.ru/ru/konkurs",
+  "domain": "svet-tsvet.ru",
+  "ok": true,
+  "title": "Конкурс | svet-tsvet.ru"
+ },
+ "https://podcast.ru/e/4TSMdXXHSFT": {
+  "url": "https://podcast.ru/e/4TSMdXXHSFT",
+  "domain": "podcast.ru",
+  "ok": true,
+  "title": "Пошутили с айтишниками и не только – Тут лучше об IT – Podcast.ru",
+  "desc": "Поздравляю себя и слушателей с внезапным пробуждением подкаста «Тут лучше об IT»! Перезапуск решила сделать максимально лёгким и весёлым, поэтому в выпуске вы не услышите длинных разговоров на серьёзные темы. А что услышите? Анекдоты от Дмитрия Сошникова, Андрея Себранта, Никиты Лихачева, Андрея Письменного и Дмитрия Кузеванова. Наверняка вы их хорошо знаете, а если не знаете, то как вы сюда попали? Ну а рассказать, что вы обо всём этом думаете, можно в комментариях тг-канала TechnoMe. Именно для этого я и вела его все эти годы ¯\\_(ツ)_/¯",
+  "image": "https://og.podcast.ru/e/4TSMdXXHSFT/"
+ },
+ "https://t.me/shwarsico": {
+  "url": "https://t.me/shwarsico",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Дмитрий Сошников, ex Cloud Developer Advocate / Technical Evangelist / AI/ML Expert в Microsoft, доцент в МАИ, НИУ ВШЭ, МФТИ, к.ф.-м.н., Digital Artist, консультант Yandex Cloud, техрук AI Lab Школы дизайна НИУ ВШЭ, эксперт клуба хакатонщиков",
+  "image": "https://cdn4.telesco.pe/file/VXjIGIFC2bVPlrD46J_mwVTuWhJf26_K-R4BSKU6rAlbAZ9FirAg84s7zWN7xlSynBpeCLkPOCMEU-eNHFoR6S2l9hPPyxdl09zLXaXf2lUeIEzjHcDsGeNGiwbt8ATpQcbrr8fFtzfoQRsl4OXVDBxr6GAYSnTvKPm-Pyt1GcdPgGwnAM_rnP1bMszJ4gWVspvz6d-ISvog--ixbucRJ5swWM-uo7xYNSfsnqt0-3sQgA-Cdn00MtlfQUmckdIWHmxCTVyqYnZn8oHF65lzCyr3scPiWWkjo6jar1wEmRpIVXM6IxShLkSGw6S0JLN6Bu94C9-3z9fQOEkXa7rvaQ.jpg"
+ },
+ "https://t.me/niketasfm": {
+  "url": "https://t.me/niketasfm",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Радиорубка Лихачёва",
+  "desc": "Помогаю экспертам становиться заметными и делаю для них (и для себя) инструменты и сервисы в It Makes Sense. Написать мне: @niketas",
+  "image": "https://cdn4.telesco.pe/file/GcqHwkej315oT1oHoQoTYhCR7f2nszYlV5ysuYz6ixI5vwI29EpyzzySPK59XpSsVpUfwy7ApD-pRi6n7VBoOTeiKnzEJdH99xjvUXnPiL6cvn6jWtJ2QMC4_1lQh8ahrTNVV36G2d_0twoKlIcBD3JDINiobrzMceyyP9DVbeW8ta24nWDANUNhNEgix3H4-VeuNX0tezGR-rSNyRsoJInu7MEDM4bs8Ox02YhJDMHQqbHeYqFnsyqL2CrDIU3l-ZNjNLPbsAk3QOAc04vbtlbOSH7kZHtDfvkSUV--LKMdrQAGUTIdSAkA7hsQj29RdR-ze_LN7cPvjsMiNLigHQ.jpg"
+ },
+ "https://sailugem.ru/": {
+  "url": "https://sailugem.ru/",
+  "domain": "sailugem.ru",
+  "ok": true,
+  "title": "Национальный парк \"Сайлюгемский\" - Главная",
+  "desc": "Национальный парк \"Сайлюгемский\""
+ },
+ "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA": {
+  "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA",
+  "domain": "ru.wikipedia.org",
+  "ok": true,
+  "title": "Алмазный век — Википедия",
+  "image": "https://upload.wikimedia.org/wikipedia/ru/d/d6/The_Diamond_Age.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+ },
+ "https://experimentanium.ru/": {
+  "url": "https://experimentanium.ru/",
+  "domain": "experimentanium.ru",
+  "ok": true,
+  "title": "Главная | Экспериментаниум",
+  "desc": "Музей занимательных наук - место, где интересно взрослым и детям!",
+  "image": "https://experimentanium.ru/static/img/vk-main.png"
+ },
+ "https://tretyakovka-kaliningrad.timepad.ru/event/3313029/": {
+  "url": "https://tretyakovka-kaliningrad.timepad.ru/event/3313029/",
+  "domain": "tretyakovka-kaliningrad.timepad.ru",
+  "ok": false
+ },
+ "https://github.com/yandex-datasphere/advanced_rag": {
+  "url": "https://github.com/yandex-datasphere/advanced_rag",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - yandex-datasphere/advanced_rag: Примеры продвинутого RAG",
+  "desc": "Примеры продвинутого RAG. Contribute to yandex-datasphere/advanced_rag development by creating an account on GitHub.",
+  "image": "https://opengraph.githubassets.com/d9c26dfd93aed89ca537b4573b33c1cdc047a674765a3991f3850576141a2892/yandex-datasphere/advanced_rag"
+ },
+ "https://t.me/shwarsico/882": {
+  "url": "https://t.me/shwarsico/882",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "",
+  "image": "https://cdn4.telesco.pe/file/i0Xn0elmTgqKN9Irzg5ZBG-DWQJCyw2yKbnnb0CNfyHmXrr0BzJCSMteIHfDfVfYxxN1YYKahJav5Cao3qJitedCGeGVL_KyqhF-G0-vBMh9Jnf7_7490BJ_K62NXeIIE3fSIw2bPAndLz7bWlx5KTbBSWe7qBwKbMIuqTeWsEWgTIz5tE2WxgO6jOKzc2pNg1SbpBy1CwSXLgqLGSXAhI4NcP4fsFemVJToVwgIxyGQprdtVGqBdsjxzzdIv1uUJxFHJX_5u05tpQubKm-4pmp_jPrcBnP_55bxC2iICSN0SMoNGsunwiUkACd8BnbflQMmY_oa65cYv3OEjgF4_Q.jpg"
+ },
+ "https://chat.deepseek.com/": {
+  "url": "https://chat.deepseek.com/",
+  "domain": "chat.deepseek.com",
+  "ok": false
+ },
+ "https://yandex.ru/jobs/vacancies/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82-%D0%BF%D0%BE-data-science-13836": {
+  "url": "https://yandex.ru/jobs/vacancies/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82-%D0%BF%D0%BE-data-science-13836",
+  "domain": "yandex.ru",
+  "ok": true,
+  "title": "Вакансия «Консультант по Data Science» в Яндексе — работа в компании Яндекс для IT-специалистов",
+  "desc": "Работа в компании Яндекс для специалиста «Консультант по Data Science». От 5 лет. Высокая заработная плата и социальные гарантии в IT-компании России",
+  "image": "https://yandex.ru/jobs/og_images/vacancy/13836"
+ },
+ "https://eduongo.mave.digital/ep-32": {
+  "url": "https://eduongo.mave.digital/ep-32",
+  "domain": "eduongo.mave.digital",
+  "ok": true,
+  "title": "Дмитрий Сошников: Искусство Искусственного Интеллекта — Подкаст «Обучение между делом»",
+  "desc": "Кажется, возможности искусственного интеллекта набирают обороты каждый день. Может быть, уже совсем скоро мы будем учиться по-другому? Вместе с Дмитрием Сошниковым, экспертом в области искусственного интеллекта мы обсудили эту горячую тему. (Кстат",
+  "image": "https://cdn.mave.digital/storage/podcasts/122e6819-73e2-41fe-8d56-89344dc99fc5/images/04766104-23f4-4fe0-a8e1-bf0d12a167af_600.png"
+ },
+ "https://github.com/foundation50/classroom50/wiki": {
+  "url": "https://github.com/foundation50/classroom50/wiki",
+  "domain": "github.com",
+  "ok": true,
+  "title": "Home",
+  "desc": "The free, open-source alternative to GitHub Classroom - foundation50/classroom50",
+  "image": "https://opengraph.githubassets.com/880fe577109122f398c63c25644a5afc2beb07ce3d2c28c41cf78f169ed47f02/foundation50/classroom50"
+ },
+ "https://habr.com/ru/news/761806/": {
+  "url": "https://habr.com/ru/news/761806/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "ИИ справился с тестом на креативность лучше людей; но это не значит, что он обладает творческими способностями",
+  "desc": "Учёные из Норвегии и Финляндии опубликовали в журнале Scientific Reports свою работу, посвящённую сравнению креативных способностей людей и искусственного интеллекта. Средние показатели креативности...",
+  "image": "https://habrastorage.org/getpro/habr/upload_files/131/cc8/ae1/131cc8ae1571b27d82da29a08bd20be6.jpg"
+ },
+ "https://fifty.foundation/": {
+  "url": "https://fifty.foundation/",
+  "domain": "fifty.foundation",
+  "ok": false
+ },
+ "https://www.1tv.ru/shows/chelovek-i-zakon/syuzhety/iskusstvennyy-intellekt-na-sluzhbe-cheloveka-chelovek-i-zakon-fragment-vypuska-ot-31-10-2025": {
+  "url": "https://www.1tv.ru/shows/chelovek-i-zakon/syuzhety/iskusstvennyy-intellekt-na-sluzhbe-cheloveka-chelovek-i-zakon-fragment-vypuska-ot-31-10-2025",
+  "domain": "www.1tv.ru",
+  "ok": true,
+  "title": "Искусственный интеллект на службе человека. Человек и закон. Фрагмент выпуска от 31.10.2025",
+  "desc": "Обратная сторона продвинутых технологий будущего: чего на самом деле бояться.",
+  "image": "https://static.1tv.ru/uploads/video/material/splash/2025/10/31/1004022/big/1004022_big_00d027c6d2.jpg"
+ },
+ "https://hacks-ai.ru": {
+  "url": "https://hacks-ai.ru",
+  "domain": "hacks-ai.ru",
+  "ok": false
+ },
+ "https://t.me/shwarsico/480": {
+  "url": "https://t.me/shwarsico/480",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Друзья, спешу поделиться! Яндекс задумал совершенно замечательное мероприятие - код-пленэр! 21 сентября 2024 г. с 12:00 до 21:00 где-то на природе недалеко от Москвы мы будем вместе со 150 участниками погружаться в мир на стыке программирования и искусства, а также все вместе строить программный лес! Это прекрасный шанс попробовать себя в генеративном искусстве, тем более что для основного мастер-класса привлечён замечательный генеративный художник - Иван Дианов, который божественно прекрасен (мы с ним немного пересекались на летней школе в Дубне, а вот кстати его тг-канал, на котором куча интересного). К там к слову тоже что-то буду рассказывать, но это не самое главное... В общем - скорее регистрируйтесь, напишите там про себя что-то хорошее, чтобы повысить шанс, что вашу заявку отберут. Подозреваю, что желающих будет много, а пустят только 150 счастливчиков! Не могу раскрывать все карты, но это правда обещает быть лучшим камерным событием этой осени!",
+  "image": "https://cdn4.telesco.pe/file/VXjIGIFC2bVPlrD46J_mwVTuWhJf26_K-R4BSKU6rAlbAZ9FirAg84s7zWN7xlSynBpeCLkPOCMEU-eNHFoR6S2l9hPPyxdl09zLXaXf2lUeIEzjHcDsGeNGiwbt8ATpQcbrr8fFtzfoQRsl4OXVDBxr6GAYSnTvKPm-Pyt1GcdPgGwnAM_rnP1bMszJ4gWVspvz6d-ISvog--ixbucRJ5swWM-uo7xYNSfsnqt0-3sQgA-Cdn00MtlfQUmckdIWHmxCTVyqYnZn8oHF65lzCyr3scPiWWkjo6jar1wEmRpIVXM6IxShLkSGw6S0JLN6Bu94C9-3z9fQOEkXa7rvaQ.jpg"
+ },
+ "https://t.me/MarigostraRu": {
+  "url": "https://t.me/MarigostraRu",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Михаил Пожидаев",
+  "desc": "Истории о ИТ от доцента кафедры теоретической информатики ТГУ. По выходным публикации #НеПоДелу с тайным пристрастием к фортепиано, но без политики, религии и отношений. Пишите: @Marigostra Заходите: https://marigostra.ru",
+  "image": "https://cdn4.telesco.pe/file/JospdRVEzDQLn1g_26yUZ1UNPREmQjxiazJnevDnZMxXH39CQ_vrVdXEruGtY-DYmdm6DbEgRC1h7NrF48JzeeZBraIrzEOv-J6lY70loAn7A3Rpx3fOxfqEM0q3Y8ZPbEmkNMKzbYnQEixZDNdNr0LjL_FR2VugfTqa1zO1PECRGaJj-yejib-iKjK0omP_GTJ1I4zUxF2W9Y5W5lY23KULN0lKxJkWvcVaMr5GkfO6SjY5rNWAAbJXSmuROsJDFFFabJRq2_ywbKTFE1NigdXFiF4fcgy-2JOaN-Mex8AbdBSMjSB9h4GwnCJyYz6zek9n_AkzlJT7ro8-bCEdUg.jpg"
+ },
+ "https://data-fusion.ru/page-program-2026?session_id=68876": {
+  "url": "https://data-fusion.ru/page-program-2026?session_id=68876",
+  "domain": "data-fusion.ru",
+  "ok": true,
+  "title": "Программа",
+  "image": "https://data-fusion.ru/images/datafusion-1200x640-2026.png"
+ },
+ "https://naked-science.ru/article/column/dmitrij-soshnikov-model-i": {
+  "url": "https://naked-science.ru/article/column/dmitrij-soshnikov-model-i",
+  "domain": "naked-science.ru",
+  "ok": true,
+  "title": "Дмитрий Сошников: «Модель искусственного интеллекта начинает вести себя как человек»",
+  "desc": "Бурное развитие искусственного интеллекта предоставляет все новые возможности как для решения профессиональных задач, так и для творчества и самовыражения. Но это накладывает на человечество и обязанность обучаться новым технологиям, что в действительности не так просто, как кажется. О том, как эффективно пользоваться ИИ и с каких инструментов следует начинать, рассказал известный популяризатор и один из ведущих экспертов по искусственному интеллекту, кандидат физико-математических наук, доцент МАИ и НИУ ВШЭ Дмитрий Сошников.",
+  "image": "https://naked-science.ru/wp-content/uploads/2024/08/photo_2024-08-09_13-01-54-1200x675.jpg"
+ },
+ "https://www.youtube.com/watch?v=4saUnJYbO0I": {
+  "url": "https://www.youtube.com/watch?v=4saUnJYbO0I",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://www.nature.com/articles/s41598-023-40858-3": {
+  "url": "https://www.nature.com/articles/s41598-023-40858-3",
+  "domain": "www.nature.com",
+  "ok": true,
+  "title": "Best humans still outperform artificial intelligence in a creative divergent thinking task - Scientific Reports",
+  "desc": "Scientific Reports - Best humans still outperform artificial intelligence in a creative divergent thinking task",
+  "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-40858-3/MediaObjects/41598_2023_40858_Fig1_HTML.png"
+ },
+ "https://speakerdeck.com/shwars/matiematika-funktsionalnogho-proghrammirovaniia": {
+  "url": "https://speakerdeck.com/shwars/matiematika-funktsionalnogho-proghrammirovaniia",
+  "domain": "speakerdeck.com",
+  "ok": true,
+  "title": "Математика функционального программирования",
+  "desc": "Презентация доклада на конференции DotNext 2023 Ссылки: * <a href=\"https://habr.com/ru/articles/215807/\">Чистоe vs. прикладное λ–исчисление</a> * <a &hellip;",
+  "image": "https://files.speakerdeck.com/presentations/6759c55951264fde99284bcc6f4a3705/slide_0.jpg?27051796"
+ },
+ "https://t.me/s/ivandianov": {
+  "url": "https://t.me/s/ivandianov",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Канал Ивана Дианова",
+  "desc": "Про генеративную графику и эксперименты с кодом. ivandianov.com Приходите на курс https://setka.design Автор канала @ivan_dianov",
+  "image": "https://cdn4.telesco.pe/file/bNq8aaFBa4xAAxmito0Us5A6am0HDh8eWRPekNf42ylqWU6IB-PqHd9OgVhm3AX9LFNSb5vhsbLL4bYN1sVE5gkfo_EKZC7zUmfqVCY57KiseabWf8-MtZ7Q724cgvOU-GPIvj5vxqKQ7EGqrZleUM8mt3oQ6km9rq5lqqEsWnDqten0zC082DmClnJed-baaIVNHNstdBVjZRHmd7GXLtYmoBLZ0J-HeUAmh--_szSzPLXgVc3-2MJreh_iyFr8c4fuJHr0ssrcMhPgua9da1nzUMkprYdKGAUhYXi2trxsqZYgv-Rwpkn1-oJBD77p-r4q5nXrYHuofTBzHV6GzQ.jpg"
+ },
+ "https://cs.hse.ru/sberhack/": {
+  "url": "https://cs.hse.ru/sberhack/",
+  "domain": "cs.hse.ru",
+  "ok": true,
+  "title": "HSE Sber ML Hack",
+  "image": "https://www.hse.ru/images/fb/hse_ru_thumb.jpg"
+ },
+ "https://t.me/tldrpiter/533": {
+  "url": "https://t.me/tldrpiter/533",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Грокаем книги или TL;DR",
+  "desc": "",
+  "image": "https://cdn4.telesco.pe/file/AxmboQIwYwB7o6Ie4vO5gPONrytaMxqxm2ggnwSqb2htP55blixuYPzPN5qClnL6Dv1cigUz9F7jNIpUEOC7a0NnVSE0rewWGn0w3Q_zvSJkXnJh01LZ8Wjc6h3WABIeK12YJTow0r4N9GW5tfENj7A2B4y61zRftU7BAwcpR1z5DiMYBn-ydCGJGHasA80wDJcILeOG0KmQ08vVqcK5AEBJv12nfbXOnchpUfT6PiiKCUUufmq_GfyUfypxwjN_BD5wvPTBv57cSMS1RETY_H8kC3wTemdvExrlwy0XM8u31K1tqfd8jlmHbzeansB4KwgmXvtxFV8tfeWMIfEsJQ.jpg"
+ },
+ "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/": {
+  "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+  "domain": "www.deeplearning.ai",
+  "ok": false
+ },
+ "https://blagosfera.ru/podrostkovaja-gostinaja/": {
+  "url": "https://blagosfera.ru/podrostkovaja-gostinaja/",
+  "domain": "blagosfera.ru",
+  "ok": true,
+  "title": "Подростковая гостиная – Благосфера",
+  "desc": "Режим работы: Подростковая гостиная открыта: Пн–Пт – 15:00-20:00 Сб-Вс – 12:00-20:00 Участники интенсивов принимают условия публичной оферты. Как найти?",
+  "image": "https://blagosfera.ru/wp-content/uploads/2023/06/z3iqWjCKt7U.jpeg"
+ },
+ "https://club.dns-shop.ru/digest/90269-neiroset-stable-diffusion-nauchili-chitat-myisli-cheloveka-isp/": {
+  "url": "https://club.dns-shop.ru/digest/90269-neiroset-stable-diffusion-nauchili-chitat-myisli-cheloveka-isp/",
+  "domain": "club.dns-shop.ru",
+  "ok": false
+ },
+ "https://cryptography-museum.ru/open_20": {
+  "url": "https://cryptography-museum.ru/open_20",
+  "domain": "cryptography-museum.ru",
+  "ok": false
+ },
+ "https://speakerdeck.com/shwars/nieirosieti-v-kartinnoi-ramie": {
+  "url": "https://speakerdeck.com/shwars/nieirosieti-v-kartinnoi-ramie",
+  "domain": "speakerdeck.com",
+  "ok": true,
+  "title": "Нейросети в картинной раме",
+  "desc": "Выступление на большой сцене Нового кампуса МГТУ им. Баумана в рамках цикла Москва 2030. Я делюсь проектами на стыке ИИ и искусства (Черкашины, выставк&hellip;",
+  "image": "https://files.speakerdeck.com/presentations/2e68eb1ba59e4f0d8b0b0e6017a95e43/slide_0.jpg?36444686"
+ },
+ "https://yandex.cloud/ru/events/1282#registration": {
+  "url": "https://yandex.cloud/ru/events/1282#registration",
+  "domain": "yandex.cloud",
+  "ok": true,
+  "title": "От AI-ассистента к многоагентным системам",
+  "desc": "Что такое многоагентная система и как организовать взаимодействие AI-агентов в облаке.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/23249d2708b0fc7c9dd991ca9c3fae44dbc43495.png"
+ },
+ "https://t.me/shwarsmedia/23": {
+  "url": "https://t.me/shwarsmedia/23",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Продолжение беседы про ИИ в передаче Человек и закон с Сергеем Марковым, Вячеславом Дубыниным и др.",
+  "image": "https://cdn4.telesco.pe/file/qvFktlWd_D5fSF2NBE_XoeXQC7T4vpnslomoEPTxhznKvkvZqtlqUUatNLxtHt9nVi6GZK1fbAjj4DmFQJ-IYRyj7Z8qIFtirt7L5hgBfelQtFgGUiadGwmrMd82sGfPQCXPZcYKmMHjDYthkU6c_kXf94i8n-ToJ6onMGKArFclZwyrP9KPQ_GFjDFyXAEWHe_hnJnVkeAOFHCPf20ACmDWL-ruKEPILKP5mg5p6h7hCFQSYMQv3RDxreCWXZOoGvB77fNEp-PGwEllj7SsSUpph0O_zLAOrhLyzsZWs2rxNgIK5Rhls-F8wdQdW_9pMJmQ6EoriTY11scdgU6qlQ"
+ },
+ "https://vk.com/video-23553134_456247128": {
+  "url": "https://vk.com/video-23553134_456247128",
+  "domain": "vk.com",
+  "ok": true,
+  "title": "ВКонтакте | VK Видео"
+ },
+ "https://www.nature.com/articles/s41593-023-01304-9.epdf?sharing_token=pLqXe8Kv2wSkf2AMN4fActRgN0jAjWel9jnR3ZoTv0NG3whxCLvPExlNSoYRnDSfIOgKVxuQpIpQTlvwbh56sqHnheubLg6SBcc6UcbQsOlow1nfuGXb3PNEL23ZAWnzuZ7-R0djBgGH8-ZqQhwGVIO9Qqyt76JOoiymgFtM74o7RyMlykyaioSfLQZoL-pKyuN5K6P7p8sMj2ss0hyAXw%3D%3D&tracking_referrer=www.vice.com": {
+  "url": "https://www.nature.com/articles/s41593-023-01304-9.epdf?sharing_token=pLqXe8Kv2wSkf2AMN4fActRgN0jAjWel9jnR3ZoTv0NG3whxCLvPExlNSoYRnDSfIOgKVxuQpIpQTlvwbh56sqHnheubLg6SBcc6UcbQsOlow1nfuGXb3PNEL23ZAWnzuZ7-R0djBgGH8-ZqQhwGVIO9Qqyt76JOoiymgFtM74o7RyMlykyaioSfLQZoL-pKyuN5K6P7p8sMj2ss0hyAXw%3D%3D&tracking_referrer=www.vice.com",
+  "domain": "www.nature.com",
+  "ok": true,
+  "title": "Semantic reconstruction of continuous language from non-invasive brain recordings",
+  "desc": "Nature Neuroscience - Tang et al. show that continuous language can be decoded from functional MRI recordings to recover the meaning of perceived and imagined speech stimuli and silent videos and...",
+  "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-023-01304-9/MediaObjects/41593_2023_1304_Fig1_HTML.png"
+ },
+ "https://yandex.ru/portal/new_year_tree?shared_toy=9bdd38cde0f011f0a3d1aa0384ce5704": {
+  "url": "https://yandex.ru/portal/new_year_tree?shared_toy=9bdd38cde0f011f0a3d1aa0384ce5704",
+  "domain": "yandex.ru",
+  "ok": false
+ },
+ "https://forms.yandex.ru/u/68ba889a90fa7b80b53aa4e6/": {
+  "url": "https://forms.yandex.ru/u/68ba889a90fa7b80b53aa4e6/",
+  "domain": "forms.yandex.ru",
+  "ok": true,
+  "title": "Яндекс Формы"
+ },
+ "https://classroom50.org/": {
+  "url": "https://classroom50.org/",
+  "domain": "classroom50.org",
+  "ok": true,
+  "title": "Classroom 50",
+  "desc": "The free, open-source alternative to GitHub Classroom. Distribute and auto-grade programming assignments on GitHub.",
+  "image": "https://classroom50.org/og-image.jpg"
+ },
+ "https://cloud.yandex.ru/events/817": {
+  "url": "https://cloud.yandex.ru/events/817",
+  "domain": "cloud.yandex.ru",
+  "ok": true,
+  "title": "Yandex DataSphere для образования",
+  "desc": "Рассказали, как организовать подготовку специалистов с использованием Yandex DataSphere.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/b0e3e6c3b75dc6a280cb40a7d03a1bd68005eb0d.png"
+ },
+ "https://www.youtube.com/watch?v=VZOnwBIl0Lk": {
+  "url": "https://www.youtube.com/watch?v=VZOnwBIl0Lk",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://education.yandex.ru/8bit-fest": {
+  "url": "https://education.yandex.ru/8bit-fest",
+  "domain": "education.yandex.ru",
+  "ok": true,
+  "title": "8БИТ Журнал Яндекс Образования",
+  "desc": "Учитесь новому, вдохновляйте и мечтайте о будущем"
+ },
+ "https://shad.yandex.ru/gptweek": {
+  "url": "https://shad.yandex.ru/gptweek",
+  "domain": "shad.yandex.ru",
+  "ok": true,
+  "title": "GPT Week Школы анализа данных",
+  "desc": "Открытый онлайн-интенсив от ШАДа и экспертов Яндекса. Создатели YandexGPT поделятся опытом работы над большими языковыми моделями",
+  "image": "https://avatars.mds.yandex.net/get-lpc/10116223/caacba49-e01a-4fb3-8263-171f8df98eaf/orig"
+ },
+ "https://mcguffin.ru/kinoklub-magiya-generativnogo-ii-v-iskusstve-i-kino/": {
+  "url": "https://mcguffin.ru/kinoklub-magiya-generativnogo-ii-v-iskusstve-i-kino/",
+  "domain": "mcguffin.ru",
+  "ok": false
+ },
+ "https://www.youtube.com/watch?v=RdEZDs9cBg0": {
+  "url": "https://www.youtube.com/watch?v=RdEZDs9cBg0",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://x.com/JJitsev/status/1883158738661691878": {
+  "url": "https://x.com/JJitsev/status/1883158738661691878",
+  "domain": "x.com",
+  "ok": true,
+  "title": "Jenia Jitsev 🏳️‍🌈 🇺🇦 🇮🇱 🇮🇷 (@JJitsev) on X",
+  "desc": "(Yet) another tale of Rise and Fall: DeepSeek R1 is claimed to match o1/o1-preview on olympiad level math &amp; coding problems. Can it handle versions of AIW problems that reveal generalization &amp; basic reasoning deficits in SOTA LLMs? (https://t.co/nHlKJFQuRn) 🧵1/n",
+  "image": "https://pbs.twimg.com/media/GiIRnq1XMAAornl.jpg:large"
+ },
+ "https://mmco-expo.ru/": {
+  "url": "https://mmco-expo.ru/",
+  "domain": "mmco-expo.ru",
+  "ok": true,
+  "title": "ММСО.ЭКСПО-2027",
+  "desc": "ММСО.ЭКСПО-2027. Ваш навигатор в сфере образования"
+ },
+ "https://svet-tsvet.ru/ru/nominacii/neyrofotografiya": {
+  "url": "https://svet-tsvet.ru/ru/nominacii/neyrofotografiya",
+  "domain": "svet-tsvet.ru",
+  "ok": false
+ },
+ "https://github.com/shwars/AI_Art_Workbooks": {
+  "url": "https://github.com/shwars/AI_Art_Workbooks",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - shwars/AI_Art_Workbooks: Jupyter / Colab Notebooks for different AI in Art tasks",
+  "desc": "Jupyter / Colab Notebooks for different AI in Art tasks - shwars/AI_Art_Workbooks",
+  "image": "https://opengraph.githubassets.com/fba2977f7f0a311777fe572bfa12f52b38eb434f96f772edd9ff0220eb350338/shwars/AI_Art_Workbooks"
+ },
+ "https://smotrim.ru/audio/2830638": {
+  "url": "https://smotrim.ru/audio/2830638",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Физики и лирики. Незаметные пандемии XXI века. Интернет и ИИ против человечества: слушать аудио на Smotrim",
+  "desc": "Какие плюсы и минусы есть у интернета? Как меняется подход к образованию? С появлением интернета человечество стало умнее или глупее? Пользуется ли челове…",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/901/862/0.png"
+ },
+ "https://youtu.be/R7goKMl7zsI?si=kxN6NL7PFB5FvlMu&t=6020": {
+  "url": "https://youtu.be/R7goKMl7zsI?si=kxN6NL7PFB5FvlMu&t=6020",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "Итоги 2023 года: второй год боев в Украине, чем запомнился Пригожин, индекс оливье вырос, угрозы ИИ",
+  "desc": "Подписывайтесь на телеграм-канал RTVI: https://t.me/rtvimainСегодня в «Новых итогах» с Татьяной Бур рассказываем о том, чем запомнился 2023 год в политике и ...",
+  "image": "https://i.ytimg.com/vi/R7goKMl7zsI/maxresdefault.jpg"
+ },
+ "https://smotrim.ru/video/2843207": {
+  "url": "https://smotrim.ru/video/2843207",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Радиопрограмма Физики и лирики - Цифровой мир. Что такое цифровое нейрокладбище - смотреть бесплатно онлайн",
+  "desc": "▶️ Радиопрограмма Физики и лирики - Цифровой мир. Что такое цифровое нейрокладбище — смотрите онлайн бесплатно в хорошем качестве на платформе СМОТРИМ без…",
+  "image": "https://cdn.smotrim.ru/photobank/old/pic-dk/512/818/1.jpg"
+ },
+ "https://yandex.cloud/ru/events/1126": {
+  "url": "https://yandex.cloud/ru/events/1126",
+  "domain": "yandex.cloud",
+  "ok": true,
+  "title": "Технологии для общества: практические решения и перспективы",
+  "desc": "Митап Центра технологий для общества, где мы вместе с экспертами и участниками разобрались, как современные технологии помогают решать ключевые задачи в медицине, экологии, науке, образовании и культуре.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/fc9ce3adc355123be89bb281c4ed2ecd8037522a.png"
+ },
+ "https://www.youtube.com/watch?v=ZaUcqznlhv8&list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE&index=2": {
+  "url": "https://www.youtube.com/watch?v=ZaUcqznlhv8&list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE&index=2",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks-ru/": {
+  "url": "https://soshnikov.com/azure/8-reasons-why-you-absolutely-need-azure-notebooks-ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "8 причин, по которым вы обязательно захотите использовать Azure Notebooks",
+  "desc": "Как может стать понятным из названия, Azure Notebooks - это улучшенные Jupyter Notebooks, работающие в облаке Microsoft Azure. Вне зависимости от того, знаете ли Вы, что такое Jupyter, из этой статьи Вы узнаете несколько причин и полезных сценариев, в которых Azure Notebooks сделают Вашу жизнь лучше."
+ },
+ "https://github.com/yandex-datasphere/PromptEngineering4Devs": {
+  "url": "https://github.com/yandex-datasphere/PromptEngineering4Devs",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - yandex-datasphere/PromptEngineering4Devs: Prompt Engineering for Developers",
+  "desc": "Prompt Engineering for Developers. Contribute to yandex-datasphere/PromptEngineering4Devs development by creating an account on GitHub.",
+  "image": "https://opengraph.githubassets.com/f0be19e4c9991f66d3e5b2730af13b048a8ce411cc71213afde2608406b108e3/yandex-datasphere/PromptEngineering4Devs"
+ },
+ "https://cryptography-museum.ru/screenshot_2023": {
+  "url": "https://cryptography-museum.ru/screenshot_2023",
+  "domain": "cryptography-museum.ru",
+  "ok": false
+ },
+ "claude.ai": {
+  "url": "claude.ai",
+  "domain": "claude.ai",
+  "ok": false
+ },
+ "https://t.me/shwarsico/658": {
+  "url": "https://t.me/shwarsico/658",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Сегодня в Третьяковской галерее на Крымском валу открывается совместная выставка Третьяковки и Яндекса \"Человек и нейросети: кто кого создаёт\". В рамках выставки я помогал работать над несколькими экспонатами, и в ближайшие дни про некоторые из них расскажу поподробнее. Или же можно послушать и побеседовать со мной и некоторыми художниками лично на круглом столе \"Как с помощью ИИ сделать выставку про ИИ\", 24 апреля, в 19:30 на Крымском валу. Для участия необходимо зарегистрироваться. Это кстати также и хороший повод посмотреть саму выставку.",
+  "image": "https://cdn4.telesco.pe/file/VXjIGIFC2bVPlrD46J_mwVTuWhJf26_K-R4BSKU6rAlbAZ9FirAg84s7zWN7xlSynBpeCLkPOCMEU-eNHFoR6S2l9hPPyxdl09zLXaXf2lUeIEzjHcDsGeNGiwbt8ATpQcbrr8fFtzfoQRsl4OXVDBxr6GAYSnTvKPm-Pyt1GcdPgGwnAM_rnP1bMszJ4gWVspvz6d-ISvog--ixbucRJ5swWM-uo7xYNSfsnqt0-3sQgA-Cdn00MtlfQUmckdIWHmxCTVyqYnZn8oHF65lzCyr3scPiWWkjo6jar1wEmRpIVXM6IxShLkSGw6S0JLN6Bu94C9-3z9fQOEkXa7rvaQ.jpg"
+ },
+ "https://t.me/ivandianov/919": {
+  "url": "https://t.me/ivandianov/919",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Канал Ивана Дианова",
+  "desc": "Пишем музыку кодом! Стрим про strudel.cc Алгорейв — это супергиковский движ, когда музыка делается кодом. Программист музыкант в прямом эфире кодит, код видно на экране, а из колонок туц-туц-туц. Я покажу, что я уже успел освоить, но это не самое крутое. Самое крутое, что на стрим придёт Адам Арутюнов, программист и музыкант. Я в музыке ни бум-бум, не отличу сольфеджио от ре минора, к Адаму у меня будет много вопросов. Надеюсь, вдвоём нам удастся запилить суперхит, который порвёт чарты и войдёт в историю. Будем юзать топовый инструмент для алгорейва — strudel.cc, все крутые алгорейверы работают в нём. Стрим будет на ютубе. Ещё будет телеграмовский чат чтобы задавать вопросы, давать советы, донатить звёздочки и всячески влиять на происходящее https://t.me/+jnGc7CJ4woIwYTEy Записывайте в календарик: Понедельник, 3 августа, 20:00 youtube.com/live/ZAXgxPiysw8",
+  "image": "https://cdn4.telesco.pe/file/nGn4nZfvEOMEZlRQgWEDZ3YtyNXXlpA9tGakb8Sch2fdwD-9CfaEixQacEKOzD83-1YDAz1833Uh_ApnZPnd62P9mgyrU25nbV1TOZa9nekj8sQ1ivl2f2d3BNehatus0j05kBXw5eL_yYbWOWxL2FP4C_dWHVdmuAXQeMw-Ps86rc6nTpU0aGAhj-beayoDo4p3_Zw7ZZH4oqYYDQGhjuvdDn9K9YNFvTL1v8-aLLWJ1YD-nADdNqzxLGCP5HP2GRejMepjiZU4910sGjwKnC0Kyh0OBD9iuwVFtHHzmtjjNFIkH9uT71WIw4wjJMqDAIJ3lm10FBkBxpTkwbBGiA.jpg"
+ },
+ "https://bravit.pro/": {
+  "url": "https://bravit.pro/",
+  "domain": "bravit.pro",
+  "ok": true,
+  "title": "Vitaly Bragilevsky",
+  "desc": "Personal website of Vitaly Bragilevsky",
+  "image": "https://bravit.pro/img/ogimage.jpg"
+ },
+ "https://strudel.cc/": {
+  "url": "https://strudel.cc/",
+  "domain": "strudel.cc",
+  "ok": true,
+  "title": "Strudel REPL",
+  "desc": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript."
+ },
+ "https://soshnikov.com/scienceart/neural-generative-models-and-future-of-art-ru/": {
+  "url": "https://soshnikov.com/scienceart/neural-generative-models-and-future-of-art-ru/",
+  "domain": "soshnikov.com",
+  "ok": true,
+  "title": "Нейрогенеративные модели и их влияние на будущее искусства",
+  "desc": "Современные модели text-to-image позволяют генерировать по текстовому описанию как фотореалистичные изображения, так и художественные работы, оформленные в стиле известных художников. Обсуждаем, какое влияние это может иметь на будущее искусства, и стоит ли начинать считать ИИ творческим"
+ },
+ "https://podcast.ru/e/CfkVc_BeAv": {
+  "url": "https://podcast.ru/e/CfkVc_BeAv",
+  "domain": "podcast.ru",
+  "ok": true,
+  "title": "IT образование / Развитие искусственного интеллекта / в гостях Дмитрий Сошников – Синий экран смерти – Podcast.ru",
+  "desc": "Говорим с Дмитрием Сошниковым - учёным, программистом, преподавателем, экспертом по искусственному интеллекту. Подкаст об образовании в целом и IT образовании в частности, а так же о развитии искусственного интеллекта, ChatGPT, языковых моделях, тесте Тьюринга, Курцвейла и прочих интересных вещах. Подписывайтесь на ТГ-канал: https://t.me/engineerspock_it Подписывайтесь на YouTube-канал: https://www.youtube.com/@EngineerSpock Наши курсы: https://offer.engineerspock.com/ Сайт Дмитрия Сошникова: https://soshnikov.com/ ТГ канал Дмитрия: https://t.me/shwarsico 0:28 Вступительное слово 0:50 Представление гостя подкаста 2:48 Чем занимается гость подкаста сейчас 5:30 О Российской ассоциации искусственного интеллекта 6:08 Массовая эмиграция мозгов из России 6:52 Сохранились ли зарубежные связи гостя Блок про Образование 7:34 О преподавании в Российском вузе, зарплате и зачем идут работать в вуз 10:24 Нагрузка преподавателя в вузе и его обязанности 13:40 Правда ли что образование держится на преподавателях из СССР 15:40 Плюсы и минусы Советского образования и об образовании будущего 20:32 Почему российские студенты брали первые места на Международной студенческой олимпиаде 22:42 Проблемы олимпиадных программистов в социальной адаптации 23:34 Как выбрать вуз для того, чтобы стать программистом 26:16 Кому имеет смысл идти в топовые вузы и почему важен хороший вуз 28:54 Важность математики во всех сферах жизни и о дисциплинированном мышлении 34:10 Насколько хорошо готовят программистов к реальной деятельности в вузах 35:38 Как и почему частные компании начинают входить в образовательную сферу 39:09 Олимпиады и поступление в топовые вузы 40:25 Сложность фундаментальных изменений в образовании 45:11 О технологиях в образовании и что они должны предложить студенту Блок про ИИ 49:20 Что произошло, что дало толчок в развитии машинного обучения 53:59 Как работает ChatGpt и о языковых моделях 56:34 Можно ли победить галлюцинации ChatGpt 1:03:03 О создании пьесы ИИ 1:05:35 Сложность структуры нейросети и понимает ли нейросеть истину 1:09:06 Почему лишь человек может придумать идею для реализации неройсетями 1:10:36 Возможно ли чтобы нейросеть начала действовать за человека без его участия 1:12:09 Почему генераторы изображений при генерации людей рисовали разное количество пальцев 1:14:25 Что нам нужно для создания сильного ИИ 1:14:52 Что такое сильный ИИ 1:19:42 Коллективный разум человечества 1:21:35 Тест Курцвейла и недостатки теста Тьюринга 1:23:46 Эксперимент Китайская комната 1:24:29 Самосознание и откуда оно берется 1:26:11 Угрозы искусственного интеллекта. Так ли они страшны ? 1:31:40 Ответственность и ИИ 1:33:03 ИИ и Авторское право 1:35:00 Можно ли свое сознание загрузить в виде языковой модели? 1:40:13 Легкость наделения сознанием искусственного интеллекта 1:42:34 Prompt engineering 1:45:34 С какого возраста детей можно знакомить с ChatGpt 1:50:20 Отстают ли российские языковые модели от ChatGpt? 1:54:29 Блиц",
+  "image": "https://og.podcast.ru/e/CfkVc_BeAv/"
+ },
+ "https://smotrim.ru/video/2809908": {
+  "url": "https://smotrim.ru/video/2809908",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Физики и лирики. Общество. Как оставаться в безопасности в эпоху дипфейков",
+  "desc": "Доцент факультета компьютерных наук ВШЭ Дмитрий Сошников напомнил, что такое дипфейк, рассказал, как его распознать, мошенничестве с использованием дипфей…",
+  "image": "https://cdn.smotrim.ru/photobank/old/pic-dk/500/102/1.jpg"
+ },
+ "https://t.me/qze1ov_on_air": {
+  "url": "https://t.me/qze1ov_on_air",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Кузеванов · ON AIR",
+  "desc": "В эфире Дмитрий Кузеванов (@qze1ov). Канал в котором рассказываю о разном в мире ИТ и ИБ, а также связанным с ним.",
+  "image": "https://cdn4.telesco.pe/file/Ih-lUkP42OTeyVfv-Ie1WcqYi48JquQAigUemwvWhZSuRjU-I15T2Yc0GcJFSQ-di8xYF1GfBiiHIpCCNkFjYL9KoBxj8XGkobNN5EsPb8hV2dtl3H7NtxViudUZ02kKP3qkPswnGuPsxUWonUJWmGoQzBRgK1ldTe7aTKfLFQeC-h6HqtvT4J-SPod9nJp_xLeCcOcgqH6RC0ChXEjq_d3NLXMbSbYdTClFihvrmNykRU4Ju61ISLxfFQyuaQ7U--5TE91s6lfnWtgXpo5qvY6Ai09xSPAWuSM7qFm3GTFliPiGuCCCOY129wxwT0TMma16e2t000RO46EOmc0dUw.jpg"
+ },
+ "https://habr.com/p/721644/": {
+  "url": "https://habr.com/p/721644/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "GPT-3. Есть проблема побольше, чем потеря рабочих мест",
+  "desc": "В моей книге “Просто о мозге” была ещё одна глава, которую я удалил перед публикацией. Она называлась “Будущее”. В ней я приводил прогнозы развития человечества на основе того, что сейчас известно о...",
+  "image": "https://habrastorage.org/getpro/habr/upload_files/4c7/ba8/8bc/4c7ba88bc60ad579fbc4b1df2de3c941.jpg"
+ },
+ "https://stanyvyshe.mmco-expo.ru/": {
+  "url": "https://stanyvyshe.mmco-expo.ru/",
+  "domain": "stanyvyshe.mmco-expo.ru",
+  "ok": true,
+  "title": "Панельная дискуссия «Диалог на равных: Вышка школам» - Главная"
+ },
+ "https://vk.com/video-216093785_456239182": {
+  "url": "https://vk.com/video-216093785_456239182",
+  "domain": "vk.com",
+  "ok": true,
+  "title": "ВКонтакте | VK Видео"
+ },
+ "https://moscow2030.mos.ru/areas/mgtu-im-n-e-baumana/": {
+  "url": "https://moscow2030.mos.ru/areas/mgtu-im-n-e-baumana/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ },
+ "https://moscow2030.mos.ru/": {
+  "url": "https://moscow2030.mos.ru/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ },
+ "https://t.me/k_institute/1367": {
+  "url": "https://t.me/k_institute/1367",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Коинсидентальный Институт",
+  "desc": "Открываем набор заявок на 8 сезон программы-тренажер «К-фитнес». Он как и прежде пройдет в ОЦ ММОМА (Ермолаевсий пер., 17), с 8 октября по 14 декабря. Участников ожидают ридинги, телесные практики, проектирование и подготовка собственного перформанса, авторский курс Йоэля Регева, на этот раз про героя прояснения. Еще будут лекции от писателя Алексея Конакова, куратора Леры Конончук и издателя Кирилла Маевского. Преподаватели практической части: Алек Петук, Катя Смолянская и Лена Чеботарева. В этом сезоне платно, но есть целых 25 бесплатных мест и 5 грантовых. Поэтому поспешите (до 1 октября). анкета тут| подробнее тут | расписание занятий тут На фото: Настя Егорова «Трагедии в углах», К-фитнес, 6 сезон, ММОМА, Москва 2024. Автор фото Павел Подурский.",
+  "image": "https://cdn4.telesco.pe/file/tVO17PJEJKd-C6DfaM919c3fYdP-Fdbxwn9pm8zbwZRIQL4ekY6K5XQql8Nb7MWtJmid-M-0TpK68R_jS--Ow6GxBEgS04fZwgoAyjl32qMoiBxqb-hcUj1hJq6eQf0DkAreJ37_pBlqFmpPuEXPhvFrfszzBlIBpWjk6b57uEaygOfCL3S9aT5xnSnCUmav7ydV54eLjhS8XQkJr0-FL7QX99CkZH82UbkqkcO5Ph8mlWH-XfgAmQhG4kviFYHV2qXZAbs0J5FaPItg3gtDLCUPL7lgUpu87DNVHqyNB2mx5gAuzUi24sf-519QeyhacDwoYJ5up3IapvffwytBtg.jpg"
+ },
+ "http://t.me/curated_life": {
+  "url": "http://t.me/curated_life",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Курированная жизнь",
+  "desc": "Курированная жизнь облачного адвоката",
+  "image": "https://cdn4.telesco.pe/file/R-BS-NbONxt56eVDcYQU4F9I_ZpzNPHtNyR_Zt4HH1gg8TWkrRz9hMHF8lqBb4xPPusMfOUHS0YAagpcYjHLFuoH2iysr4-xNl3inmbSoPI-lvdze8rEora6BYJ_AwstHRuFse8ZGeMVEvYAVXCyAR2C0Z03rm5GSm-JytfCVuMhvD_1FeqKqHp9rWbTX_VVPAzDSu4pPufxLylwbx5VfgBt7A7T6lIHuftfzVnd1XEHcsIH3f_BaBJS6B2sauVekhZ8hq9b26XWLyKd2cGSgwmAag0c1q3m6B_xLC7JTO0FTtZppVAZ2PEDWI-dfxuy1Pl0CnyYfD7608vt186wVg.jpg"
+ },
+ "https://vkvideo.ru/video3796212_456239190": {
+  "url": "https://vkvideo.ru/video3796212_456239190",
+  "domain": "vkvideo.ru",
+  "ok": true,
+  "title": "ВКонтакте | VK Видео"
+ },
+ "https://blagosfera.timepad.ru/event/2612859/": {
+  "url": "https://blagosfera.timepad.ru/event/2612859/",
+  "domain": "blagosfera.timepad.ru",
+  "ok": false
+ },
+ "http://experient.art/neural-togetherness/ru/index.html": {
+  "url": "http://experient.art/neural-togetherness/ru/index.html",
+  "domain": "experient.art",
+  "ok": false
+ },
+ "https://www.youtube.com/watch?v=KI3HczOAEj0&t=3122s": {
+  "url": "https://www.youtube.com/watch?v=KI3HczOAEj0&t=3122s",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://youtu.be/Pb5NvUexRc0?si=Ti1zYVYamTUlqvm5&t=120": {
+  "url": "https://youtu.be/Pb5NvUexRc0?si=Ti1zYVYamTUlqvm5&t=120",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://youtu.be/5Il14q63sv4": {
+  "url": "https://youtu.be/5Il14q63sv4",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://ivandianov.com/ru/about/": {
+  "url": "https://ivandianov.com/ru/about/",
+  "domain": "ivandianov.com",
+  "ok": true,
+  "title": "· Ivan Dianov"
+ },
+ "http://t.me/engineerspock_it": {
+  "url": "http://t.me/engineerspock_it",
+  "domain": "t.me",
+  "ok": true,
+  "title": "EngineerSpock | IT·Tech",
+  "desc": "Говорим об IT в целом и программировании в частности. По рекламе: @engineerspock",
+  "image": "https://cdn4.telesco.pe/file/ueBDm39MVpTqiuaY39-7gMepM6Y7CXHflaMd9yN-fta4Aez40NjTtskrxT-35Vwxmx-4vOKslm2jUv3x6OY4Aiuw-pMUrOdmtEASwvLyZ4lYHo1mGD1bJw0pme588B2iNGLgSly3NpJf6mLtJcyvPij6wVa83dNxYt2kPMPzhmSVxwKFl-R_n0yPIB30KUMuHbNlnJJEShmtvpNlDvI1cRluxgZdbN_Mx-9maPXwsY8VqR_L5jwFNfhvl8gAXkUKXhdqfEl9AuFJQMbz4R_W4FLBZArd9FsNLRTjaSzWUqqgp1RvaCl23y7Gr16qGo0ZTmgObDe_DA3r_EtdyHTZUw.jpg"
+ },
+ "https://alekpetuk.com/": {
+  "url": "https://alekpetuk.com/",
+  "domain": "alekpetuk.com",
+  "ok": true,
+  "title": "Алек Петук — современный художник",
+  "desc": "Официальный сайт современного художника Алека Петука: живопись, перформансы, реконструкции и художественные проекты.",
+  "image": "https://alekpetuk.com/favicon/web-app-manifest-512x512.png"
+ },
+ "https://www.youtube.com/watch?v=2DAJWWhR0AE": {
+  "url": "https://www.youtube.com/watch?v=2DAJWWhR0AE",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://t.me/oulenspiegel_channel/4233": {
+  "url": "https://t.me/oulenspiegel_channel/4233",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Сергей Марков: машинное обучение, искусство и шитпостинг",
+  "desc": "Вообще, конечно, история с реакцией рынков на новости о DeepSeek V3 и R1 это пример глупости помноженной на дилетантизм и истеричную природу массового сознания в эпоху кликбейт-экономики Коротко по тезисам: 1. Нет, DeepSeek не «умнее на голову» всех в моделей. В разных бенчмарках результаты разные, но в среднем GPT-4o и Gemini-2 лучше. Можете посмотреть на ChatBot Arena, например (https://www.reddit.com/r/LocalLLaMA/comments/1i8u9jk/deepseekr1_appears_on_lmsys_arena_leaderboard/). Даже в результатах, опубликованных в статье авторов DeepSeek (https://github.com/deepseek-ai/DeepSeek-V3/blob/main/figures/benchmark.png) можно заметить, что в ряде тестов модель уступает, например, GPT-4o от мая 2024 года, то есть модели, которая в ChatBot Arena сейчас на 16-м месте. 2. Нет, на обучение DeepSeek не ушло 6 млн долларов «в 100 раз меньше, чем на GPT-4». В 6 млн долларов обошёлся финальный запуск обучения опубликованной модели. Тут не учитывались никакие предыдущие эксперименты, ни предыдущие версии модели, ни время людей. Чистый вычислительный бюджет на финальный запуск обучения. Эта сумма +/- такая же, как у моделей того же класса 3. Непонятно, за что пострадала Nvidia :)) Ну так-то, конечно, так им и надо, пускай снижают цены на железо, но учился-то DeepSeek на железках того самого Nvidia. И нет, теперь их не нужно меньше. И вычислительный бюджет на обучение там +/- обычный и на инференс такой большой модели (а это, напомню MoE с 671 млрд параметров, где при генерации токена используется 37 млрд параметров, то есть цена инференса там примерно как у 70B dense-модели) нужно много железа. И, естественно, успех DeepSeek отмасштабируют, вкинув ещё больше железа и сделав модель больше 4. Значит ли это, что модель плохая? Нет, модель очень хорошая. Мы с самого начала следим за коллегами из DeepSeek и с удовольствием использовали некоторые из их идей. Вообще, я бы сказал, что у нас в команде DeepSeek всегда рассматривалась как фаворит среди китайских моделей. DeepSeek лучше подавляющего большинства open-source-моделей, и это очень круто. Искренне рады за китайских коллег и за прогресс в области LLM-строения и машинного обучения в целом 5. В некоторых источниках пишут, что DeepSeek якобы полностью решил проблему «галлюцинаций». Nyet Я думаю, что паника и шумиха случилась из-за того, что на западе обычно плохо знают про состояние дел в китайском ML, среди многих американских и европейских специалистов наблюдалось немного пренебрежительное и снисходительное отношение к Китаю в области ИИ. Дескать: ну что они там могут сделать, клепают свои низкокачественные плохо воспроизводимые работы, куда им с белым человеком тягаться? Всё это умножилось на антикитайскую риторику властей США, а при Трампе фокус на Китае как на главном противнике усилился. Помните истерическую статью Ашенбреннера? Теперь вот Гари Маркус вопит, требует наказать Цукерберга за Llama, дескать из-за опен-сорса китайцы украли все секреты. Это, конечно, типичный пример того, как валят с больной головы на здоровую. Виноваты в недостаточном прогрессе открытых моделей в США скорее люди типа Маркуса, со своей истерикой про опасности ИИ, запретительными и просто глупыми регуляторными инициативами и пр. «Знает кошка, чьё мясо съела» Ну а в целом акции отрастут, ресурсы выделят, идеи получат широкое распространение, модели будут становиться лучше, прогресс не остановить (надеюсь) Пусть расцветают сто цветов, пусть соперничают сто школ © Мао Цзэдун",
+  "image": "https://cdn4.telesco.pe/file/ccWKDWeKFKqMD1EEcNmC_dDW1Fc90Xo2991XOarPgb7JFW6wjlSnwCTKaW2G-vuj_l0OKmsq-fEkSB-H3WnqSaceuVVCz3L1Xflb2xET9y4Ru49gTJVKUQklaTStnknXfYNZmsT55iQsWqJlIpyGzYUOW8_Wi30CnqRY2yaSOhC4dKGwDg4wnPjMUYL5yigmxo30UUY9vN95SnVlBeeOYdC6bppMX3TmEug9Wjogw9Q75hBLuII8K6_GCK20Z3ysflNsIfFJXxrInSzQTPxVObvdBdqKZkn0-cd3DQzBSsqmTbck9EPHtHAVt8A32DC2fpPUk_vPN6cy_VskcHWXiw.jpg"
+ },
+ "https://t.me/shwarsico/634": {
+  "url": "https://t.me/shwarsico/634",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Друзья, спешу сообщить, что запись вчерашнего вебинара по созданию умных ассистентов в Yandex Cloud уже доступна на сайте, а самое главное - есть код на GitHub, который позволяет разобраться с тем, как создавать ассистентов с RAG и Function Calling в одном флаконе. Кажется, это на текущий момент наиболее доступный цельный пример создания ассистентов, хотя очень хорошие примеры есть в самом YC ML SDK. По просьбам зрителей будем дальше совершенствовать этот пример, добавляя в него многоагентности, ну а также возможность подбирать водку к пельменям (в текущем варианте он умеет только в красное вино). P.S. Спасибо всем, присоединившимся к каналу по итогам вебинара - рад вас тут видеть!",
+  "image": "https://cdn4.telesco.pe/file/mb4aIrqU8DkeqE2OPlXlvYsuppATCF-Yp96qXjjrtejkycruX18fBVoM8ZlQdDZUgjopnXlyEvweecvMyXRVQ0BvNvV4oNJ7MXGSziFkRRX4B17T6ey8k1pN9PHby13oK3nFDPURuEtQlkgxYk4pc3XeCHzgCg0ky7hd4mzXNTU630dA2GeUK40dvRQj36McEyj-ZM_6h62ySGvc1mLEHiNwvrff2UqU3qlI01gP8W_2yt_WyqHh4N2_f3qhlCss6D__CFsrrOCGXHCuIUJxmXiuQkeHQaSQy2-8DIcam8DA5dP9mSrKwD5cOsHJv9kMRKCe9imyEaJFvdWmUHgf_A.jpg"
+ },
+ "https://dzen.ru/video/watch/68676109d2fd8e7c80dff6a3?share_to=link": {
+  "url": "https://dzen.ru/video/watch/68676109d2fd8e7c80dff6a3?share_to=link",
+  "domain": "dzen.ru",
+  "ok": true,
+  "title": "Нейросети и творчество: кому принадлежит искусство будущего? | Метод Сократа | Дзен",
+  "desc": "Видео автора «Метод Сократа» в Дзене 🎦: Когда-то искусство считалось последним бастионом человека.",
+  "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_68676109d2fd8e7c80dff6a3_68680b03aa88d079f4fdcf08/smart_crop_516x290"
+ },
+ "https://www.youtube.com/watch?v=9lsewYtBQuU": {
+  "url": "https://www.youtube.com/watch?v=9lsewYtBQuU",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://broker.finam.ru/landing/finam-ai-trade-hack": {
+  "url": "https://broker.finam.ru/landing/finam-ai-trade-hack",
+  "domain": "broker.finam.ru",
+  "ok": false
+ },
+ "http://yurygorvits.tilda.ws/": {
+  "url": "http://yurygorvits.tilda.ws/",
+  "domain": "yurygorvits.tilda.ws",
+  "ok": false
+ },
+ "https://itmo.events/events/114700": {
+  "url": "https://itmo.events/events/114700",
+  "domain": "itmo.events",
+  "ok": true,
+  "title": "IT CONF x Форум Центра карьеры",
+  "desc": "На IT CONF x Форум Центра карьеры тебя снова ждут горячие тренды, технологии и сообщества в IT! В этом году мы расширяем формат конференции вместе с нашими друзьями из Центра карьеры - еще больше компаний (и не только IT) будут ждать тебя в стенах ИТМО.В этот раз говорим — ни за что не угадаете — об ИИ! А именно:— узнаем о его влиянии на рынок труда, современные компетенции и карьерный путь в бигтехе— научимся использовать ИИ как партнера в разработке— составим стек System Design в 2030 году: что нужно уметь разработчику— заглянем в будущее и узнаем, какая стратегия ИИ ждет нас в ближайшие десятилетияБольше информации ищи на сайте конференции (https://alumni.itmo.ru/it_conf_career_forum) и в канале (https://t.me/it_conf_itmo)Принять участие в конференции может каждый, кто интересуется трендами, технологиями и сообществами, вне зависимости от возраста, места учебы или работы. Если вы не из ИТМО, в открывшемся окне ITMO ID выбирайте опцию «Зарегистрироваться».",
+  "image": "https://itmo.events/__og-image__/image/events/114700/og.png"
+ },
+ "https://festtech.ru/": {
+  "url": "https://festtech.ru/",
+  "domain": "festtech.ru",
+  "ok": true,
+  "title": "FestTech 2026",
+  "image": "https://static.tildacdn.com/tild6131-3066-4566-b439-396334626237/opengraph_1200x630.png"
+ },
+ "https://vk.com/podcast-198624840_456239027": {
+  "url": "https://vk.com/podcast-198624840_456239027",
+  "domain": "vk.com",
+  "ok": true,
+  "title": "VK | VK"
+ },
+ "https://t.me/shwarsico/889": {
+  "url": "https://t.me/shwarsico/889",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Должны ли роботы принимать экзамены? Благодаря моей прекрасной знакомой, обозревателю отдела образования Российской газеты, на днях вышла статья про будущее образования, где пара моих скромных цитат (в конце) соседствуют со словами министра образования (в самом начале). Из-за этого теперь зовут на пятиминутку на Радио России поговорить на эту тему. Но я для начала хочу немного поговорить с вами. Что вы думаете, должен ли ИИ принимать экзамены у студентов? Я-то конечно уже давно пользуюсь GPT для массовой проверки устных ответов в курсах, где 500+ человек, но эффективность этого невысока, поскольку и студенты могут писать свои ответы тем же ИИ. А ИИ, проверяющий сам себя - это пустое сжигание деревьев и повышение энтропии... Получается, сейчас единственный способ понять знания студента - это устная с ним беседа, минут хотя бы 15-20, причем адаптивная (т.е. задавая вопросы исходя из предыдущих ответов). На массовых курсах, где 500 человек - такое сделать сложно. Но вот ИИ наверное при правильной постановке задачи мог бы в перспективе это сделать - именно с адаптивностью, строя по ответам модель знаний ученика на основе предварительно заданной онтологии курса. Но, безусловно, задача здесь сильно сложнее, чем \"ChatGPT, иди и проэкзаменуй Васю по математике, оценку проставь в журнал\". Ну и надо не забыть про отслеживание этических моментов, списывания - т.е. в идеале бы ещё отслеживать психоэмоциональное состояние ученика, приблизительно на уровне полиграфа... Что думаете?",
+  "image": "https://cdn4.telesco.pe/file/fzHv_RsFrp4lWHqlX25yuXqhNEv4lyO0F0CzhkySmN-eMrGnpYhXwEsLhHJfLZ-gzZv73cIgVYqLafUfAGDJbO_WkywoS3YV6i3n0vr4ONI20X9j1CLSk_7xP2omatGoxf8ABFg7H7apoWazzLJklrpcNJ5vfHeHOU-enwYIRy162aqgTvjQQM3KNJqSVacMsPmcPVJMvLH00bcpWbmlWdIcfTVG_6BFy--H1mMitbTKXlPonYqiitBHZ-Q-w7jNb7vFoaNeUddmGtS_O2MWuXXIbeIQATRzyZaxJyeB1DpRGOFcwBx5GsJyUMvkGe0QsrPGYbTodX4ZatP7NbP_Rw.jpg"
+ },
+ "https://tass.ru/kultura/19088483": {
+  "url": "https://tass.ru/kultura/19088483",
+  "domain": "tass.ru",
+  "ok": false
+ },
+ "https://t.me/shwarsmedia/3": {
+  "url": "https://t.me/shwarsmedia/3",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Аудио-подкаст \"Функциональное программирование без боли\" (Павел Аргентов, Дмитрий Сошников, Виталий Брагилевский)",
+  "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzUzZWRkNiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI4YzliNyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlM8L3RleHQ%2BPC9zdmc%2B"
+ },
+ "https://t.me/prettygeeknotes": {
+  "url": "https://t.me/prettygeeknotes",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Записки разработчицы",
+  "desc": "Разговоры об IT, о разработке. О мобилках нативных и кроссплатформенных. Личный аккаунт @azharkova",
+  "image": "https://cdn4.telesco.pe/file/EZmb1bZNne99bfuVZl5Y4bvxAR0AV9DsFP8CFp_ARS7r2amwYviDfJN6lKvBAAsl0jt76hGfw8MHuoIpCjkDGp9hzc5D-NAhozm6TdUNJcWNue71i0mE7YeQpRUtT91FLaI-KjJJvm5zPq-yxuZh-10shG24q73JuwITaPgTsm2RNfm5d5swOB_ChPNZ2ckDj1VQNhKVGW7vZgjpObmkKcD-IRxeQSLrjA0oKjH04y9oFHZeagJQjapT2MZ7PIG8KsiXUkiixxHji9aHD7fdhPeJjOmmi_BogW32cMQtTH1oCguRhUm-3ivAFlOEZegIHIrj8LuAVkWaGKlJGPZfFw.jpg"
+ },
+ "https://youtu.be/QDT6VNzA2mM": {
+  "url": "https://youtu.be/QDT6VNzA2mM",
+  "domain": "youtu.be",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://yandex.cloud/ru/training/ml": {
+  "url": "https://yandex.cloud/ru/training/ml",
+  "domain": "yandex.cloud",
+  "ok": true,
+  "title": "Курс «Обучение для ML-специалистов» – Обучение",
+  "desc": "Трек по работе с ML‑сервисами Yandex Cloud и их практическому применению.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/09b0bb7d08d0b73d5148748dc0b8ca5815f7ccb3.png"
+ },
+ "https://github.com/jmechner/Prince-of-Persia-Apple-II": {
+  "url": "https://github.com/jmechner/Prince-of-Persia-Apple-II",
+  "domain": "github.com",
+  "ok": true,
+  "title": "GitHub - jmechner/Prince-of-Persia-Apple-II: A running-jumping-swordfighting game I made on the Apple II from 1985-89",
+  "desc": "A running-jumping-swordfighting game I made on the Apple II from 1985-89 - jmechner/Prince-of-Persia-Apple-II",
+  "image": "https://opengraph.githubassets.com/ecd6c27f44a62327a52e2ff7842d63e3ce7c46e3009965028b69bb48e4fa3fd3/jmechner/Prince-of-Persia-Apple-II"
+ },
+ "https://smotrim.ru/audio/2863351": {
+  "url": "https://smotrim.ru/audio/2863351",
+  "domain": "smotrim.ru",
+  "ok": true,
+  "title": "Радиопрограмма Наши сильные стороны - IT специалист. Часть 1-я - слушать бесплатно онлайн",
+  "desc": "🎧 Радиопрограмма Наши сильные стороны - IT специалист. Часть 1-я — слушать онлайн бесплатно на платформе «СМОТРИМ» без регистрации",
+  "image": "https://cdn.smotrim.ru/photobank/prod/large/902/519/9.png"
+ },
+ "https://cloud.yandex.ru/events/823": {
+  "url": "https://cloud.yandex.ru/events/823",
+  "domain": "cloud.yandex.ru",
+  "ok": true,
+  "title": "Математическая оптимизация для бизнеса в Yandex DataSphere",
+  "desc": "Рассказали о возможностях использования методов ML и математической оптимизации в сфере логистики и ритейла, в производстве и других отраслях бизнеса.",
+  "image": "https://storage.yandexcloud.net/ui-api-ru-prod-stable-share-generator-screenshots/cache/7cfea6ed42f5605b4733b0469d12cba938039c6f.png"
+ },
+ "https://www.youtube.com/watch?v=UhxCE6QBotE": {
+  "url": "https://www.youtube.com/watch?v=UhxCE6QBotE",
+  "domain": "www.youtube.com",
+  "ok": true,
+  "title": "- YouTube",
+  "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+ },
+ "https://moscow2030.mos.ru/events/evgeniy_kuznetsov_lektsiya_chto_izmenitsya_cherez_10_let_/": {
+  "url": "https://moscow2030.mos.ru/events/evgeniy_kuznetsov_lektsiya_chto_izmenitsya_cherez_10_let_/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ },
+ "https://moscow2030.mos.ru/events/vadim_bulgakov_milena_shevchenko_lektsiya_chto_dolzhen_umet_dizayner_v_2030_/": {
+  "url": "https://moscow2030.mos.ru/events/vadim_bulgakov_milena_shevchenko_lektsiya_chto_dolzhen_umet_dizayner_v_2030_/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ },
+ "https://moscow2030.mos.ru/events/dmitriy_soshnikov_lektsiya_neyroseti_v_kartinnoy_rame/": {
+  "url": "https://moscow2030.mos.ru/events/dmitriy_soshnikov_lektsiya_neyroseti_v_kartinnoy_rame/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ },
+ "https://moscow2030.mos.ru/events/lektsiya_novyy_proryv_ii_ot_generativnogo_k_interaktivnomu/": {
+  "url": "https://moscow2030.mos.ru/events/lektsiya_novyy_proryv_ii_ot_generativnogo_k_interaktivnomu/",
+  "domain": "moscow2030.mos.ru",
+  "ok": false
+ }
+}
