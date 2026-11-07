@@ -2172,7 +2172,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 6,
+      "count": 7,
       "emoji": "❤"
      },
      {
@@ -6313,7 +6313,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 3,
+      "count": 5,
       "emoji": "❤"
      }
     ]
@@ -6334,6 +6334,956 @@
    "height": 1280,
    "text": "",
    "text_entities": []
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2026-09-08T16:16:58",
+   "date_unixtime": "1788873418",
+   "edited": "2026-09-08T16:24:13",
+   "edited_unixtime": "1788873853",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "text": [
+    "Как думаете, не пора ли внести в словарь современных имён имя ",
+    {
+     "type": "bold",
+     "text": "Вайбкодий"
+    },
+    "?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Как думаете, не пора ли внести в словарь современных имён имя "
+    },
+    {
+     "type": "bold",
+     "text": "Вайбкодий"
+    },
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "🥰"
+     }
+    ]
+  },
+  {
+   "id": 219,
+   "type": "message",
+   "date": "2026-09-12T12:47:36",
+   "date_unixtime": "1789206456",
+   "edited": "2026-09-12T13:09:10",
+   "edited_unixtime": "1789207750",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_118@12-09-2026_12-47-36.jpg",
+   "photo_file_size": 133793,
+   "width": 1280,
+   "height": 960,
+   "text": "Жареные в чесночном масле креветки сильно поднимают холестерин...\nИ настроение.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Жареные в чесночном масле креветки сильно поднимают холестерин...\nИ настроение."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 7,
+      "emoji": "💯"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "😁"
+     }
+    ]
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2026-09-15T15:12:33",
+   "date_unixtime": "1789474353",
+   "edited": "2026-09-15T23:50:20",
+   "edited_unixtime": "1789505420",
+   "from": "Dmitry Shvalyov",
+   "from_id": "user993167",
+   "reply_to_message_id": 219,
+   "text": "Мне кажется это самый каноничный рецепт креветок! Тоже так готовлю.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Мне кажется это самый каноничный рецепт креветок! Тоже так готовлю."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-09-15T23:50:20"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2026-09-22T13:45:27",
+   "date_unixtime": "1790073927",
+   "edited": "2026-09-22T13:59:54",
+   "edited_unixtime": "1790074794",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_119@22-09-2026_13-45-27.jpg",
+   "photo_file_size": 216156,
+   "width": 1280,
+   "height": 548,
+   "text": [
+    "Хотите секреты промптинга тибетских отшельников?\n",
+    {
+     "type": "italic",
+     "text": "\n(Это я готовлю презентацию для школы \"ИИ в ВКР и проектной работе\" от Яндекс Образования сегодня вечером)"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Хотите секреты промптинга тибетских отшельников?\n"
+    },
+    {
+     "type": "italic",
+     "text": "\n(Это я готовлю презентацию для школы \"ИИ в ВКР и проектной работе\" от Яндекс Образования сегодня вечером)"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "👍"
+     }
+    ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2026-09-22T14:13:15",
+   "date_unixtime": "1790075595",
+   "edited": "2026-09-22T14:43:09",
+   "edited_unixtime": "1790077389",
+   "from": "Валентина Власова [ЛабМедиа]",
+   "from_id": "user1612124939",
+   "reply_to_message_id": 223,
+   "text": "Мне нравится «промты для сложных людей»😎",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Мне нравится «промты для сложных людей»😎"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-09-22T14:43:09"
+       }
+      ]
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "💯",
+      "recent": [
+       {
+        "from": "Мария Чемоданова",
+        "from_id": "user797739984",
+        "date": "2026-09-22T14:56:46"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2026-09-22T20:00:08",
+   "date_unixtime": "1790096408",
+   "edited": "2026-09-22T20:58:04",
+   "edited_unixtime": "1790099884",
+   "from": "Галина Пушкарь [МГИМО Психология]",
+   "from_id": "user174765182",
+   "reply_to_message_id": 223,
+   "text": "Дима, запиши меня на этот курс сразу! Я буду сидеть на первой парте и все конспектировать как олдскульная женщина",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Дима, запиши меня на этот курс сразу! Я буду сидеть на первой парте и все конспектировать как олдскульная женщина"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-09-22T20:58:04"
+       }
+      ]
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🔥",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-09-22T20:58:04"
+       }
+      ]
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🥰",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-09-22T20:58:04"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2026-10-07T09:34:47",
+   "date_unixtime": "1791354887",
+   "edited": "2026-10-07T10:42:31",
+   "edited_unixtime": "1791358951",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_120@07-10-2026_09-34-47.jpg",
+   "photo_file_size": 276589,
+   "width": 1280,
+   "height": 960,
+   "text": "Выть или не выть - вот в чём вопрос...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Выть или не выть - вот в чём вопрос..."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "😁"
+     }
+    ]
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2026-10-07T09:55:45",
+   "date_unixtime": "1791356145",
+   "edited": "2026-10-07T09:56:25",
+   "edited_unixtime": "1791356185",
+   "from": "Марина Эфендиева",
+   "from_id": "user223284046",
+   "reply_to_message_id": 226,
+   "text": "Разве это вопрос? Конечно выть",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Разве это вопрос? Конечно выть"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-10-07T09:56:25"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2026-10-07T10:42:19",
+   "date_unixtime": "1791358939",
+   "edited": "2026-10-07T22:05:35",
+   "edited_unixtime": "1791399935",
+   "from": "Svetlana illarionova [Skoltech]",
+   "from_id": "user112945942",
+   "reply_to_message_id": 226,
+   "text": "Плавный переход от \"Гамлета\" к \"Степному волку\" 😁 Ох уж эти экзистенциальные вопросы!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Плавный переход от \"Гамлета\" к \"Степному волку\" 😁 Ох уж эти экзистенциальные вопросы!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-10-07T22:05:35"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2026-10-07T20:16:36",
+   "date_unixtime": "1791393396",
+   "edited": "2026-10-07T21:39:27",
+   "edited_unixtime": "1791398367",
+   "from": "Irish Сабельникова",
+   "from_id": "user542151886",
+   "reply_to_message_id": 227,
+   "text": "главное - начать, а компания всегда найдётся😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "главное - начать, а компания всегда найдётся😅"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "💯",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-10-07T22:05:31"
+       },
+       {
+        "from": "Марина Эфендиева",
+        "from_id": "user223284046",
+        "date": "2026-10-07T20:17:18"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 230,
+   "type": "message",
+   "date": "2026-10-07T22:08:30",
+   "date_unixtime": "1791400110",
+   "edited": "2026-10-08T03:37:58",
+   "edited_unixtime": "1791419878",
+   "from": "Говорим про жизнь",
+   "from_id": "channel2661977113",
+   "reply_to_message_id": 227,
+   "text": "Нам песня строить и выть помогает!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Нам песня строить и выть помогает!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🤝",
+      "recent": [
+       {
+        "from": "Марина Эфендиева",
+        "from_id": "user223284046",
+        "date": "2026-10-08T03:37:58"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2026-10-07T22:08:53",
+   "date_unixtime": "1791400133",
+   "from": "Говорим про жизнь",
+   "from_id": "channel2661977113",
+   "reply_to_message_id": 228,
+   "text": "Ого, надо с GPT обсудить эти вопросы...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ого, надо с GPT обсудить эти вопросы..."
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2026-10-09T20:09:12",
+   "date_unixtime": "1791565752",
+   "edited": "2026-10-09T20:15:24",
+   "edited_unixtime": "1791566124",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_121@09-10-2026_20-09-12.jpg",
+   "photo_file_size": 108956,
+   "width": 1280,
+   "height": 960,
+   "text": "Суда! Суда!\nЗдесь строятся суда!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Суда! Суда!\nЗдесь строятся суда!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 8,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🔥"
+     }
+    ]
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2026-10-12T09:03:40",
+   "date_unixtime": "1791785020",
+   "edited": "2026-10-12T09:11:04",
+   "edited_unixtime": "1791785464",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_122@12-10-2026_09-03-40.jpg",
+   "photo_file_size": 383282,
+   "width": 1280,
+   "height": 960,
+   "text": [
+    "Немного утренней поэзии:\n",
+    {
+     "type": "blockquote",
+     "text": "от психических расстройств\nи безумия притом\nпомогает алкоголь\nи общение с котом",
+     "collapsed": false
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Немного утренней поэзии:\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "от психических расстройств\nи безумия притом\nпомогает алкоголь\nи общение с котом",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 5,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "🤔"
+     }
+    ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2026-10-12T11:00:53",
+   "date_unixtime": "1791792053",
+   "edited": "2026-10-12T12:28:51",
+   "edited_unixtime": "1791797331",
+   "from": "Svetlana illarionova [Skoltech]",
+   "from_id": "user112945942",
+   "reply_to_message_id": 235,
+   "text": "Благо, что беседы с котами отлично промтируются, в отличие от перевернутых слонов 😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Благо, что беседы с котами отлично промтируются, в отличие от перевернутых слонов 😁"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-10-12T12:28:51"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2026-10-12T12:29:57",
+   "date_unixtime": "1791797397",
+   "edited": "2026-10-12T12:30:43",
+   "edited_unixtime": "1791797443",
+   "from": "Говорим про жизнь",
+   "from_id": "channel2661977113",
+   "reply_to_message_id": 236,
+   "text": "Котики вообще отлично промптируются, есть подозрение, что бог их для этого и создал...\nP.S. Надо попробовать перевернутых котиков...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Котики вообще отлично промптируются, есть подозрение, что бог их для этого и создал...\nP.S. Надо попробовать перевернутых котиков..."
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👍",
+      "recent": [
+       {
+        "from": "Svetlana illarionova [Skoltech]",
+        "from_id": "user112945942",
+        "date": "2026-10-12T12:30:43"
+       }
+      ]
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "💯",
+      "recent": [
+       {
+        "from": "Svetlana illarionova [Skoltech]",
+        "from_id": "user112945942",
+        "date": "2026-10-12T12:30:43"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2026-10-21T08:57:04",
+   "date_unixtime": "1792562224",
+   "edited": "2026-10-21T09:08:30",
+   "edited_unixtime": "1792562910",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_123@21-10-2026_08-57-04.jpg",
+   "photo_file_size": 150030,
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": [],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 13,
+      "emoji": "❤"
+     },
+     {
+      "type": "emoji",
+      "count": 4,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 2,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👏"
+     }
+    ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2026-10-21T08:57:04",
+   "date_unixtime": "1792562224",
+   "edited": "2026-10-21T08:57:05",
+   "edited_unixtime": "1792562225",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_124@21-10-2026_08-57-04.jpg",
+   "photo_file_size": 190740,
+   "width": 1280,
+   "height": 960,
+   "text": "Приехал в Солнечногорск, а там солнечно! А ещё озеро, осень и красота! Искупаться правда не удалось - сразу пришлось читать лекцию, а потом стемнело...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Приехал в Солнечногорск, а там солнечно! А ещё озеро, осень и красота! Искупаться правда не удалось - сразу пришлось читать лекцию, а потом стемнело..."
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2026-10-21T09:07:58",
+   "date_unixtime": "1792562878",
+   "from": "Василий Буров",
+   "from_id": "user327328410",
+   "reply_to_message_id": 240,
+   "text": "Солнечно это хорошо, а было ли там достаточно горско?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Солнечно это хорошо, а было ли там достаточно горско?"
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2026-10-21T09:22:18",
+   "date_unixtime": "1792563738",
+   "edited": "2026-10-21T10:56:29",
+   "edited_unixtime": "1792569389",
+   "from": "Галина Пушкарь [МГИМО Психология]",
+   "from_id": "user174765182",
+   "reply_to_message_id": 240,
+   "text": "Невообразимая красота!!!!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Невообразимая красота!!!!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Говорим про жизнь",
+        "from_id": "channel2661977113",
+        "date": "2026-10-21T10:56:29"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2026-10-21T10:56:27",
+   "date_unixtime": "1792569387",
+   "from": "Говорим про жизнь",
+   "from_id": "channel2661977113",
+   "reply_to_message_id": 242,
+   "text": "Вообще не горско! Но возможно я просто до гор не доехал...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Вообще не горско! Но возможно я просто до гор не доехал..."
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2026-10-21T12:48:11",
+   "date_unixtime": "1792576091",
+   "edited": "2026-10-21T12:48:24",
+   "edited_unixtime": "1792576104",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_125@21-10-2026_12-48-11.jpg",
+   "photo_file_size": 138814,
+   "width": 959,
+   "height": 1157,
+   "text": "",
+   "text_entities": [],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 11,
+      "emoji": "❤"
+     }
+    ]
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2026-10-21T12:48:11",
+   "date_unixtime": "1792576091",
+   "edited": "2026-10-21T12:48:12",
+   "edited_unixtime": "1792576092",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_126@21-10-2026_12-48-11.jpg",
+   "photo_file_size": 166920,
+   "width": 910,
+   "height": 981,
+   "text": "Немножко закулисья из студии Yandex Cloud - чтобы вы знали, как выглядят изнутри прекрасные снаружи вебинары!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Немножко закулисья из студии Yandex Cloud - чтобы вы знали, как выглядят изнутри прекрасные снаружи вебинары!"
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2026-10-22T09:59:57",
+   "date_unixtime": "1792652397",
+   "edited": "2026-10-22T10:00:41",
+   "edited_unixtime": "1792652441",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_127@22-10-2026_09-59-57.jpg",
+   "photo_file_size": 217516,
+   "width": 853,
+   "height": 1280,
+   "text": [
+    "У меня в презентации есть вот такой пример генеративной нейросети (справа). И вот недавно ",
+    {
+     "type": "text_link",
+     "text": "на выступлении",
+     "href": "https://t.me/shwarsico/976"
+    },
+    " видимо этот пример настолько понравился слушателям, что они ",
+    {
+     "type": "text_link",
+     "text": "нарисовали иллюстрацию",
+     "href": "https://t.me/c/1439200994/4198"
+    },
+    " на эту тему. За что им большое спасибо, сделали мой день! Делюсь тут с вами радостью!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "У меня в презентации есть вот такой пример генеративной нейросети (справа). И вот недавно "
+    },
+    {
+     "type": "text_link",
+     "text": "на выступлении",
+     "href": "https://t.me/shwarsico/976"
+    },
+    {
+     "type": "plain",
+     "text": " видимо этот пример настолько понравился слушателям, что они "
+    },
+    {
+     "type": "text_link",
+     "text": "нарисовали иллюстрацию",
+     "href": "https://t.me/c/1439200994/4198"
+    },
+    {
+     "type": "plain",
+     "text": " на эту тему. За что им большое спасибо, сделали мой день! Делюсь тут с вами радостью!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 3,
+      "emoji": "🔥"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👍"
+     }
+    ]
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2026-10-22T09:59:58",
+   "date_unixtime": "1792652398",
+   "edited": "2026-10-22T09:59:58",
+   "edited_unixtime": "1792652398",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_128@22-10-2026_09-59-58.jpg",
+   "photo_file_size": 35818,
+   "width": 1216,
+   "height": 731,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2026-10-25T17:10:45",
+   "date_unixtime": "1792937445",
+   "edited": "2026-10-25T17:11:29",
+   "edited_unixtime": "1792937489",
+   "from": "Курированная жизнь",
+   "from_id": "channel2884425554",
+   "forwarded_from": "Курированная жизнь",
+   "forwarded_from_id": "channel2884425554",
+   "saved_from": "Курированная жизнь",
+   "photo": "photos/photo_129@25-10-2026_17-10-45.jpg",
+   "photo_file_size": 247785,
+   "width": 1280,
+   "height": 853,
+   "text": [
+    "Подумалось сегодня утром, пока заваривал женьшеневый улун...\n",
+    {
+     "type": "blockquote",
+     "text": "не мог женьшеня от Шеньчженя \nкак мы не бились, отличить",
+     "collapsed": false
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Подумалось сегодня утром, пока заваривал женьшеневый улун...\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "не мог женьшеня от Шеньчженя \nкак мы не бились, отличить",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 7,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🔥"
+     }
+    ]
   }
  ]
 }
