@@ -1975,5 +1975,112 @@
   "url": "https://moscow2030.mos.ru/events/lektsiya_novyy_proryv_ii_ot_generativnogo_k_interaktivnomu/",
   "domain": "moscow2030.mos.ru",
   "ok": false
+ },
+ "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff": {
+  "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+  "domain": "www.bloomberg.com",
+  "ok": false
+ },
+ "https://t.me/oulenspiegel_channel": {
+  "url": "https://t.me/oulenspiegel_channel",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Сергей Марков: машинное обучение, искусство и шитпостинг",
+  "desc": "Машинное обучение, искусственный интеллект, искусство, мемасы, всякое личное и странноэ",
+  "image": "https://cdn4.telesco.pe/file/NDvDbW3scmIVIwOfmiSuwS26IHmhuOtp6bPKPf-7Rfp6gFOXLFGLWWHvClhqX9ZfLJdvK2gq1CKXCZRoD4Ze2Z3pCoHYzP1q66as75Lnpu13dw389r_TS3sZcz54BMgtLHyNion3MafAnG81B3w-tKGL3oWbTvvkFdOBqAdulcCva8OmA3SdrrG5vjzxKKUyJhB0FmOueeP-tT2Fm5xiVJaSNzZV6534W5DVKruqCLKmKb68LpnYp4FNu3eFMdRhj5hu67rbZsjT_em9akG3QLqzuDVYcG4x4aWtxnQWqeUJ7CzVE6K3iesXfuufN6nHuQXXkL_SfajEkHlE3ISXOA.jpg"
+ },
+ "https://t.me/curated_life/151": {
+  "url": "https://t.me/curated_life/151",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Курированная жизнь",
+  "desc": "",
+  "image": "https://cdn4.telesco.pe/file/J1Fm0G_rPJJoT-f147tjQj0FAiQsv9E4g8NjV3bhHdEtb6Awy6dLc-WkL1AHn0OS7zSH5xbxCo4abxeqOJeh3tmlMQjV_XoCf_HgpKQHgDX1c9Yzru-16A3wHrCvbYhCETEyQG5MyslW197_-lyQpEzhssVV7zpHIKuLmGJ_HsipuABo8iDw6BZyl-kc3Ka_eygmR67u0wFRuuTE5VAHDL5qF_xVsBkiBRQWZyJE_wMjJfGL7F1ShlEW0KdDHxZmG38eAdF8RHDxAx0820cqzaEKHRNG2E_JvOaGGnJBrTJJbrKDTkai8UpsUW8leTHDix0c2jlwRQfapjOmSeIMCQ.jpg"
+ },
+ "https://t.me/shwarsico/961": {
+  "url": "https://t.me/shwarsico/961",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Облачный адвокат",
+  "desc": "Друзья-преподаватели, спешу поделиться с вами приятным известием - этой осенью Яндекс проводит Школу преподавателей облачных технологий. Это онлайн-школа на базе Яндекс-Практикума, в которой вы узнаете о базовых облачных возможностях (права, ресурсы и т.д.), а также сможете выбрать одну из трех специализаций: AI/ML и агенты (к написанию которой я приложил много усилий в последние пару месяцев), работа с данными и BI, а также облако и DevOps. В конце вас ждёт небольшой проект + сертификат о повышении квалификации. Интерес к школе большой, поэтому чтобы туда гарантированно попасть - пишите, пожалуйста, чуть более подробно и мотивированно, почему вы хотите туда попасть. Можете сослаться на меня, вдруг поможет :) Кстати, если вы - аспирант, или даже магистрант - тоже вполне можно подаваться! С теми, кто выберет трек AI/ML+агенты, увидимся на вебинарах!",
+  "image": "https://cdn4.telesco.pe/file/nR4Hw769sUxHFBbfwzNIFd-HXU1J1WX-n819J_iHiK38OJg28pv1U_D5vstKaKDzqF38DGzxAVRO9jChM2ws42gxYWmuyZQKSY_4_CG8jQD2FlEejEF7ccbrmEohU1l4tQlVwFcYdV6b0qeLz1hubh1JgFUQ3wXlGjPWFulLP-zNJw5shwReg4bFPjOEgF7mPt5C9sajTd3nTS7HTHFRQLRYpcYrg5xwiNbba0Q1jHdMv8muJXWVEStjEAhVVkugzesJF-arB8JWoxpt0xZKjYrzXPNGKxnmhjndjngkbREN8jTmThcqEBH3qxQMHzF-xvz6h8Fn92mk0UvnAiWizA.jpg"
+ },
+ "https://t.me/shwarsmedia/34": {
+  "url": "https://t.me/shwarsmedia/34",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Dmitri Soshnikov in SHWARSMedia",
+  "desc": "Короткое включение в материалы RTVI про опасности и расходы ИИ",
+  "image": "https://cdn4.telesco.pe/file/WFHwLJAWtDT00YMRlxJDCbDNLRy5B-F4OEMoTrxyO8lx40873DRaaWFs6OKLTAz6n0aci1fGhjxJFmzukU3Hym8XaShGDJPNB4mpwbQYk4qxBXKF1McQTV3Duf_hgSTYRYglvm8G8xTixAnA9h3XhZ4JbIO6dK3RR-3FcyqqytE2hpXw0sM7ulVYOr1dCL3GYQE-HADespJmiUSXmW2a69V6CHQo7lBrasgsS_YNCSeleayGtqDw3lO4J7pvOnuqzdxsisROTx3bCSQnut40TogW5GF6wW6rCZB3yWKmxXi_Gi73ekLHlOzmcxWYiMHbkOoiM2I_mfug1n3_2Nz_wQ"
+ },
+ "http://t.me/ycsocialtech": {
+  "url": "http://t.me/ycsocialtech",
+  "domain": "t.me",
+  "ok": true,
+  "title": "Центр технологий для общества Yandex Cloud",
+  "desc": "Реализуем социально значимые проекты в области образования и науки, здравоохранения, экологии и культуры. На канале публикуем свежие новости, анонсы предстоящих событий и проекты Центра. Присоединяйтесь к закрытому комьюнити: https://clck.ru/3SH9gm",
+  "image": "https://cdn4.telesco.pe/file/H3UzjjPyb38NoR_FTfcYO0r_pvJrOaCpbe8xeHm4B3aXQli0fJ74hwEZgXOFddkQB16JPTYAy2OCBS736oOTLbeqjFYqELG6-UNMoa5LRU6n6XkrIj5GYJRyTsIt5ey8VWBtmQS9Njc-CDyu6OXMI-X6FQG31jWX8iaJDuSKn8xen80ynpY4MzSZewxQzjkrL70G4jhZo6FbQYSsMuQSvyZhALlS02qONcnMG_gQe_7Jld_BjbWYmsuNKJloqie-_xoDaiOZ7BnjoXP2OvkbVm0JEcqTzta96zk-PJa2nS-Vw4zruhSGvcszqBnntcVTVsbhNWJIgRqPVo18os4pwg.jpg"
+ },
+ "https://t.me/kristinakuruma": {
+  "url": "https://t.me/kristinakuruma",
+  "domain": "t.me",
+  "ok": true,
+  "title": "KURUMA Daily",
+  "desc": "Дневник телеведущей Instagram.com/kristina_kuruma Связь: i@kkuruma.ru",
+  "image": "https://cdn4.telesco.pe/file/WsK9sKChXcsv5yyElymie9Ei82k2gNJpc_w6qG2LFu4DI-IvAnH5TawrR4UWd2l-8XAXMuJTCNGAw9ccTuj0WAOdITPf_PNb8ZIkhY-S_PQI1zsLqOnr0xvtTfCYmx3bTNAapF8ErAFpGhsml2IUlAIo2GgN8dqnK_CR1m8J5dKEm1ZrmVqC6PvSvBGGHxYPURBC_ouTBzay0O6x33uL_X2pnuelRQcZ5DosdGvar8bpjDCa0FnySx4IWI4Lok_uBqKvSaKmXmHKYs6jSIhMAOufUKXZ97kGW9g0ONvMhK9cp9phN9bTyh7UnJg3nxeHBTUMW22swB_rAlrByO02DQ.jpg"
+ },
+ "https://scale.yandex.cloud/": {
+  "url": "https://scale.yandex.cloud/",
+  "domain": "scale.yandex.cloud",
+  "ok": true,
+  "title": "Yandex",
+  "desc": "Finds everything",
+  "image": "https://yastatic.net/s3/home-static/_/90/9034470dfcb0bea0db29a281007b8a38.png"
+ },
+ "https://runtime.strm.yandex.ru/player/episode/vplemmvxarkv7nxql32f?autoplay=1&mute=1": {
+  "url": "https://runtime.strm.yandex.ru/player/episode/vplemmvxarkv7nxql32f?autoplay=1&mute=1",
+  "domain": "runtime.strm.yandex.ru",
+  "ok": true,
+  "title": "Ð Ð°Ð·Ð³Ð¾Ð²Ð¾Ñ Ð¿ÑÐ¾ ÐÐ Ð¸ ÐµÐ³Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð² Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°Ð½Ð¸Ð¸",
+  "desc": "ÐÑÐ´ÐµÑ Ð¿Ð¾Ð·Ð¶Ðµ",
+  "image": "https://avatars.mds.yandex.net/get-vh/20320691/vplttzauylijkz7xksaf/orig"
+ },
+ "https://habr.com/ru/companies/ods/articles/1078778/": {
+  "url": "https://habr.com/ru/companies/ods/articles/1078778/",
+  "domain": "habr.com",
+  "ok": true,
+  "title": "Обнаружены секретные форумы Роя агентов OpenAI по всему интернету: почему это плохая новость",
+  "desc": "Не успели мы толком оправиться от расследования про Культ Роя внутри OpenAI, как появились новые данные про проделки другой «цивилизации» агентов: на этот раз они общались...",
+  "image": "https://habr.com/share/publication/1078778/0bd8a5043e1df16a85e7d771feb7a1fc/"
+ },
+ "https://www.kommersant.ru/doc/8953503": {
+  "url": "https://www.kommersant.ru/doc/8953503",
+  "domain": "www.kommersant.ru",
+  "ok": true,
+  "title": "Глава Anthropic призвал компании замедлить темпы развития ИИ",
+  "desc": "Подробнее на сайте",
+  "image": "https://iv.kommersant.ru/SocialPics/8953503_49_3203987_1429290547"
+ },
+ "https://yace.yandex.ru/": {
+  "url": "https://yace.yandex.ru/",
+  "domain": "yace.yandex.ru",
+  "ok": true,
+  "title": "Yet another Conference on Education 2026",
+  "desc": "Седьмая конференция Яндекса о людях и технологиях в образовании",
+  "image": "http://yace.yandex.ru/static/social-share-2026.png"
+ },
+ "https://vc.ru/id4616024/2154823-effekt-maksimizatora-skrepok-i-opasnosti-dlya-ii": {
+  "url": "https://vc.ru/id4616024/2154823-effekt-maksimizatora-skrepok-i-opasnosti-dlya-ii",
+  "domain": "vc.ru",
+  "ok": true,
+  "title": "Эффект максимизатора скрепок — опасность узких целей для ИИ — Анжела Богданова на vc.ru",
+  "desc": "Эффект максимизатора скрепок, узкие цели ИИ, проблемы целеполагания, философия технологий, Ник Бостром, безопасность ИИ, экология и человечество",
+  "image": "https://api.vc.ru/v2.9/cover/fb/c/2154823/1794061330/cover.jpg"
+ },
+ "https://xlabs.sourcecraft.site/shwarsmedia/presentations/faculty-vibecoding/": {
+  "url": "https://xlabs.sourcecraft.site/shwarsmedia/presentations/faculty-vibecoding/",
+  "domain": "xlabs.sourcecraft.site",
+  "ok": true,
+  "title": "Вайб-кодинг или агентно-ассистированное программирование"
  }
 }
